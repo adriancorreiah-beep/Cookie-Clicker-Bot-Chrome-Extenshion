@@ -1,0 +1,1894 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "Cookie Clicker Wiki scraped page text supplied by user",
+  "generatedDate": "2026-06-01",
+  "slug": "wrinkler",
+  "title": "Wrinkler",
+  "sourceFile": "web_page_text (8).txt",
+  "categories": [
+    "Wrinklers",
+    "Interactive Objects"
+  ],
+  "articleStartLine": 33,
+  "articleEndLine": 261,
+  "contents": [
+    "Overview",
+    "CpS multiplier",
+    "Spawn Rate",
+    "Seasons",
+    "Halloween",
+    "Christmas",
+    "Easter",
+    "Upgrades",
+    "Achievements",
+    "Trivia",
+    "See also"
+  ],
+  "articleLines": [
+    {
+      "lineNumber": 34,
+      "text": "14 Wrinklers around the Big Cookie; the max as of 2.052"
+    },
+    {
+      "lineNumber": 36,
+      "text": "A wrinkler with Scary Stuff turned on."
+    },
+    {
+      "lineNumber": 38,
+      "text": "A wrinkler with Scary Stuff turned off."
+    },
+    {
+      "lineNumber": 40,
+      "text": "Wrinklers are twitchy leech-like creatures that, in normal gameplay, only start to appear during the Grandmapocalypse. While they at first appear to reduce CpS (cookies per second), they actually provide a massive boost to cookie production in the long run."
+    },
+    {
+      "lineNumber": 42,
+      "text": "There is a 0.01% chance a Shiny Wrinkler will spawn instead of a normal wrinkler."
+    },
+    {
+      "lineNumber": 44,
+      "text": "There is a 0.01% chance upon starting the game that all wrinklers will be replaced with winklers."
+    },
+    {
+      "lineNumber": 46,
+      "text": "With the \"Scary Stuff\" option turned off, the wrinklers will have googly eyes placed overtop of their eyes."
+    },
+    {
+      "lineNumber": 48,
+      "text": "Contents"
+    },
+    {
+      "lineNumber": 49,
+      "text": "1\tOverview"
+    },
+    {
+      "lineNumber": 50,
+      "text": "2\tCpS multiplier"
+    },
+    {
+      "lineNumber": 51,
+      "text": "3\tSpawn Rate"
+    },
+    {
+      "lineNumber": 52,
+      "text": "4\tSeasons"
+    },
+    {
+      "lineNumber": 53,
+      "text": "4.1\tHalloween"
+    },
+    {
+      "lineNumber": 54,
+      "text": "4.2\tChristmas"
+    },
+    {
+      "lineNumber": 55,
+      "text": "4.3\tEaster"
+    },
+    {
+      "lineNumber": 56,
+      "text": "5\tUpgrades"
+    },
+    {
+      "lineNumber": 57,
+      "text": "6\tAchievements"
+    },
+    {
+      "lineNumber": 58,
+      "text": "7\tTrivia"
+    },
+    {
+      "lineNumber": 59,
+      "text": "8\tSee also"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Overview"
+    },
+    {
+      "lineNumber": 62,
+      "text": "Ten wrinklers feeding off the Big Cookie."
+    },
+    {
+      "lineNumber": 64,
+      "text": "Twelve wrinklers at the Big Cookie."
+    },
+    {
+      "lineNumber": 67,
+      "text": "A wrinkler can be popped, or exploded, by being clicked three consecutive times. The game hints at this property by having a wrinkler continuously shake when hovered over, and in the Grimoire as a backfire in the Ressurect Abomination spell. When exploded, it will drop 1.1 × the total number of cookies withered during its lifespan and may unlock seasonal upgrades. While offline, wrinklers are dormant, and do not wither CpS or collect cookies. The stats menu displays how much of the current CpS is being withered, as well as the number of popped wrinklers in the current ascension. If a wrinkler is popped before reaching the big cookie, it will not drop any cookies or upgrades, but will count towards the \"Wrinklers Popped\" statistic."
+    },
+    {
+      "lineNumber": 69,
+      "text": "If the Grandmatriarchs are appeased, whether via Elder Pledge, Elder Covenant, or by selling all grandmas, all the wrinklers on the screen will automatically be exploded, and will not begin to appear again unless the Grandmapocalypse is restarted."
+    },
+    {
+      "lineNumber": 71,
+      "text": "CpS multiplier"
+    },
+    {
+      "lineNumber": 73,
+      "text": "Because wrinklers store a percentage of the total wither rate, each additional wrinkler adds a larger bonus than the previous one. The net increase in CpS is 0.5% with one wrinkler, rising to 1008% with a maximum of fourteen. The fourteenth wrinkler alone increases net CpS by more than 143% of the pre-wrinkler base value."
+    },
+    {
+      "lineNumber": 75,
+      "text": "To calculate the effective CpS multiplier, assuming N wrinklers present, the formula consists of:"
+    },
+    {
+      "lineNumber": 77,
+      "text": "(withered CPS for each wrinkler. Each wrinkler hoards 5% times number of wrinklers present. Hoarded cookies are then amplified by a flat factor of 1.1 (10% gain after popping), an additional 1.05 (5% more cookies) with the Easter Season Wrinklerspawn upgrade and additional 1.05 with the Heavenly Sacrilegious corruption upgrade.)"
+    },
+    {
+      "lineNumber": 78,
+      "text": "(Remaining unwithered CPS)"
+    },
+    {
+      "lineNumber": 80,
+      "text": "Put together, this is:"
+    },
+    {
+      "lineNumber": 82,
+      "text": "without wrinkler upgrades."
+    },
+    {
+      "lineNumber": 83,
+      "text": "with 1 wrinkler upgrade."
+    },
+    {
+      "lineNumber": 84,
+      "text": "with both wrinkler upgrades."
+    },
+    {
+      "lineNumber": 86,
+      "text": "From the above formula, we can draw the following CpS conclusion:"
+    },
+    {
+      "lineNumber": 88,
+      "text": "No. wrinklers\tCpS Multiplier\tCpS Multiplier with one of: \"Wrinklerspawn\" or \"Sacrilegious corruption\"\tCpS Multiplier with both: \"Wrinklerspawn\" and \"Sacrilegious corruption\""
+    },
+    {
+      "lineNumber": 89,
+      "text": "0\t1\t1\t1"
+    },
+    {
+      "lineNumber": 90,
+      "text": "1\t1.005\t1.00775\t1.0106375"
+    },
+    {
+      "lineNumber": 91,
+      "text": "2\t1.12\t1.131\t1.14255"
+    },
+    {
+      "lineNumber": 92,
+      "text": "3\t1.345\t1.36975\t1.3957375"
+    },
+    {
+      "lineNumber": 93,
+      "text": "4\t1.68\t1.724\t1.7702"
+    },
+    {
+      "lineNumber": 94,
+      "text": "5\t2.125\t2.19375\t2.2659375"
+    },
+    {
+      "lineNumber": 95,
+      "text": "6\t2.68\t2.779\t2.88295"
+    },
+    {
+      "lineNumber": 96,
+      "text": "7\t3.345\t3.47975\t3.6212375"
+    },
+    {
+      "lineNumber": 97,
+      "text": "8\t4.12\t4.296\t4.4808"
+    },
+    {
+      "lineNumber": 98,
+      "text": "9\t5.005\t5.22775\t5.4616375"
+    },
+    {
+      "lineNumber": 99,
+      "text": "10\t6\t6.275\t6.56375"
+    },
+    {
+      "lineNumber": 100,
+      "text": "11\t7.105\t7.43775\t7.7871375"
+    },
+    {
+      "lineNumber": 101,
+      "text": "12\t8.32\t8.716\t9.1318"
+    },
+    {
+      "lineNumber": 102,
+      "text": "13\t9.645\t10.10975\t10.5977375"
+    },
+    {
+      "lineNumber": 103,
+      "text": "14\t11.08\t11.619\t12.18495"
+    },
+    {
+      "lineNumber": 106,
+      "text": "As an additional note, on the web version of Cookie Clicker, wrinklers and shiny wrinklers, respectively, will pool and evenly distribute how many cookies they have consumed after reloading. For instance, if you have 1 wrinkler who has consumed 100 cookies, and a second who has consumed 50, after reloading the page, both will have consumed 75."
+    },
+    {
+      "lineNumber": 108,
+      "text": "Spawn Rate"
+    },
+    {
+      "lineNumber": 110,
+      "text": "Each empty wrinkler slot has a (re-) spawn rate of 0.001% (0.005% with \"Unholy bait\") per Grandmapocalypse stage per frame (the usual framerate is 30 fps). The Skruuia, Spirit of Scorn and Garden plants can also alter the rate."
+    },
+    {
+      "lineNumber": 112,
+      "text": "factor"
+    },
+    {
+      "lineNumber": 113,
+      "text": "Grandmapocalypse stage\t1/2/3 (One Mind/Communal Brainsweep/Elder Pact)"
+    },
+    {
+      "lineNumber": 114,
+      "text": "Unholy bait\t5"
+    },
+    {
+      "lineNumber": 115,
+      "text": "Skruuia, Spirit of Scorn\t2.5/2/1.5 (Diamond/Ruby/Jade)"
+    },
+    {
+      "lineNumber": 116,
+      "text": "Elder Spice\t+2 wrinkler slots (indirectly boosts spawn rate)"
+    },
+    {
+      "lineNumber": 117,
+      "text": "Dragon Guts\t+2 wrinkler slots (indirectly boosts spawn rate)"
+    },
+    {
+      "lineNumber": 118,
+      "text": "Garden plants"
+    },
+    {
+      "lineNumber": 120,
+      "text": "1-(1-0.85^WA)+0.02WR"
+    },
+    {
+      "lineNumber": 121,
+      "text": "WA = # of Wardlichen"
+    },
+    {
+      "lineNumber": 122,
+      "text": "WR = # of Wrinklegill"
+    },
+    {
+      "lineNumber": 124,
+      "text": "For example, if you have unholy bait and 3 Wardlichens in the garden when in Communal Brainsweep stage, the spawn rate will be r= 0.001% * 2 * (1-0.15*3) = 0.0011%."
+    },
+    {
+      "lineNumber": 126,
+      "text": "On average, collecting all 12 wrinklers takes:"
+    },
+    {
+      "lineNumber": 128,
+      "text": "1"
+    },
+    {
+      "lineNumber": 129,
+      "text": "𝑟"
+    },
+    {
+      "lineNumber": 130,
+      "text": "∑"
+    },
+    {
+      "lineNumber": 131,
+      "text": "𝑘"
+    },
+    {
+      "lineNumber": 132,
+      "text": "="
+    },
+    {
+      "lineNumber": 133,
+      "text": "1"
+    },
+    {
+      "lineNumber": 134,
+      "text": "12"
+    },
+    {
+      "lineNumber": 135,
+      "text": "1"
+    },
+    {
+      "lineNumber": 136,
+      "text": "𝑘"
+    },
+    {
+      "lineNumber": 137,
+      "text": "="
+    },
+    {
+      "lineNumber": 138,
+      "text": "1"
+    },
+    {
+      "lineNumber": 139,
+      "text": "𝑟"
+    },
+    {
+      "lineNumber": 140,
+      "text": "86021"
+    },
+    {
+      "lineNumber": 141,
+      "text": "27720"
+    },
+    {
+      "lineNumber": 142,
+      "text": "frames"
+    },
+    {
+      "lineNumber": 144,
+      "text": "≈"
+    },
+    {
+      "lineNumber": 145,
+      "text": "0.10344"
+    },
+    {
+      "lineNumber": 146,
+      "text": "𝑟"
+    },
+    {
+      "lineNumber": 147,
+      "text": "seconds"
+    },
+    {
+      "lineNumber": 149,
+      "text": "On average, it takes 57 minutes and 28 seconds (11 minutes 30 seconds with \"Unholy bait\") for all 12 Elder Pact (speedup factor is 3) wrinklers to spawn, from a starting point of 0 wrinklers. For Communal Brainsweep, it takes 3/2 of that time, about 86 minutes (17 with \"Unholy bait\"). For One mind this is three times as long, which is about 172 minutes (34 with \"Unholy bait\")."
+    },
+    {
+      "lineNumber": 150,
+      "text": "Seasons"
+    },
+    {
+      "lineNumber": 151,
+      "text": "Halloween"
+    },
+    {
+      "lineNumber": 153,
+      "text": "Main article: Halloween Season"
+    },
+    {
+      "lineNumber": 155,
+      "text": "Halloween Cookies are unlocked randomly during the Halloween season by popping wrinklers. The unlock rate is 5% to 91% depending on achievements, upgrades, dragon auras, heavenly upgrades, pantheon gods, garden plants, and wrinkler type (normal or shiny)."
+    },
+    {
+      "lineNumber": 157,
+      "text": "Christmas"
+    },
+    {
+      "lineNumber": 159,
+      "text": "Main article: Christmas Season"
+    },
+    {
+      "lineNumber": 161,
+      "text": "A wrinkler during the Christmas season"
+    },
+    {
+      "lineNumber": 163,
+      "text": "The appearance of wrinklers change during Christmas season, but shiny wrinklers don't change."
+    },
+    {
+      "lineNumber": 165,
+      "text": "Easter"
+    },
+    {
+      "lineNumber": 167,
+      "text": "Main article: Easter Season"
+    },
+    {
+      "lineNumber": 169,
+      "text": "All Easter upgrades are egg based in theme and can be unlocked randomly when clicking a Golden Cookie or Wrath Cookie, or by popping a wrinkler. At base, a Golden/Wrath Cookie has a 10% chance to unlock an egg and a wrinkler has a 2% chance to unlock an egg. Achievements, upgrades, dragon auras, heavenly upgrades, pantheon gods, and garden plants all increase the chance to unlock an egg."
+    },
+    {
+      "lineNumber": 171,
+      "text": "Upgrades"
+    },
+    {
+      "lineNumber": 173,
+      "text": "Icon\tName\tUnlock condition\tBase price\tDescription\tID"
+    },
+    {
+      "lineNumber": 176,
+      "text": "Wrinklerspawn\t\"Rare\" egg"
+    },
+    {
+      "lineNumber": 177,
+      "text": "(see Probabilities)\t 999 x 3E\tWrinklers explode into 5% more cookies."
+    },
+    {
+      "lineNumber": 178,
+      "text": "Cost scales with how many eggs you own."
+    },
+    {
+      "lineNumber": 179,
+      "text": "\"Look at this little guy! It's going to be a big boy someday! Yes it is!\"\t224"
+    },
+    {
+      "lineNumber": 182,
+      "text": "Wrinkler ambergris\t0.01% chance of dropping after popping a Wrinkler or 0.1% chance for a Shiny Wrinkler [note 1]\t 3,600 x CpS"
+    },
+    {
+      "lineNumber": 183,
+      "text": "(Min: 1 million)\tCookie production multiplier +6%."
+    },
+    {
+      "lineNumber": 184,
+      "text": "All upgrades are 1% cheaper."
+    },
+    {
+      "lineNumber": 185,
+      "text": "Cost scales with CpS."
+    },
+    {
+      "lineNumber": 186,
+      "text": "\"Occasionally regurgitated by wrinklers."
+    },
+    {
+      "lineNumber": 187,
+      "text": "The byproduct of some obscure metabolic process or other, it is as rare and precious as it is pungent."
+    },
+    {
+      "lineNumber": 188,
+      "text": "Makes for a great toast spread.\"\t875"
+    },
+    {
+      "lineNumber": 191,
+      "text": "Unholy bait"
+    },
+    {
+      "lineNumber": 192,
+      "text": "(heavenly upgrade)\t\"Starter kitchen\" purchased\t 44,444\tWrinklers appear 5 times as fast."
+    },
+    {
+      "lineNumber": 193,
+      "text": "\"No wrinkler can resist the scent of worm biscuits.\"\t292"
+    },
+    {
+      "lineNumber": 196,
+      "text": "Sacrilegious corruption"
+    },
+    {
+      "lineNumber": 197,
+      "text": "(heavenly upgrade)\t\"Unholy bait\" purchased\t 444,444\tWrinklers regurgitate 5% more cookies."
+    },
+    {
+      "lineNumber": 198,
+      "text": "\"Unique in the animal kingdom, the wrinkler digestive tract is able to withstand an incredible degree of dilatation - provided you prod them appropriately.\"\t293"
+    },
+    {
+      "lineNumber": 201,
+      "text": "Elder spice"
+    },
+    {
+      "lineNumber": 202,
+      "text": "(heavenly upgrade)\t\"Unholy bait\" purchased\t 444,444\tYou can attract 2 more wrinklers."
+    },
+    {
+      "lineNumber": 203,
+      "text": "\"The cookie your cookie could smell like.\"\t364"
+    },
+    {
+      "lineNumber": 206,
+      "text": "Eye of the wrinkler"
+    },
+    {
+      "lineNumber": 207,
+      "text": "(heavenly upgrade)\t\"Wrinkly cookies\" purchased\t 100 million\tMouse over a wrinkler to see how many cookies are in its stomach."
+    },
+    {
+      "lineNumber": 208,
+      "text": "\"Just a wrinkler and its will to survive."
+    },
+    {
+      "lineNumber": 209,
+      "text": "Hangin' tough, stayin' hungry.\"\t495"
+    },
+    {
+      "lineNumber": 210,
+      "text": "↑ Once this upgrade is unlocked, all future ascensions will have it immediately available for purchase from the store."
+    },
+    {
+      "lineNumber": 211,
+      "text": "Achievements"
+    },
+    {
+      "lineNumber": 212,
+      "text": "Icon\tName\tDescription\tID"
+    },
+    {
+      "lineNumber": 213,
+      "text": "Wrinkler poker\tPoke a wrinkler 50 times without killing it."
+    },
+    {
+      "lineNumber": 214,
+      "text": "\"Also the name of a card game popular in retirement homes.\"\t598"
+    },
+    {
+      "lineNumber": 215,
+      "text": "Itchscratcher\tBurst 1 wrinkler.\t105"
+    },
+    {
+      "lineNumber": 216,
+      "text": "Wrinklesquisher [note 1]\tBurst 50 wrinklers.\t106"
+    },
+    {
+      "lineNumber": 217,
+      "text": "Moistburster [note 1]\tBurst 200 wrinklers.\t107"
+    },
+    {
+      "lineNumber": 218,
+      "text": "Last Chance to See"
+    },
+    {
+      "lineNumber": 219,
+      "text": "(shadow achievement)\tBurst the near-extinct shiny wrinkler."
+    },
+    {
+      "lineNumber": 220,
+      "text": "\"You monster!\"\t262"
+    },
+    {
+      "lineNumber": 221,
+      "text": "↑"
+    },
+    {
+      "lineNumber": 222,
+      "text": "Jump up to:"
+    },
+    {
+      "lineNumber": 223,
+      "text": "1.0 1.1 Unlike most \"number of actions\" achievements, the Wrinkler and Reindeer achievements are counted in a single game, not all time: Ascending will reset the counter."
+    },
+    {
+      "lineNumber": 225,
+      "text": "To help keep track of how many wrinklers you have popped, go in the \"Stats\" section, then look under \"Special\"."
+    },
+    {
+      "lineNumber": 227,
+      "text": "Trivia"
+    },
+    {
+      "lineNumber": 228,
+      "text": "In the game's code, next to the code that tells the wrinklers to return 110% of their withered cookies is the comment \"cookie dough does weird things inside wrinkler digestive tracts\"."
+    },
+    {
+      "lineNumber": 229,
+      "text": "The \"Moistburster\" achievement is a reference to the Alien Franchise's Chestburster."
+    },
+    {
+      "lineNumber": 230,
+      "text": "The \"Last Chance To See\" achievement is a reference to the book and radio documentary series about species extinction by novelist Douglas Adams and zoologist Mark Cawardine. There is also BBC television series that followed."
+    },
+    {
+      "lineNumber": 231,
+      "text": "Prior to the v1.0453 update, Wrinklers disappeared when you closed the Cookie Clicker window or exited the browser."
+    },
+    {
+      "lineNumber": 232,
+      "text": "The wrinkler may be a reference to the Mosquito Larvae or the Wriggler."
+    },
+    {
+      "lineNumber": 233,
+      "text": "The \"Eye of the Wrinkler\" description is a reference to the song \"Eye Of The Tiger.\""
+    },
+    {
+      "lineNumber": 234,
+      "text": "When the option \"Scary Mode\" turned off, wrinklers will occasionally blink."
+    },
+    {
+      "lineNumber": 235,
+      "text": "Wrinklers will begin to shake when your mouse is over them."
+    },
+    {
+      "lineNumber": 236,
+      "text": "See also"
+    },
+    {
+      "lineNumber": 237,
+      "text": "Shiny Wrinklers"
+    },
+    {
+      "lineNumber": 238,
+      "text": "Winklers"
+    },
+    {
+      "lineNumber": 239,
+      "text": "Interactive Objects"
+    },
+    {
+      "lineNumber": 241,
+      "text": "Big Cookie"
+    },
+    {
+      "lineNumber": 242,
+      "text": "Golden Cookie"
+    },
+    {
+      "lineNumber": 243,
+      "text": "Wrath Cookie"
+    },
+    {
+      "lineNumber": 245,
+      "text": "Wrinkler"
+    },
+    {
+      "lineNumber": 246,
+      "text": "Reindeer"
+    },
+    {
+      "lineNumber": 247,
+      "text": "Santa"
+    },
+    {
+      "lineNumber": 248,
+      "text": "Krumblor"
+    },
+    {
+      "lineNumber": 249,
+      "text": "Shiny wrinkler"
+    },
+    {
+      "lineNumber": 250,
+      "text": "Category:Interactive Objects"
+    },
+    {
+      "lineNumber": 251,
+      "text": "This box: view • talk • edit"
+    },
+    {
+      "lineNumber": 252,
+      "text": "This box: view • talk • edit"
+    },
+    {
+      "lineNumber": 253,
+      "text": "Cookie Clicker game mechanics"
+    },
+    {
+      "lineNumber": 254,
+      "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 255,
+      "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 256,
+      "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 257,
+      "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 258,
+      "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 259,
+      "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 260,
+      "text": "Further reading\tGameplay"
+    },
+    {
+      "lineNumber": 261,
+      "text": "Categories"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Overview",
+      "lineNumber": 60,
+      "lines": [
+        {
+          "lineNumber": 62,
+          "text": "Ten wrinklers feeding off the Big Cookie."
+        },
+        {
+          "lineNumber": 64,
+          "text": "Twelve wrinklers at the Big Cookie."
+        },
+        {
+          "lineNumber": 67,
+          "text": "A wrinkler can be popped, or exploded, by being clicked three consecutive times. The game hints at this property by having a wrinkler continuously shake when hovered over, and in the Grimoire as a backfire in the Ressurect Abomination spell. When exploded, it will drop 1.1 × the total number of cookies withered during its lifespan and may unlock seasonal upgrades. While offline, wrinklers are dormant, and do not wither CpS or collect cookies. The stats menu displays how much of the current CpS is being withered, as well as the number of popped wrinklers in the current ascension. If a wrinkler is popped before reaching the big cookie, it will not drop any cookies or upgrades, but will count towards the \"Wrinklers Popped\" statistic."
+        },
+        {
+          "lineNumber": 69,
+          "text": "If the Grandmatriarchs are appeased, whether via Elder Pledge, Elder Covenant, or by selling all grandmas, all the wrinklers on the screen will automatically be exploded, and will not begin to appear again unless the Grandmapocalypse is restarted."
+        }
+      ]
+    },
+    {
+      "heading": "CpS multiplier",
+      "lineNumber": 71,
+      "lines": [
+        {
+          "lineNumber": 73,
+          "text": "Because wrinklers store a percentage of the total wither rate, each additional wrinkler adds a larger bonus than the previous one. The net increase in CpS is 0.5% with one wrinkler, rising to 1008% with a maximum of fourteen. The fourteenth wrinkler alone increases net CpS by more than 143% of the pre-wrinkler base value."
+        },
+        {
+          "lineNumber": 75,
+          "text": "To calculate the effective CpS multiplier, assuming N wrinklers present, the formula consists of:"
+        },
+        {
+          "lineNumber": 77,
+          "text": "(withered CPS for each wrinkler. Each wrinkler hoards 5% times number of wrinklers present. Hoarded cookies are then amplified by a flat factor of 1.1 (10% gain after popping), an additional 1.05 (5% more cookies) with the Easter Season Wrinklerspawn upgrade and additional 1.05 with the Heavenly Sacrilegious corruption upgrade.)"
+        },
+        {
+          "lineNumber": 78,
+          "text": "(Remaining unwithered CPS)"
+        },
+        {
+          "lineNumber": 80,
+          "text": "Put together, this is:"
+        },
+        {
+          "lineNumber": 82,
+          "text": "without wrinkler upgrades."
+        },
+        {
+          "lineNumber": 83,
+          "text": "with 1 wrinkler upgrade."
+        },
+        {
+          "lineNumber": 84,
+          "text": "with both wrinkler upgrades."
+        },
+        {
+          "lineNumber": 86,
+          "text": "From the above formula, we can draw the following CpS conclusion:"
+        },
+        {
+          "lineNumber": 88,
+          "text": "No. wrinklers\tCpS Multiplier\tCpS Multiplier with one of: \"Wrinklerspawn\" or \"Sacrilegious corruption\"\tCpS Multiplier with both: \"Wrinklerspawn\" and \"Sacrilegious corruption\""
+        },
+        {
+          "lineNumber": 89,
+          "text": "0\t1\t1\t1"
+        },
+        {
+          "lineNumber": 90,
+          "text": "1\t1.005\t1.00775\t1.0106375"
+        },
+        {
+          "lineNumber": 91,
+          "text": "2\t1.12\t1.131\t1.14255"
+        },
+        {
+          "lineNumber": 92,
+          "text": "3\t1.345\t1.36975\t1.3957375"
+        },
+        {
+          "lineNumber": 93,
+          "text": "4\t1.68\t1.724\t1.7702"
+        },
+        {
+          "lineNumber": 94,
+          "text": "5\t2.125\t2.19375\t2.2659375"
+        },
+        {
+          "lineNumber": 95,
+          "text": "6\t2.68\t2.779\t2.88295"
+        },
+        {
+          "lineNumber": 96,
+          "text": "7\t3.345\t3.47975\t3.6212375"
+        },
+        {
+          "lineNumber": 97,
+          "text": "8\t4.12\t4.296\t4.4808"
+        },
+        {
+          "lineNumber": 98,
+          "text": "9\t5.005\t5.22775\t5.4616375"
+        },
+        {
+          "lineNumber": 99,
+          "text": "10\t6\t6.275\t6.56375"
+        },
+        {
+          "lineNumber": 100,
+          "text": "11\t7.105\t7.43775\t7.7871375"
+        },
+        {
+          "lineNumber": 101,
+          "text": "12\t8.32\t8.716\t9.1318"
+        },
+        {
+          "lineNumber": 102,
+          "text": "13\t9.645\t10.10975\t10.5977375"
+        },
+        {
+          "lineNumber": 103,
+          "text": "14\t11.08\t11.619\t12.18495"
+        },
+        {
+          "lineNumber": 106,
+          "text": "As an additional note, on the web version of Cookie Clicker, wrinklers and shiny wrinklers, respectively, will pool and evenly distribute how many cookies they have consumed after reloading. For instance, if you have 1 wrinkler who has consumed 100 cookies, and a second who has consumed 50, after reloading the page, both will have consumed 75."
+        }
+      ]
+    },
+    {
+      "heading": "Spawn Rate",
+      "lineNumber": 108,
+      "lines": [
+        {
+          "lineNumber": 110,
+          "text": "Each empty wrinkler slot has a (re-) spawn rate of 0.001% (0.005% with \"Unholy bait\") per Grandmapocalypse stage per frame (the usual framerate is 30 fps). The Skruuia, Spirit of Scorn and Garden plants can also alter the rate."
+        },
+        {
+          "lineNumber": 112,
+          "text": "factor"
+        },
+        {
+          "lineNumber": 113,
+          "text": "Grandmapocalypse stage\t1/2/3 (One Mind/Communal Brainsweep/Elder Pact)"
+        },
+        {
+          "lineNumber": 114,
+          "text": "Unholy bait\t5"
+        },
+        {
+          "lineNumber": 115,
+          "text": "Skruuia, Spirit of Scorn\t2.5/2/1.5 (Diamond/Ruby/Jade)"
+        },
+        {
+          "lineNumber": 116,
+          "text": "Elder Spice\t+2 wrinkler slots (indirectly boosts spawn rate)"
+        },
+        {
+          "lineNumber": 117,
+          "text": "Dragon Guts\t+2 wrinkler slots (indirectly boosts spawn rate)"
+        },
+        {
+          "lineNumber": 118,
+          "text": "Garden plants"
+        },
+        {
+          "lineNumber": 120,
+          "text": "1-(1-0.85^WA)+0.02WR"
+        },
+        {
+          "lineNumber": 121,
+          "text": "WA = # of Wardlichen"
+        },
+        {
+          "lineNumber": 122,
+          "text": "WR = # of Wrinklegill"
+        },
+        {
+          "lineNumber": 124,
+          "text": "For example, if you have unholy bait and 3 Wardlichens in the garden when in Communal Brainsweep stage, the spawn rate will be r= 0.001% * 2 * (1-0.15*3) = 0.0011%."
+        },
+        {
+          "lineNumber": 126,
+          "text": "On average, collecting all 12 wrinklers takes:"
+        },
+        {
+          "lineNumber": 128,
+          "text": "1"
+        },
+        {
+          "lineNumber": 129,
+          "text": "𝑟"
+        },
+        {
+          "lineNumber": 130,
+          "text": "∑"
+        },
+        {
+          "lineNumber": 131,
+          "text": "𝑘"
+        },
+        {
+          "lineNumber": 132,
+          "text": "="
+        },
+        {
+          "lineNumber": 133,
+          "text": "1"
+        },
+        {
+          "lineNumber": 134,
+          "text": "12"
+        },
+        {
+          "lineNumber": 135,
+          "text": "1"
+        },
+        {
+          "lineNumber": 136,
+          "text": "𝑘"
+        },
+        {
+          "lineNumber": 137,
+          "text": "="
+        },
+        {
+          "lineNumber": 138,
+          "text": "1"
+        },
+        {
+          "lineNumber": 139,
+          "text": "𝑟"
+        },
+        {
+          "lineNumber": 140,
+          "text": "86021"
+        },
+        {
+          "lineNumber": 141,
+          "text": "27720"
+        },
+        {
+          "lineNumber": 142,
+          "text": "frames"
+        },
+        {
+          "lineNumber": 144,
+          "text": "≈"
+        },
+        {
+          "lineNumber": 145,
+          "text": "0.10344"
+        },
+        {
+          "lineNumber": 146,
+          "text": "𝑟"
+        },
+        {
+          "lineNumber": 147,
+          "text": "seconds"
+        },
+        {
+          "lineNumber": 149,
+          "text": "On average, it takes 57 minutes and 28 seconds (11 minutes 30 seconds with \"Unholy bait\") for all 12 Elder Pact (speedup factor is 3) wrinklers to spawn, from a starting point of 0 wrinklers. For Communal Brainsweep, it takes 3/2 of that time, about 86 minutes (17 with \"Unholy bait\"). For One mind this is three times as long, which is about 172 minutes (34 with \"Unholy bait\")."
+        }
+      ]
+    },
+    {
+      "heading": "Seasons",
+      "lineNumber": 150,
+      "lines": []
+    },
+    {
+      "heading": "Halloween",
+      "lineNumber": 151,
+      "lines": [
+        {
+          "lineNumber": 153,
+          "text": "Main article: Halloween Season"
+        },
+        {
+          "lineNumber": 155,
+          "text": "Halloween Cookies are unlocked randomly during the Halloween season by popping wrinklers. The unlock rate is 5% to 91% depending on achievements, upgrades, dragon auras, heavenly upgrades, pantheon gods, garden plants, and wrinkler type (normal or shiny)."
+        }
+      ]
+    },
+    {
+      "heading": "Christmas",
+      "lineNumber": 157,
+      "lines": [
+        {
+          "lineNumber": 159,
+          "text": "Main article: Christmas Season"
+        },
+        {
+          "lineNumber": 161,
+          "text": "A wrinkler during the Christmas season"
+        },
+        {
+          "lineNumber": 163,
+          "text": "The appearance of wrinklers change during Christmas season, but shiny wrinklers don't change."
+        }
+      ]
+    },
+    {
+      "heading": "Easter",
+      "lineNumber": 165,
+      "lines": [
+        {
+          "lineNumber": 167,
+          "text": "Main article: Easter Season"
+        },
+        {
+          "lineNumber": 169,
+          "text": "All Easter upgrades are egg based in theme and can be unlocked randomly when clicking a Golden Cookie or Wrath Cookie, or by popping a wrinkler. At base, a Golden/Wrath Cookie has a 10% chance to unlock an egg and a wrinkler has a 2% chance to unlock an egg. Achievements, upgrades, dragon auras, heavenly upgrades, pantheon gods, and garden plants all increase the chance to unlock an egg."
+        }
+      ]
+    },
+    {
+      "heading": "Upgrades",
+      "lineNumber": 171,
+      "lines": [
+        {
+          "lineNumber": 173,
+          "text": "Icon\tName\tUnlock condition\tBase price\tDescription\tID"
+        },
+        {
+          "lineNumber": 176,
+          "text": "Wrinklerspawn\t\"Rare\" egg"
+        },
+        {
+          "lineNumber": 177,
+          "text": "(see Probabilities)\t 999 x 3E\tWrinklers explode into 5% more cookies."
+        },
+        {
+          "lineNumber": 178,
+          "text": "Cost scales with how many eggs you own."
+        },
+        {
+          "lineNumber": 179,
+          "text": "\"Look at this little guy! It's going to be a big boy someday! Yes it is!\"\t224"
+        },
+        {
+          "lineNumber": 182,
+          "text": "Wrinkler ambergris\t0.01% chance of dropping after popping a Wrinkler or 0.1% chance for a Shiny Wrinkler [note 1]\t 3,600 x CpS"
+        },
+        {
+          "lineNumber": 183,
+          "text": "(Min: 1 million)\tCookie production multiplier +6%."
+        },
+        {
+          "lineNumber": 184,
+          "text": "All upgrades are 1% cheaper."
+        },
+        {
+          "lineNumber": 185,
+          "text": "Cost scales with CpS."
+        },
+        {
+          "lineNumber": 186,
+          "text": "\"Occasionally regurgitated by wrinklers."
+        },
+        {
+          "lineNumber": 187,
+          "text": "The byproduct of some obscure metabolic process or other, it is as rare and precious as it is pungent."
+        },
+        {
+          "lineNumber": 188,
+          "text": "Makes for a great toast spread.\"\t875"
+        },
+        {
+          "lineNumber": 191,
+          "text": "Unholy bait"
+        },
+        {
+          "lineNumber": 192,
+          "text": "(heavenly upgrade)\t\"Starter kitchen\" purchased\t 44,444\tWrinklers appear 5 times as fast."
+        },
+        {
+          "lineNumber": 193,
+          "text": "\"No wrinkler can resist the scent of worm biscuits.\"\t292"
+        },
+        {
+          "lineNumber": 196,
+          "text": "Sacrilegious corruption"
+        },
+        {
+          "lineNumber": 197,
+          "text": "(heavenly upgrade)\t\"Unholy bait\" purchased\t 444,444\tWrinklers regurgitate 5% more cookies."
+        },
+        {
+          "lineNumber": 198,
+          "text": "\"Unique in the animal kingdom, the wrinkler digestive tract is able to withstand an incredible degree of dilatation - provided you prod them appropriately.\"\t293"
+        },
+        {
+          "lineNumber": 201,
+          "text": "Elder spice"
+        },
+        {
+          "lineNumber": 202,
+          "text": "(heavenly upgrade)\t\"Unholy bait\" purchased\t 444,444\tYou can attract 2 more wrinklers."
+        },
+        {
+          "lineNumber": 203,
+          "text": "\"The cookie your cookie could smell like.\"\t364"
+        },
+        {
+          "lineNumber": 206,
+          "text": "Eye of the wrinkler"
+        },
+        {
+          "lineNumber": 207,
+          "text": "(heavenly upgrade)\t\"Wrinkly cookies\" purchased\t 100 million\tMouse over a wrinkler to see how many cookies are in its stomach."
+        },
+        {
+          "lineNumber": 208,
+          "text": "\"Just a wrinkler and its will to survive."
+        },
+        {
+          "lineNumber": 209,
+          "text": "Hangin' tough, stayin' hungry.\"\t495"
+        },
+        {
+          "lineNumber": 210,
+          "text": "↑ Once this upgrade is unlocked, all future ascensions will have it immediately available for purchase from the store."
+        }
+      ]
+    },
+    {
+      "heading": "Achievements",
+      "lineNumber": 211,
+      "lines": [
+        {
+          "lineNumber": 212,
+          "text": "Icon\tName\tDescription\tID"
+        },
+        {
+          "lineNumber": 213,
+          "text": "Wrinkler poker\tPoke a wrinkler 50 times without killing it."
+        },
+        {
+          "lineNumber": 214,
+          "text": "\"Also the name of a card game popular in retirement homes.\"\t598"
+        },
+        {
+          "lineNumber": 215,
+          "text": "Itchscratcher\tBurst 1 wrinkler.\t105"
+        },
+        {
+          "lineNumber": 216,
+          "text": "Wrinklesquisher [note 1]\tBurst 50 wrinklers.\t106"
+        },
+        {
+          "lineNumber": 217,
+          "text": "Moistburster [note 1]\tBurst 200 wrinklers.\t107"
+        },
+        {
+          "lineNumber": 218,
+          "text": "Last Chance to See"
+        },
+        {
+          "lineNumber": 219,
+          "text": "(shadow achievement)\tBurst the near-extinct shiny wrinkler."
+        },
+        {
+          "lineNumber": 220,
+          "text": "\"You monster!\"\t262"
+        },
+        {
+          "lineNumber": 221,
+          "text": "↑"
+        },
+        {
+          "lineNumber": 222,
+          "text": "Jump up to:"
+        },
+        {
+          "lineNumber": 223,
+          "text": "1.0 1.1 Unlike most \"number of actions\" achievements, the Wrinkler and Reindeer achievements are counted in a single game, not all time: Ascending will reset the counter."
+        },
+        {
+          "lineNumber": 225,
+          "text": "To help keep track of how many wrinklers you have popped, go in the \"Stats\" section, then look under \"Special\"."
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "lineNumber": 227,
+      "lines": [
+        {
+          "lineNumber": 228,
+          "text": "In the game's code, next to the code that tells the wrinklers to return 110% of their withered cookies is the comment \"cookie dough does weird things inside wrinkler digestive tracts\"."
+        },
+        {
+          "lineNumber": 229,
+          "text": "The \"Moistburster\" achievement is a reference to the Alien Franchise's Chestburster."
+        },
+        {
+          "lineNumber": 230,
+          "text": "The \"Last Chance To See\" achievement is a reference to the book and radio documentary series about species extinction by novelist Douglas Adams and zoologist Mark Cawardine. There is also BBC television series that followed."
+        },
+        {
+          "lineNumber": 231,
+          "text": "Prior to the v1.0453 update, Wrinklers disappeared when you closed the Cookie Clicker window or exited the browser."
+        },
+        {
+          "lineNumber": 232,
+          "text": "The wrinkler may be a reference to the Mosquito Larvae or the Wriggler."
+        },
+        {
+          "lineNumber": 233,
+          "text": "The \"Eye of the Wrinkler\" description is a reference to the song \"Eye Of The Tiger.\""
+        },
+        {
+          "lineNumber": 234,
+          "text": "When the option \"Scary Mode\" turned off, wrinklers will occasionally blink."
+        },
+        {
+          "lineNumber": 235,
+          "text": "Wrinklers will begin to shake when your mouse is over them."
+        }
+      ]
+    },
+    {
+      "heading": "See also",
+      "lineNumber": 236,
+      "lines": [
+        {
+          "lineNumber": 237,
+          "text": "Shiny Wrinklers"
+        },
+        {
+          "lineNumber": 238,
+          "text": "Winklers"
+        },
+        {
+          "lineNumber": 239,
+          "text": "Interactive Objects"
+        },
+        {
+          "lineNumber": 241,
+          "text": "Big Cookie"
+        },
+        {
+          "lineNumber": 242,
+          "text": "Golden Cookie"
+        },
+        {
+          "lineNumber": 243,
+          "text": "Wrath Cookie"
+        },
+        {
+          "lineNumber": 245,
+          "text": "Wrinkler"
+        },
+        {
+          "lineNumber": 246,
+          "text": "Reindeer"
+        },
+        {
+          "lineNumber": 247,
+          "text": "Santa"
+        },
+        {
+          "lineNumber": 248,
+          "text": "Krumblor"
+        },
+        {
+          "lineNumber": 249,
+          "text": "Shiny wrinkler"
+        },
+        {
+          "lineNumber": 250,
+          "text": "Category:Interactive Objects"
+        },
+        {
+          "lineNumber": 251,
+          "text": "This box: view • talk • edit"
+        },
+        {
+          "lineNumber": 252,
+          "text": "This box: view • talk • edit"
+        },
+        {
+          "lineNumber": 253,
+          "text": "Cookie Clicker game mechanics"
+        },
+        {
+          "lineNumber": 254,
+          "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+        },
+        {
+          "lineNumber": 255,
+          "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+        },
+        {
+          "lineNumber": 256,
+          "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+        },
+        {
+          "lineNumber": 257,
+          "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+        },
+        {
+          "lineNumber": 258,
+          "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+        },
+        {
+          "lineNumber": 259,
+          "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+        },
+        {
+          "lineNumber": 260,
+          "text": "Further reading\tGameplay"
+        },
+        {
+          "lineNumber": 261,
+          "text": "Categories"
+        }
+      ]
+    }
+  ],
+  "tabularRows": [
+    {
+      "lineNumber": 49,
+      "cells": [
+        "1",
+        "Overview"
+      ],
+      "raw": "1\tOverview"
+    },
+    {
+      "lineNumber": 50,
+      "cells": [
+        "2",
+        "CpS multiplier"
+      ],
+      "raw": "2\tCpS multiplier"
+    },
+    {
+      "lineNumber": 51,
+      "cells": [
+        "3",
+        "Spawn Rate"
+      ],
+      "raw": "3\tSpawn Rate"
+    },
+    {
+      "lineNumber": 52,
+      "cells": [
+        "4",
+        "Seasons"
+      ],
+      "raw": "4\tSeasons"
+    },
+    {
+      "lineNumber": 53,
+      "cells": [
+        "4.1",
+        "Halloween"
+      ],
+      "raw": "4.1\tHalloween"
+    },
+    {
+      "lineNumber": 54,
+      "cells": [
+        "4.2",
+        "Christmas"
+      ],
+      "raw": "4.2\tChristmas"
+    },
+    {
+      "lineNumber": 55,
+      "cells": [
+        "4.3",
+        "Easter"
+      ],
+      "raw": "4.3\tEaster"
+    },
+    {
+      "lineNumber": 56,
+      "cells": [
+        "5",
+        "Upgrades"
+      ],
+      "raw": "5\tUpgrades"
+    },
+    {
+      "lineNumber": 57,
+      "cells": [
+        "6",
+        "Achievements"
+      ],
+      "raw": "6\tAchievements"
+    },
+    {
+      "lineNumber": 58,
+      "cells": [
+        "7",
+        "Trivia"
+      ],
+      "raw": "7\tTrivia"
+    },
+    {
+      "lineNumber": 59,
+      "cells": [
+        "8",
+        "See also"
+      ],
+      "raw": "8\tSee also"
+    },
+    {
+      "lineNumber": 88,
+      "cells": [
+        "No. wrinklers",
+        "CpS Multiplier",
+        "CpS Multiplier with one of: \"Wrinklerspawn\" or \"Sacrilegious corruption\"",
+        "CpS Multiplier with both: \"Wrinklerspawn\" and \"Sacrilegious corruption\""
+      ],
+      "raw": "No. wrinklers\tCpS Multiplier\tCpS Multiplier with one of: \"Wrinklerspawn\" or \"Sacrilegious corruption\"\tCpS Multiplier with both: \"Wrinklerspawn\" and \"Sacrilegious corruption\""
+    },
+    {
+      "lineNumber": 89,
+      "cells": [
+        "0",
+        "1",
+        "1",
+        "1"
+      ],
+      "raw": "0\t1\t1\t1"
+    },
+    {
+      "lineNumber": 90,
+      "cells": [
+        "1",
+        "1.005",
+        "1.00775",
+        "1.0106375"
+      ],
+      "raw": "1\t1.005\t1.00775\t1.0106375"
+    },
+    {
+      "lineNumber": 91,
+      "cells": [
+        "2",
+        "1.12",
+        "1.131",
+        "1.14255"
+      ],
+      "raw": "2\t1.12\t1.131\t1.14255"
+    },
+    {
+      "lineNumber": 92,
+      "cells": [
+        "3",
+        "1.345",
+        "1.36975",
+        "1.3957375"
+      ],
+      "raw": "3\t1.345\t1.36975\t1.3957375"
+    },
+    {
+      "lineNumber": 93,
+      "cells": [
+        "4",
+        "1.68",
+        "1.724",
+        "1.7702"
+      ],
+      "raw": "4\t1.68\t1.724\t1.7702"
+    },
+    {
+      "lineNumber": 94,
+      "cells": [
+        "5",
+        "2.125",
+        "2.19375",
+        "2.2659375"
+      ],
+      "raw": "5\t2.125\t2.19375\t2.2659375"
+    },
+    {
+      "lineNumber": 95,
+      "cells": [
+        "6",
+        "2.68",
+        "2.779",
+        "2.88295"
+      ],
+      "raw": "6\t2.68\t2.779\t2.88295"
+    },
+    {
+      "lineNumber": 96,
+      "cells": [
+        "7",
+        "3.345",
+        "3.47975",
+        "3.6212375"
+      ],
+      "raw": "7\t3.345\t3.47975\t3.6212375"
+    },
+    {
+      "lineNumber": 97,
+      "cells": [
+        "8",
+        "4.12",
+        "4.296",
+        "4.4808"
+      ],
+      "raw": "8\t4.12\t4.296\t4.4808"
+    },
+    {
+      "lineNumber": 98,
+      "cells": [
+        "9",
+        "5.005",
+        "5.22775",
+        "5.4616375"
+      ],
+      "raw": "9\t5.005\t5.22775\t5.4616375"
+    },
+    {
+      "lineNumber": 99,
+      "cells": [
+        "10",
+        "6",
+        "6.275",
+        "6.56375"
+      ],
+      "raw": "10\t6\t6.275\t6.56375"
+    },
+    {
+      "lineNumber": 100,
+      "cells": [
+        "11",
+        "7.105",
+        "7.43775",
+        "7.7871375"
+      ],
+      "raw": "11\t7.105\t7.43775\t7.7871375"
+    },
+    {
+      "lineNumber": 101,
+      "cells": [
+        "12",
+        "8.32",
+        "8.716",
+        "9.1318"
+      ],
+      "raw": "12\t8.32\t8.716\t9.1318"
+    },
+    {
+      "lineNumber": 102,
+      "cells": [
+        "13",
+        "9.645",
+        "10.10975",
+        "10.5977375"
+      ],
+      "raw": "13\t9.645\t10.10975\t10.5977375"
+    },
+    {
+      "lineNumber": 103,
+      "cells": [
+        "14",
+        "11.08",
+        "11.619",
+        "12.18495"
+      ],
+      "raw": "14\t11.08\t11.619\t12.18495"
+    },
+    {
+      "lineNumber": 113,
+      "cells": [
+        "Grandmapocalypse stage",
+        "1/2/3 (One Mind/Communal Brainsweep/Elder Pact)"
+      ],
+      "raw": "Grandmapocalypse stage\t1/2/3 (One Mind/Communal Brainsweep/Elder Pact)"
+    },
+    {
+      "lineNumber": 114,
+      "cells": [
+        "Unholy bait",
+        "5"
+      ],
+      "raw": "Unholy bait\t5"
+    },
+    {
+      "lineNumber": 115,
+      "cells": [
+        "Skruuia, Spirit of Scorn",
+        "2.5/2/1.5 (Diamond/Ruby/Jade)"
+      ],
+      "raw": "Skruuia, Spirit of Scorn\t2.5/2/1.5 (Diamond/Ruby/Jade)"
+    },
+    {
+      "lineNumber": 116,
+      "cells": [
+        "Elder Spice",
+        "+2 wrinkler slots (indirectly boosts spawn rate)"
+      ],
+      "raw": "Elder Spice\t+2 wrinkler slots (indirectly boosts spawn rate)"
+    },
+    {
+      "lineNumber": 117,
+      "cells": [
+        "Dragon Guts",
+        "+2 wrinkler slots (indirectly boosts spawn rate)"
+      ],
+      "raw": "Dragon Guts\t+2 wrinkler slots (indirectly boosts spawn rate)"
+    },
+    {
+      "lineNumber": 173,
+      "cells": [
+        "",
+        "Icon",
+        "Name",
+        "Unlock condition",
+        "Base price",
+        "Description",
+        "ID"
+      ],
+      "raw": "Icon\tName\tUnlock condition\tBase price\tDescription\tID"
+    },
+    {
+      "lineNumber": 176,
+      "cells": [
+        "",
+        "",
+        "Wrinklerspawn",
+        "\"Rare\" egg"
+      ],
+      "raw": "Wrinklerspawn\t\"Rare\" egg"
+    },
+    {
+      "lineNumber": 177,
+      "cells": [
+        "(see Probabilities)",
+        "999 x 3E",
+        "Wrinklers explode into 5% more cookies."
+      ],
+      "raw": "(see Probabilities)\t 999 x 3E\tWrinklers explode into 5% more cookies."
+    },
+    {
+      "lineNumber": 179,
+      "cells": [
+        "\"Look at this little guy! It's going to be a big boy someday! Yes it is!\"",
+        "224"
+      ],
+      "raw": "\"Look at this little guy! It's going to be a big boy someday! Yes it is!\"\t224"
+    },
+    {
+      "lineNumber": 182,
+      "cells": [
+        "",
+        "",
+        "Wrinkler ambergris",
+        "0.01% chance of dropping after popping a Wrinkler or 0.1% chance for a Shiny Wrinkler [note 1]",
+        "3,600 x CpS"
+      ],
+      "raw": "Wrinkler ambergris\t0.01% chance of dropping after popping a Wrinkler or 0.1% chance for a Shiny Wrinkler [note 1]\t 3,600 x CpS"
+    },
+    {
+      "lineNumber": 183,
+      "cells": [
+        "(Min: 1 million)",
+        "Cookie production multiplier +6%."
+      ],
+      "raw": "(Min: 1 million)\tCookie production multiplier +6%."
+    },
+    {
+      "lineNumber": 188,
+      "cells": [
+        "Makes for a great toast spread.\"",
+        "875"
+      ],
+      "raw": "Makes for a great toast spread.\"\t875"
+    },
+    {
+      "lineNumber": 192,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Starter kitchen\" purchased",
+        "44,444",
+        "Wrinklers appear 5 times as fast."
+      ],
+      "raw": "(heavenly upgrade)\t\"Starter kitchen\" purchased\t 44,444\tWrinklers appear 5 times as fast."
+    },
+    {
+      "lineNumber": 193,
+      "cells": [
+        "\"No wrinkler can resist the scent of worm biscuits.\"",
+        "292"
+      ],
+      "raw": "\"No wrinkler can resist the scent of worm biscuits.\"\t292"
+    },
+    {
+      "lineNumber": 197,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Unholy bait\" purchased",
+        "444,444",
+        "Wrinklers regurgitate 5% more cookies."
+      ],
+      "raw": "(heavenly upgrade)\t\"Unholy bait\" purchased\t 444,444\tWrinklers regurgitate 5% more cookies."
+    },
+    {
+      "lineNumber": 198,
+      "cells": [
+        "\"Unique in the animal kingdom, the wrinkler digestive tract is able to withstand an incredible degree of dilatation - provided you prod them appropriately.\"",
+        "293"
+      ],
+      "raw": "\"Unique in the animal kingdom, the wrinkler digestive tract is able to withstand an incredible degree of dilatation - provided you prod them appropriately.\"\t293"
+    },
+    {
+      "lineNumber": 202,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Unholy bait\" purchased",
+        "444,444",
+        "You can attract 2 more wrinklers."
+      ],
+      "raw": "(heavenly upgrade)\t\"Unholy bait\" purchased\t 444,444\tYou can attract 2 more wrinklers."
+    },
+    {
+      "lineNumber": 203,
+      "cells": [
+        "\"The cookie your cookie could smell like.\"",
+        "364"
+      ],
+      "raw": "\"The cookie your cookie could smell like.\"\t364"
+    },
+    {
+      "lineNumber": 207,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Wrinkly cookies\" purchased",
+        "100 million",
+        "Mouse over a wrinkler to see how many cookies are in its stomach."
+      ],
+      "raw": "(heavenly upgrade)\t\"Wrinkly cookies\" purchased\t 100 million\tMouse over a wrinkler to see how many cookies are in its stomach."
+    },
+    {
+      "lineNumber": 209,
+      "cells": [
+        "Hangin' tough, stayin' hungry.\"",
+        "495"
+      ],
+      "raw": "Hangin' tough, stayin' hungry.\"\t495"
+    },
+    {
+      "lineNumber": 212,
+      "cells": [
+        "Icon",
+        "Name",
+        "Description",
+        "ID"
+      ],
+      "raw": "Icon\tName\tDescription\tID"
+    },
+    {
+      "lineNumber": 213,
+      "cells": [
+        "",
+        "Wrinkler poker",
+        "Poke a wrinkler 50 times without killing it."
+      ],
+      "raw": "Wrinkler poker\tPoke a wrinkler 50 times without killing it."
+    },
+    {
+      "lineNumber": 214,
+      "cells": [
+        "\"Also the name of a card game popular in retirement homes.\"",
+        "598"
+      ],
+      "raw": "\"Also the name of a card game popular in retirement homes.\"\t598"
+    },
+    {
+      "lineNumber": 215,
+      "cells": [
+        "",
+        "Itchscratcher",
+        "Burst 1 wrinkler.",
+        "105"
+      ],
+      "raw": "Itchscratcher\tBurst 1 wrinkler.\t105"
+    },
+    {
+      "lineNumber": 216,
+      "cells": [
+        "",
+        "Wrinklesquisher [note 1]",
+        "Burst 50 wrinklers.",
+        "106"
+      ],
+      "raw": "Wrinklesquisher [note 1]\tBurst 50 wrinklers.\t106"
+    },
+    {
+      "lineNumber": 217,
+      "cells": [
+        "",
+        "Moistburster [note 1]",
+        "Burst 200 wrinklers.",
+        "107"
+      ],
+      "raw": "Moistburster [note 1]\tBurst 200 wrinklers.\t107"
+    },
+    {
+      "lineNumber": 219,
+      "cells": [
+        "(shadow achievement)",
+        "Burst the near-extinct shiny wrinkler."
+      ],
+      "raw": "(shadow achievement)\tBurst the near-extinct shiny wrinkler."
+    },
+    {
+      "lineNumber": 220,
+      "cells": [
+        "\"You monster!\"",
+        "262"
+      ],
+      "raw": "\"You monster!\"\t262"
+    },
+    {
+      "lineNumber": 254,
+      "cells": [
+        "Cookies",
+        "Cookie Clicker • Clicking • Buildings"
+      ],
+      "raw": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 255,
+      "cells": [
+        "General",
+        "Achievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+      ],
+      "raw": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 256,
+      "cells": [
+        "Upgrades",
+        "Overview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+      ],
+      "raw": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 257,
+      "cells": [
+        "Ascension",
+        "Ascension • Heavenly Chips • Challenge Mode • Krumblor"
+      ],
+      "raw": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 258,
+      "cells": [
+        "Seasons",
+        "Overview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+      ],
+      "raw": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 259,
+      "cells": [
+        "Minigames",
+        "Overview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+      ],
+      "raw": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 260,
+      "cells": [
+        "Further reading",
+        "Gameplay"
+      ],
+      "raw": "Further reading\tGameplay"
+    }
+  ]
+}

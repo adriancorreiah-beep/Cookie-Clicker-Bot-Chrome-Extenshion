@@ -1,0 +1,6041 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "Cookie Clicker Wiki scraped page text supplied by user",
+  "generatedDate": "2026-06-01",
+  "slug": "milk",
+  "title": "Milk",
+  "sourceFile": "web_page_text (2).txt",
+  "categories": [
+    "Post 1.0 Updates",
+    "Gameplay"
+  ],
+  "articleStartLine": 33,
+  "articleEndLine": 737,
+  "contents": [
+    "Appearance",
+    "Kittens",
+    "Modifiers",
+    "Example 1",
+    "Example 2",
+    "Example 3",
+    "Graphs",
+    "Dunking the Cookie",
+    "Toys",
+    "Trivia",
+    "References"
+  ],
+  "articleLines": [
+    {
+      "lineNumber": 34,
+      "text": "Every (un-heavenly) milk stage in Cookie Clicker"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Milk is a valuable resource which unlocks the Kitten series of upgrades; these greatly increase cookie output rate in direct correlation to the amount of Milk the player has. Milk is gained by unlocking normal (non-Shadow) Achievements at a rate of 4% milk per Achievement. As of version 2.052, the total number of normal achievements that count towards milk is 622 and the maximum attainable Milk amount is 2,488%."
+    },
+    {
+      "lineNumber": 38,
+      "text": "The Milk is represented by a wave-animated overlay at the bottom of the Big Cookie partition. The overlay gradually gains height as the Milk percentage increases. The milk changes color and name for every 25 Achievements, although this has no effect on cookie production. New Milk types and Kitten Upgrades have been introduced with new Achievements and the consequential higher possible Milk levels."
+    },
+    {
+      "lineNumber": 40,
+      "text": "Contents"
+    },
+    {
+      "lineNumber": 41,
+      "text": "1\tAppearance"
+    },
+    {
+      "lineNumber": 42,
+      "text": "2\tKittens"
+    },
+    {
+      "lineNumber": 43,
+      "text": "3\tModifiers"
+    },
+    {
+      "lineNumber": 44,
+      "text": "3.1\tExample 1"
+    },
+    {
+      "lineNumber": 45,
+      "text": "3.2\tExample 2"
+    },
+    {
+      "lineNumber": 46,
+      "text": "3.3\tExample 3"
+    },
+    {
+      "lineNumber": 47,
+      "text": "3.4\tGraphs"
+    },
+    {
+      "lineNumber": 48,
+      "text": "4\tDunking the Cookie"
+    },
+    {
+      "lineNumber": 49,
+      "text": "5\tToys"
+    },
+    {
+      "lineNumber": 50,
+      "text": "6\tTrivia"
+    },
+    {
+      "lineNumber": 51,
+      "text": "6.1\tReferences"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Appearance"
+    },
+    {
+      "lineNumber": 54,
+      "text": "As the player gains more and more (non-shadow) achievements, Milk will change its appearance and flavor. The current Milk flavor and rank are shown at the top of the Achievements section in Stats."
+    },
+    {
+      "lineNumber": 56,
+      "text": "Icon\tMilk %\tAchievements\tRank\tFlavor"
+    },
+    {
+      "lineNumber": 57,
+      "text": "0%-96%\t0-24\tI\t(Plain) Milk"
+    },
+    {
+      "lineNumber": 58,
+      "text": "100%-196%\t25-49\tII\tChocolate Milk"
+    },
+    {
+      "lineNumber": 59,
+      "text": "200%-296%\t50-74\tIII\tRaspberry Milk"
+    },
+    {
+      "lineNumber": 60,
+      "text": "300%-396%\t75-99\tIV\tOrange Milk"
+    },
+    {
+      "lineNumber": 61,
+      "text": "400%-496%\t100-124\tV\tCaramel Milk"
+    },
+    {
+      "lineNumber": 62,
+      "text": "500%-596%\t125-149\tVI\tBanana Milk"
+    },
+    {
+      "lineNumber": 63,
+      "text": "600%-696%\t150-174\tVII\tLime Milk"
+    },
+    {
+      "lineNumber": 64,
+      "text": "700%-796%\t175-199\tVIII\tBlueberry Milk"
+    },
+    {
+      "lineNumber": 65,
+      "text": "800%-896%\t200-224\tIX\tStrawberry Milk"
+    },
+    {
+      "lineNumber": 66,
+      "text": "900%-996%\t225-249\tX\tVanilla Milk"
+    },
+    {
+      "lineNumber": 67,
+      "text": "1,000%-1,096%\t250-274\tXI\tHoney Milk"
+    },
+    {
+      "lineNumber": 68,
+      "text": "1,100%-1,196%\t275-299\tXII\tCoffee Milk"
+    },
+    {
+      "lineNumber": 69,
+      "text": "1,200%-1,296%\t300-324\tXIII\tTea Milk"
+    },
+    {
+      "lineNumber": 70,
+      "text": "1,300%-1,396%\t325-349\tXIV\tCoconut Milk"
+    },
+    {
+      "lineNumber": 71,
+      "text": "1,400%-1,496%\t350-374\tXV\tCherry Milk"
+    },
+    {
+      "lineNumber": 72,
+      "text": "1,500%-1,596%\t375-399\tXVI\tSpiced Milk"
+    },
+    {
+      "lineNumber": 73,
+      "text": "1,600%-1,696%\t400-424\tXVII\tMaple Milk"
+    },
+    {
+      "lineNumber": 74,
+      "text": "1,700%-1,796%\t425-449\tXVIII\tMint Milk"
+    },
+    {
+      "lineNumber": 75,
+      "text": "1,800%-1,896%\t450-474\tXIX\tLicorice Milk"
+    },
+    {
+      "lineNumber": 76,
+      "text": "1,900%-1,996%\t475-499\tXX\tRose Milk"
+    },
+    {
+      "lineNumber": 77,
+      "text": "2,000%-2,096%\t500-524\tXXI\tDragonfruit Milk"
+    },
+    {
+      "lineNumber": 78,
+      "text": "2,100%-2,196%\t525-549\tXXII\tMelon Milk"
+    },
+    {
+      "lineNumber": 79,
+      "text": "2,200%-2,296%\t550-574\tXXIII\tBlackcurrant Milk"
+    },
+    {
+      "lineNumber": 80,
+      "text": "2,300%-2,396%\t575-599\tXXIV\tPeach Milk"
+    },
+    {
+      "lineNumber": 81,
+      "text": "2,400%-2,488%\t600-622\tXXV\tHazelnut Milk"
+    },
+    {
+      "lineNumber": 82,
+      "text": "Plain Milk"
+    },
+    {
+      "lineNumber": 83,
+      "text": "Chocolate Milk"
+    },
+    {
+      "lineNumber": 84,
+      "text": "Raspberry Milk"
+    },
+    {
+      "lineNumber": 85,
+      "text": "Orange Milk"
+    },
+    {
+      "lineNumber": 86,
+      "text": "Caramel Milk"
+    },
+    {
+      "lineNumber": 87,
+      "text": "Banana Milk"
+    },
+    {
+      "lineNumber": 88,
+      "text": "Lime Milk"
+    },
+    {
+      "lineNumber": 89,
+      "text": "Blueberry Milk"
+    },
+    {
+      "lineNumber": 90,
+      "text": "Strawberry Milk"
+    },
+    {
+      "lineNumber": 91,
+      "text": "Vanilla Milk"
+    },
+    {
+      "lineNumber": 92,
+      "text": "Honey Milk"
+    },
+    {
+      "lineNumber": 93,
+      "text": "Coffee Milk"
+    },
+    {
+      "lineNumber": 94,
+      "text": "Tea Milk"
+    },
+    {
+      "lineNumber": 95,
+      "text": "Coconut Milk"
+    },
+    {
+      "lineNumber": 96,
+      "text": "Cherry Milk"
+    },
+    {
+      "lineNumber": 97,
+      "text": "Spiced Milk"
+    },
+    {
+      "lineNumber": 98,
+      "text": "Maple Milk"
+    },
+    {
+      "lineNumber": 99,
+      "text": "Mint Milk"
+    },
+    {
+      "lineNumber": 100,
+      "text": "Licorice Milk"
+    },
+    {
+      "lineNumber": 101,
+      "text": "Rose Milk"
+    },
+    {
+      "lineNumber": 102,
+      "text": "Dragonfruit Milk"
+    },
+    {
+      "lineNumber": 103,
+      "text": "Melon Milk"
+    },
+    {
+      "lineNumber": 104,
+      "text": "Blackcurrant Milk"
+    },
+    {
+      "lineNumber": 105,
+      "text": "Peach Milk"
+    },
+    {
+      "lineNumber": 106,
+      "text": "Hazelnut Milk"
+    },
+    {
+      "lineNumber": 108,
+      "text": "After purchasing the Classic dairy selection heavenly upgrade, you may freely choose the flavor of Milk using the \"Milk selector\" switch. However, this is only a cosmetic change, and does not affect the information shown in the stats menu. Additionally, there are 9 more types of Milk added by purchasing the Fanciful dairy selection heavenly upgrade: Zebra Milk, Cosmic Milk, Flaming Milk, Sanguine Milk, Midas Milk, Midnight Milk, Green Inferno Milk, Frostfire Milk and Soy Milk. These new types of Milk are unique in introducing not only new colors, but new patterns to the Milk."
+    },
+    {
+      "lineNumber": 110,
+      "text": "Fanciful Dairy Selection"
+    },
+    {
+      "lineNumber": 112,
+      "text": "Zebra Milk"
+    },
+    {
+      "lineNumber": 113,
+      "text": "Cosmic Milk"
+    },
+    {
+      "lineNumber": 114,
+      "text": "Flaming Milk"
+    },
+    {
+      "lineNumber": 115,
+      "text": "Sanguine Milk"
+    },
+    {
+      "lineNumber": 116,
+      "text": "Midas Milk"
+    },
+    {
+      "lineNumber": 117,
+      "text": "Midnight Milk"
+    },
+    {
+      "lineNumber": 118,
+      "text": "Green Inferno Milk"
+    },
+    {
+      "lineNumber": 119,
+      "text": "Frostfire Milk"
+    },
+    {
+      "lineNumber": 120,
+      "text": "Soy Milk"
+    },
+    {
+      "lineNumber": 121,
+      "text": "Kittens"
+    },
+    {
+      "lineNumber": 123,
+      "text": "There are 15 regular kitten upgrades, a kitten-like fortune upgrade, and a heavenly upgrade sharing the same type of milk-based effect."
+    },
+    {
+      "lineNumber": 125,
+      "text": "Icon\tName\tUnlock condition\tBase price\tDescription\tMilk factor\tID"
+    },
+    {
+      "lineNumber": 128,
+      "text": "Kitten helpers\t13 Achievements"
+    },
+    {
+      "lineNumber": 129,
+      "text": "(52% Milk)\t 9 million\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 130,
+      "text": "\"meow may I help you\"\t0.1\t31"
+    },
+    {
+      "lineNumber": 133,
+      "text": "Kitten workers\t25 Achievements"
+    },
+    {
+      "lineNumber": 134,
+      "text": "(100% Milk)\t 9 billion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 135,
+      "text": "\"meow meow meow meow\"\t0.125\t32"
+    },
+    {
+      "lineNumber": 138,
+      "text": "Kitten engineers\t50 Achievements"
+    },
+    {
+      "lineNumber": 139,
+      "text": "(200% Milk)\t 90 trillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 140,
+      "text": "\"meow meow meow meow, sir\"\t0.15\t54"
+    },
+    {
+      "lineNumber": 143,
+      "text": "Kitten overseers\t75 Achievements"
+    },
+    {
+      "lineNumber": 144,
+      "text": "(300% Milk)\t 90 quadrillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 145,
+      "text": "\"my purrpose is to serve you, sir\"\t0.175\t108"
+    },
+    {
+      "lineNumber": 148,
+      "text": "Kitten managers\t100 Achievements"
+    },
+    {
+      "lineNumber": 149,
+      "text": "(400% Milk)\t 900 quintillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 150,
+      "text": "\"that's not gonna paws any problems, sir\"\t0.2\t187"
+    },
+    {
+      "lineNumber": 153,
+      "text": "Kitten accountants\t125 Achievements"
+    },
+    {
+      "lineNumber": 154,
+      "text": "(500% Milk)\t 900 sextillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 155,
+      "text": "\"business going great, sir\"\t0.2\t320"
+    },
+    {
+      "lineNumber": 158,
+      "text": "Kitten specialists\t150 Achievements"
+    },
+    {
+      "lineNumber": 159,
+      "text": "(600% Milk)\t 900 septillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 160,
+      "text": "\"optimeowzing your workflow like whoah, sir\"\t0.2\t321"
+    },
+    {
+      "lineNumber": 163,
+      "text": "Kitten experts\t175 Achievements"
+    },
+    {
+      "lineNumber": 164,
+      "text": "(700% Milk)\t 900 octillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 165,
+      "text": "\"10 years expurrrtise in the cookie business, sir\"\t0.2\t322"
+    },
+    {
+      "lineNumber": 168,
+      "text": "Kitten consultants\t200 Achievements"
+    },
+    {
+      "lineNumber": 169,
+      "text": "(800% Milk)\t 900 nonillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 170,
+      "text": "\"glad to be overpaid to work with you, sir\"\t0.2\t425"
+    },
+    {
+      "lineNumber": 173,
+      "text": "Kitten assistants to the regional manager\t225 Achievements"
+    },
+    {
+      "lineNumber": 174,
+      "text": "(900% Milk)\t 900 decillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 175,
+      "text": "\"nothing stresses meowt... except having to seek the approval of my inferiors, sir\"\t0.175\t442"
+    },
+    {
+      "lineNumber": 178,
+      "text": "Kitten marketeers\t250 achievements"
+    },
+    {
+      "lineNumber": 179,
+      "text": "(1000% milk)\t 900 undecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 180,
+      "text": "\"no such thing as a saturated markit, sir\"\t0.15\t462"
+    },
+    {
+      "lineNumber": 183,
+      "text": "Kitten analysts\t275 achievements"
+    },
+    {
+      "lineNumber": 184,
+      "text": "(1100% milk)\t 900 duodecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 185,
+      "text": "\"based on purrent return-on-investment meowdels we should be able to affurd to pay our empawyees somewhere around next century, sir\"\t0.125\t494"
+    },
+    {
+      "lineNumber": 188,
+      "text": "Kitten executives\t300 achievements"
+    },
+    {
+      "lineNumber": 189,
+      "text": "(1200% milk)\t 900 tredecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 190,
+      "text": "\"ready to execute whatever and whoever you'd like, sir\"\t0.115\t613"
+    },
+    {
+      "lineNumber": 193,
+      "text": "Kitten admins\t325 achievements"
+    },
+    {
+      "lineNumber": 194,
+      "text": "(1300% milk)\t 900 quattuordecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 195,
+      "text": "\"leadership ain't easy, sir\"\t0.11\t766"
+    },
+    {
+      "lineNumber": 198,
+      "text": "Kitten strategists\t350 achievements"
+    },
+    {
+      "lineNumber": 199,
+      "text": "(1400% milk)\t 900 quindecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 200,
+      "text": "\"out with the old in with the mew, sir\"\t0.105\t865"
+    },
+    {
+      "lineNumber": 203,
+      "text": "Fortune #103\tRandom fortune from news ticker\t 86,400 x CpS"
+    },
+    {
+      "lineNumber": 204,
+      "text": "(Max: 7.778 tredecillion)\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 205,
+      "text": "\"Don't believe the superstitions; all cats are good luck.\"\t0.05\t641"
+    },
+    {
+      "lineNumber": 208,
+      "text": "Kitten angels"
+    },
+    {
+      "lineNumber": 209,
+      "text": "(heavenly upgrade)\t\"Dominions\" purchased\t 9,000\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 210,
+      "text": "\"All cats go to heaven.\"\t0.1\t291"
+    },
+    {
+      "lineNumber": 213,
+      "text": "Kitten wages"
+    },
+    {
+      "lineNumber": 214,
+      "text": "(heavenly upgrade)\t\"Kitten angels\" purchased\t 9 billion\tThrough clever accounting, this actually makes kitten upgrades 10% cheaper."
+    },
+    {
+      "lineNumber": 215,
+      "text": "\"Cats can have little a salary."
+    },
+    {
+      "lineNumber": 216,
+      "text": "Cats are expert hagglers and have a keen sense of bargaining, especially in the case of cash.\"\tN/A\t646"
+    },
+    {
+      "lineNumber": 218,
+      "text": "Each kitten upgrade's Milk Factor, multiplied by the Milk Percentage, provides a CpS production boost. These effects stack multiplicatively, with the Milk Percentage applied separately for each kitten upgrade. For example, say you have Kitten helpers, Kitten engineers, and 200% Milk (50 achievements). Kitten helpers multiplies production by 1 + 2 * 0.1 = 1.2, and Kitten engineers multiplies production by 1 + 2 * 0.15 = 1.3. Combined, these two multipliers will get you a total production multiplier of (1 + 2 * 0.1) * (1 + 2 * 0.15) = 1.2 * 1.3 = 1.56."
+    },
+    {
+      "lineNumber": 220,
+      "text": "Note that this is not multiplying all the kitten factors by the milk percentage (which in this example would get you 2 * (1 + 0.1) * (1 + .15) = 2.53), and while the method used initially results in a lower milk percentage, the multiplier quickly becomes higher with the used method after the 5th kitten upgrade is purchased. With 350 achievements (1400% milk) and all regular kitten upgrades purchased, the CpS production boost is 2,693,564,425%. With all 622 achievements (2488% milk) as of v2.052 and all 17 kitten upgrades (including Fortune #103 and Kitten angels), the CpS production boost is 11,759,167,698,203%. You can check the overall Kitten multiplier in top of Achievements section in Stats."
+    },
+    {
+      "lineNumber": 222,
+      "text": "Modifiers"
+    },
+    {
+      "lineNumber": 224,
+      "text": "There are modifiers that can increase the Milk Factor of your kitten upgrades."
+    },
+    {
+      "lineNumber": 226,
+      "text": "Modifier\tMilk Factor multiplier"
+    },
+    {
+      "lineNumber": 227,
+      "text": "Santa upgrade: Santa's milk and cookies\t1.05"
+    },
+    {
+      "lineNumber": 228,
+      "text": "Auras: Reality Bending / Breath of Milk / Both\t1.005 / 1.05 / 1.055"
+    },
+    {
+      "lineNumber": 229,
+      "text": "Mokalsium, Mother Spirit: Diamond / Ruby / Jade\t1.1 / 1.05 / 1.03"
+    },
+    {
+      "lineNumber": 230,
+      "text": "Garden plants (mature, clay)\t1+0.0025W"
+    },
+    {
+      "lineNumber": 231,
+      "text": "W = # of Whiskerbloom"
+    },
+    {
+      "lineNumber": 233,
+      "text": "These are multipliers to individual Milk Factors of each of your kitten upgrades and stack with each other multiplicatively. For example, if you have Kitten managers, the Milk Factor would be 0.2* 1.05 = 0.21 with one of the 1.05 modifiers (Santa upgrade, Breath of Milk aura, or Mokalsium in the Ruby slot). With three 1.05 modifiers, the effective Milk Factor would be 0.2 * 1.05^3 = 0.231525."
+    },
+    {
+      "lineNumber": 235,
+      "text": "Total Modifier\tWithout Santa's Milk and Cookies\tWith Santa's Milk and Cookies"
+    },
+    {
+      "lineNumber": 236,
+      "text": "Mokalsium:\tN/A\tJade\tRuby\tDiamond\tN/A\tJade\tRuby\tDiamond"
+    },
+    {
+      "lineNumber": 237,
+      "text": "No Dragon Aura\t1\t1.03\t1.05\t1.1\t1.05\t1.0815\t1.1025\t1.155"
+    },
+    {
+      "lineNumber": 238,
+      "text": "Reality Bending\t1.005\t1.03515\t1.05525\t1.1055\t1.05525\t1.0869075\t1.1080125\t1.160775"
+    },
+    {
+      "lineNumber": 239,
+      "text": "Breath of Milk\t1.05\t1.0815\t1.1025\t1.155\t1.1025\t1.135575\t1.157625\t1.21275"
+    },
+    {
+      "lineNumber": 240,
+      "text": "Both Auras\t1.055\t1.08665\t1.10775\t1.1605\t1.10775\t1.1409825\t1.1631375\t1.218525"
+    },
+    {
+      "lineNumber": 242,
+      "text": "With Diamond Mokalsium, Santa's Milk and Cookies, Both Auras, all kitten upgrades (including Fortune #103 and Kitten angels), and all 622 achievements (2488% milk) as of v2.052, the total CpS multiplier would be 164,190,867,250,320%."
+    },
+    {
+      "lineNumber": 244,
+      "text": "The effect of Garden plants on Milk percentage is much more complex. The power of Whiskerbloom can be increased by Nursetulip, but Nursetulip itself will reduce overall CpS. See the following examples for detailed discussion. All examples assume:"
+    },
+    {
+      "lineNumber": 246,
+      "text": "439 achievements obtained, 1756% base milk% (maximum as v2.021)"
+    },
+    {
+      "lineNumber": 247,
+      "text": "All kittens owned (including Fortune #103)"
+    },
+    {
+      "lineNumber": 248,
+      "text": "All 3 non-garden modifiers owned"
+    },
+    {
+      "lineNumber": 249,
+      "text": "Aura: Breath of Milk only"
+    },
+    {
+      "lineNumber": 250,
+      "text": "Mokalsium: Diamond slot"
+    },
+    {
+      "lineNumber": 251,
+      "text": "All plants are mature"
+    },
+    {
+      "lineNumber": 252,
+      "text": "The soil is clay."
+    },
+    {
+      "lineNumber": 253,
+      "text": "Example 1"
+    },
+    {
+      "lineNumber": 255,
+      "text": "A full 6x6 plot of 36 Whiskerblooms has the modifier, fW, of 1 + 0.0025 * 36 = 1.09, and combining all other three non-garden multipliers will give the effective milk percentage:"
+    },
+    {
+      "lineNumber": 257,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 258,
+      "text": "="
+    },
+    {
+      "lineNumber": 259,
+      "text": "1756"
+    },
+    {
+      "lineNumber": 260,
+      "text": "%"
+    },
+    {
+      "lineNumber": 261,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 262,
+      "text": "1.05"
+    },
+    {
+      "lineNumber": 263,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 264,
+      "text": "1.05"
+    },
+    {
+      "lineNumber": 265,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 266,
+      "text": "1.1"
+    },
+    {
+      "lineNumber": 267,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 268,
+      "text": "𝑓"
+    },
+    {
+      "lineNumber": 269,
+      "text": "𝑊"
+    },
+    {
+      "lineNumber": 270,
+      "text": "="
+    },
+    {
+      "lineNumber": 271,
+      "text": "2321.25201"
+    },
+    {
+      "lineNumber": 272,
+      "text": "%"
+    },
+    {
+      "lineNumber": 274,
+      "text": "The resulting Kitten multiplier will then be:"
+    },
+    {
+      "lineNumber": 276,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 277,
+      "text": "1"
+    },
+    {
+      "lineNumber": 278,
+      "text": "="
+    },
+    {
+      "lineNumber": 279,
+      "text": "("
+    },
+    {
+      "lineNumber": 280,
+      "text": "1"
+    },
+    {
+      "lineNumber": 281,
+      "text": "+"
+    },
+    {
+      "lineNumber": 282,
+      "text": "0.05"
+    },
+    {
+      "lineNumber": 283,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 284,
+      "text": ")"
+    },
+    {
+      "lineNumber": 285,
+      "text": "("
+    },
+    {
+      "lineNumber": 286,
+      "text": "1"
+    },
+    {
+      "lineNumber": 287,
+      "text": "+"
+    },
+    {
+      "lineNumber": 288,
+      "text": "0.1"
+    },
+    {
+      "lineNumber": 289,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 290,
+      "text": ")"
+    },
+    {
+      "lineNumber": 291,
+      "text": "2"
+    },
+    {
+      "lineNumber": 292,
+      "text": "("
+    },
+    {
+      "lineNumber": 293,
+      "text": "1"
+    },
+    {
+      "lineNumber": 294,
+      "text": "+"
+    },
+    {
+      "lineNumber": 295,
+      "text": "0.115"
+    },
+    {
+      "lineNumber": 296,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 297,
+      "text": ")"
+    },
+    {
+      "lineNumber": 298,
+      "text": "("
+    },
+    {
+      "lineNumber": 299,
+      "text": "1"
+    },
+    {
+      "lineNumber": 300,
+      "text": "+"
+    },
+    {
+      "lineNumber": 301,
+      "text": "0.125"
+    },
+    {
+      "lineNumber": 302,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 303,
+      "text": ")"
+    },
+    {
+      "lineNumber": 304,
+      "text": "2"
+    },
+    {
+      "lineNumber": 306,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 307,
+      "text": "="
+    },
+    {
+      "lineNumber": 308,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 309,
+      "text": "1"
+    },
+    {
+      "lineNumber": 310,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 311,
+      "text": "("
+    },
+    {
+      "lineNumber": 312,
+      "text": "1"
+    },
+    {
+      "lineNumber": 313,
+      "text": "+"
+    },
+    {
+      "lineNumber": 314,
+      "text": "0.15"
+    },
+    {
+      "lineNumber": 315,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 316,
+      "text": ")"
+    },
+    {
+      "lineNumber": 317,
+      "text": "2"
+    },
+    {
+      "lineNumber": 318,
+      "text": "("
+    },
+    {
+      "lineNumber": 319,
+      "text": "1"
+    },
+    {
+      "lineNumber": 320,
+      "text": "+"
+    },
+    {
+      "lineNumber": 321,
+      "text": "0.175"
+    },
+    {
+      "lineNumber": 322,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 323,
+      "text": ")"
+    },
+    {
+      "lineNumber": 324,
+      "text": "2"
+    },
+    {
+      "lineNumber": 325,
+      "text": "("
+    },
+    {
+      "lineNumber": 326,
+      "text": "1"
+    },
+    {
+      "lineNumber": 327,
+      "text": "+"
+    },
+    {
+      "lineNumber": 328,
+      "text": "0.2"
+    },
+    {
+      "lineNumber": 329,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 330,
+      "text": ")"
+    },
+    {
+      "lineNumber": 331,
+      "text": "5"
+    },
+    {
+      "lineNumber": 333,
+      "text": "Which is approximately 3,919,378,731."
+    },
+    {
+      "lineNumber": 335,
+      "text": "Example 2"
+    },
+    {
+      "lineNumber": 337,
+      "text": "To reach the highest possible effective milk percentage, the Garden should initially be planted as follows:"
+    },
+    {
+      "lineNumber": 339,
+      "text": "W=Whiskerbloom, N=Nursetulip"
+    },
+    {
+      "lineNumber": 340,
+      "text": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 341,
+      "text": "N\tN\tN\tN\tN\tN"
+    },
+    {
+      "lineNumber": 342,
+      "text": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 343,
+      "text": "N\tN\tN\tN\tN\tN"
+    },
+    {
+      "lineNumber": 344,
+      "text": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 345,
+      "text": "N\tN\tN\tN\tN\tN"
+    },
+    {
+      "lineNumber": 347,
+      "text": "Each Nursetulip (in clay) boosts adjacent plants' effects by 5/4. Nursetulip's boosts persist for the tick after it is unearthed, and we can plant a budding Whiskerbloom in its place to both avoid CpS penalty from the Nursetulips and get more milk multipliers. The overall Whiskerbloom modifier will be:"
+    },
+    {
+      "lineNumber": 349,
+      "text": "𝑓"
+    },
+    {
+      "lineNumber": 350,
+      "text": "𝑊"
+    },
+    {
+      "lineNumber": 351,
+      "text": "="
+    },
+    {
+      "lineNumber": 352,
+      "text": "1"
+    },
+    {
+      "lineNumber": 353,
+      "text": "+"
+    },
+    {
+      "lineNumber": 354,
+      "text": "1"
+    },
+    {
+      "lineNumber": 355,
+      "text": "400"
+    },
+    {
+      "lineNumber": 356,
+      "text": "["
+    },
+    {
+      "lineNumber": 357,
+      "text": "2"
+    },
+    {
+      "lineNumber": 358,
+      "text": "("
+    },
+    {
+      "lineNumber": 359,
+      "text": "5"
+    },
+    {
+      "lineNumber": 360,
+      "text": "4"
+    },
+    {
+      "lineNumber": 361,
+      "text": ")"
+    },
+    {
+      "lineNumber": 362,
+      "text": "2"
+    },
+    {
+      "lineNumber": 363,
+      "text": "+"
+    },
+    {
+      "lineNumber": 364,
+      "text": "4"
+    },
+    {
+      "lineNumber": 365,
+      "text": "("
+    },
+    {
+      "lineNumber": 366,
+      "text": "5"
+    },
+    {
+      "lineNumber": 367,
+      "text": "4"
+    },
+    {
+      "lineNumber": 368,
+      "text": ")"
+    },
+    {
+      "lineNumber": 369,
+      "text": "3"
+    },
+    {
+      "lineNumber": 370,
+      "text": "+"
+    },
+    {
+      "lineNumber": 371,
+      "text": "4"
+    },
+    {
+      "lineNumber": 372,
+      "text": "("
+    },
+    {
+      "lineNumber": 373,
+      "text": "5"
+    },
+    {
+      "lineNumber": 374,
+      "text": "4"
+    },
+    {
+      "lineNumber": 375,
+      "text": ")"
+    },
+    {
+      "lineNumber": 376,
+      "text": "4"
+    },
+    {
+      "lineNumber": 377,
+      "text": "+"
+    },
+    {
+      "lineNumber": 378,
+      "text": "8"
+    },
+    {
+      "lineNumber": 379,
+      "text": "("
+    },
+    {
+      "lineNumber": 380,
+      "text": "5"
+    },
+    {
+      "lineNumber": 381,
+      "text": "4"
+    },
+    {
+      "lineNumber": 382,
+      "text": ")"
+    },
+    {
+      "lineNumber": 383,
+      "text": "6"
+    },
+    {
+      "lineNumber": 384,
+      "text": "]"
+    },
+    {
+      "lineNumber": 385,
+      "text": "+"
+    },
+    {
+      "lineNumber": 386,
+      "text": "1"
+    },
+    {
+      "lineNumber": 387,
+      "text": "400"
+    },
+    {
+      "lineNumber": 388,
+      "text": "1"
+    },
+    {
+      "lineNumber": 389,
+      "text": "10"
+    },
+    {
+      "lineNumber": 390,
+      "text": "["
+    },
+    {
+      "lineNumber": 391,
+      "text": "6"
+    },
+    {
+      "lineNumber": 392,
+      "text": "("
+    },
+    {
+      "lineNumber": 393,
+      "text": "5"
+    },
+    {
+      "lineNumber": 394,
+      "text": "4"
+    },
+    {
+      "lineNumber": 395,
+      "text": ")"
+    },
+    {
+      "lineNumber": 396,
+      "text": "+"
+    },
+    {
+      "lineNumber": 397,
+      "text": "12"
+    },
+    {
+      "lineNumber": 398,
+      "text": "("
+    },
+    {
+      "lineNumber": 399,
+      "text": "5"
+    },
+    {
+      "lineNumber": 400,
+      "text": "4"
+    },
+    {
+      "lineNumber": 401,
+      "text": ")"
+    },
+    {
+      "lineNumber": 402,
+      "text": "2"
+    },
+    {
+      "lineNumber": 403,
+      "text": "]"
+    },
+    {
+      "lineNumber": 404,
+      "text": "="
+    },
+    {
+      "lineNumber": 405,
+      "text": "232369"
+    },
+    {
+      "lineNumber": 406,
+      "text": "204800"
+    },
+    {
+      "lineNumber": 407,
+      "text": "Or approximately a milk effectiveness of +13.46%."
+    },
+    {
+      "lineNumber": 409,
+      "text": "The max effective milk percentage which can be achieved is:"
+    },
+    {
+      "lineNumber": 411,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 412,
+      "text": "="
+    },
+    {
+      "lineNumber": 413,
+      "text": "1756"
+    },
+    {
+      "lineNumber": 414,
+      "text": "%"
+    },
+    {
+      "lineNumber": 415,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 416,
+      "text": "1.05"
+    },
+    {
+      "lineNumber": 417,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 418,
+      "text": "1.05"
+    },
+    {
+      "lineNumber": 419,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 420,
+      "text": "1.1"
+    },
+    {
+      "lineNumber": 421,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 422,
+      "text": "𝑓"
+    },
+    {
+      "lineNumber": 423,
+      "text": "𝑊"
+    },
+    {
+      "lineNumber": 424,
+      "text": "≈"
+    },
+    {
+      "lineNumber": 425,
+      "text": "2402.2866"
+    },
+    {
+      "lineNumber": 426,
+      "text": "%"
+    },
+    {
+      "lineNumber": 428,
+      "text": "The resulting Kitten multiplier would be:"
+    },
+    {
+      "lineNumber": 430,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 431,
+      "text": "1"
+    },
+    {
+      "lineNumber": 432,
+      "text": "="
+    },
+    {
+      "lineNumber": 433,
+      "text": "("
+    },
+    {
+      "lineNumber": 434,
+      "text": "1"
+    },
+    {
+      "lineNumber": 435,
+      "text": "+"
+    },
+    {
+      "lineNumber": 436,
+      "text": "0.05"
+    },
+    {
+      "lineNumber": 437,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 438,
+      "text": ")"
+    },
+    {
+      "lineNumber": 439,
+      "text": "("
+    },
+    {
+      "lineNumber": 440,
+      "text": "1"
+    },
+    {
+      "lineNumber": 441,
+      "text": "+"
+    },
+    {
+      "lineNumber": 442,
+      "text": "0.1"
+    },
+    {
+      "lineNumber": 443,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 444,
+      "text": ")"
+    },
+    {
+      "lineNumber": 445,
+      "text": "2"
+    },
+    {
+      "lineNumber": 446,
+      "text": "("
+    },
+    {
+      "lineNumber": 447,
+      "text": "1"
+    },
+    {
+      "lineNumber": 448,
+      "text": "+"
+    },
+    {
+      "lineNumber": 449,
+      "text": "0.115"
+    },
+    {
+      "lineNumber": 450,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 451,
+      "text": ")"
+    },
+    {
+      "lineNumber": 452,
+      "text": "("
+    },
+    {
+      "lineNumber": 453,
+      "text": "1"
+    },
+    {
+      "lineNumber": 454,
+      "text": "+"
+    },
+    {
+      "lineNumber": 455,
+      "text": "0.125"
+    },
+    {
+      "lineNumber": 456,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 457,
+      "text": ")"
+    },
+    {
+      "lineNumber": 458,
+      "text": "2"
+    },
+    {
+      "lineNumber": 460,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 461,
+      "text": "="
+    },
+    {
+      "lineNumber": 462,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 463,
+      "text": "1"
+    },
+    {
+      "lineNumber": 464,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 465,
+      "text": "("
+    },
+    {
+      "lineNumber": 466,
+      "text": "1"
+    },
+    {
+      "lineNumber": 467,
+      "text": "+"
+    },
+    {
+      "lineNumber": 468,
+      "text": "0.15"
+    },
+    {
+      "lineNumber": 469,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 470,
+      "text": ")"
+    },
+    {
+      "lineNumber": 471,
+      "text": "2"
+    },
+    {
+      "lineNumber": 472,
+      "text": "("
+    },
+    {
+      "lineNumber": 473,
+      "text": "1"
+    },
+    {
+      "lineNumber": 474,
+      "text": "+"
+    },
+    {
+      "lineNumber": 475,
+      "text": "0.175"
+    },
+    {
+      "lineNumber": 476,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 477,
+      "text": ")"
+    },
+    {
+      "lineNumber": 478,
+      "text": "2"
+    },
+    {
+      "lineNumber": 479,
+      "text": "("
+    },
+    {
+      "lineNumber": 480,
+      "text": "1"
+    },
+    {
+      "lineNumber": 481,
+      "text": "+"
+    },
+    {
+      "lineNumber": 482,
+      "text": "0.2"
+    },
+    {
+      "lineNumber": 483,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 484,
+      "text": ")"
+    },
+    {
+      "lineNumber": 485,
+      "text": "5"
+    },
+    {
+      "lineNumber": 487,
+      "text": "This is approximately 5,809,133,949. (this is all outdated by several updates)"
+    },
+    {
+      "lineNumber": 489,
+      "text": "However, single Nursetulips in clay also reduce overall CpS by 1/40. In this arrangement, they reduce CpS by a factor of:"
+    },
+    {
+      "lineNumber": 491,
+      "text": "𝑓"
+    },
+    {
+      "lineNumber": 492,
+      "text": "𝑁"
+    },
+    {
+      "lineNumber": 493,
+      "text": "="
+    },
+    {
+      "lineNumber": 494,
+      "text": "("
+    },
+    {
+      "lineNumber": 495,
+      "text": "1"
+    },
+    {
+      "lineNumber": 496,
+      "text": "−"
+    },
+    {
+      "lineNumber": 497,
+      "text": "1"
+    },
+    {
+      "lineNumber": 498,
+      "text": "40"
+    },
+    {
+      "lineNumber": 499,
+      "text": "5"
+    },
+    {
+      "lineNumber": 500,
+      "text": "4"
+    },
+    {
+      "lineNumber": 501,
+      "text": ")"
+    },
+    {
+      "lineNumber": 502,
+      "text": "6"
+    },
+    {
+      "lineNumber": 503,
+      "text": "["
+    },
+    {
+      "lineNumber": 504,
+      "text": "1"
+    },
+    {
+      "lineNumber": 505,
+      "text": "−"
+    },
+    {
+      "lineNumber": 506,
+      "text": "1"
+    },
+    {
+      "lineNumber": 507,
+      "text": "40"
+    },
+    {
+      "lineNumber": 508,
+      "text": "("
+    },
+    {
+      "lineNumber": 509,
+      "text": "5"
+    },
+    {
+      "lineNumber": 510,
+      "text": "4"
+    },
+    {
+      "lineNumber": 511,
+      "text": ")"
+    },
+    {
+      "lineNumber": 512,
+      "text": "2"
+    },
+    {
+      "lineNumber": 513,
+      "text": "]"
+    },
+    {
+      "lineNumber": 514,
+      "text": "12"
+    },
+    {
+      "lineNumber": 515,
+      "text": "="
+    },
+    {
+      "lineNumber": 516,
+      "text": "("
+    },
+    {
+      "lineNumber": 517,
+      "text": "31"
+    },
+    {
+      "lineNumber": 518,
+      "text": "32"
+    },
+    {
+      "lineNumber": 519,
+      "text": ")"
+    },
+    {
+      "lineNumber": 520,
+      "text": "6"
+    },
+    {
+      "lineNumber": 521,
+      "text": "("
+    },
+    {
+      "lineNumber": 522,
+      "text": "123"
+    },
+    {
+      "lineNumber": 523,
+      "text": "128"
+    },
+    {
+      "lineNumber": 524,
+      "text": ")"
+    },
+    {
+      "lineNumber": 525,
+      "text": "12"
+    },
+    {
+      "lineNumber": 526,
+      "text": "≈"
+    },
+    {
+      "lineNumber": 527,
+      "text": "0.5124033903"
+    },
+    {
+      "lineNumber": 529,
+      "text": "Which means the overall production multiplier is only fN * K ~ 2,976,619,930. Thus, despite having the largest possible Kitten multiplier, this setup is not viable for sustained CpS increase, as the amount of time without its CpS penalty is a maximum of 15 minutes."
+    },
+    {
+      "lineNumber": 531,
+      "text": "Example 3"
+    },
+    {
+      "lineNumber": 533,
+      "text": "To offset the Nursetulip debuff, the best garden arrangement is:"
+    },
+    {
+      "lineNumber": 535,
+      "text": "W=Whiskerbloom, N=Nursetulip"
+    },
+    {
+      "lineNumber": 536,
+      "text": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 537,
+      "text": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 538,
+      "text": "W\tW\tN\tW\tN\tW"
+    },
+    {
+      "lineNumber": 539,
+      "text": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 540,
+      "text": "W\tW\tN\tW\tN\tW"
+    },
+    {
+      "lineNumber": 541,
+      "text": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 543,
+      "text": "The total Whiskerbloom modifier for this setup is:"
+    },
+    {
+      "lineNumber": 545,
+      "text": "𝑓"
+    },
+    {
+      "lineNumber": 546,
+      "text": "𝑊"
+    },
+    {
+      "lineNumber": 547,
+      "text": "="
+    },
+    {
+      "lineNumber": 548,
+      "text": "1"
+    },
+    {
+      "lineNumber": 549,
+      "text": "+"
+    },
+    {
+      "lineNumber": 550,
+      "text": "1"
+    },
+    {
+      "lineNumber": 551,
+      "text": "400"
+    },
+    {
+      "lineNumber": 552,
+      "text": "["
+    },
+    {
+      "lineNumber": 553,
+      "text": "11"
+    },
+    {
+      "lineNumber": 554,
+      "text": "+"
+    },
+    {
+      "lineNumber": 555,
+      "text": "12"
+    },
+    {
+      "lineNumber": 556,
+      "text": "5"
+    },
+    {
+      "lineNumber": 557,
+      "text": "4"
+    },
+    {
+      "lineNumber": 558,
+      "text": "+"
+    },
+    {
+      "lineNumber": 559,
+      "text": "8"
+    },
+    {
+      "lineNumber": 560,
+      "text": "("
+    },
+    {
+      "lineNumber": 561,
+      "text": "5"
+    },
+    {
+      "lineNumber": 562,
+      "text": "4"
+    },
+    {
+      "lineNumber": 563,
+      "text": ")"
+    },
+    {
+      "lineNumber": 564,
+      "text": "2"
+    },
+    {
+      "lineNumber": 565,
+      "text": "+"
+    },
+    {
+      "lineNumber": 566,
+      "text": "("
+    },
+    {
+      "lineNumber": 567,
+      "text": "5"
+    },
+    {
+      "lineNumber": 568,
+      "text": "4"
+    },
+    {
+      "lineNumber": 569,
+      "text": ")"
+    },
+    {
+      "lineNumber": 570,
+      "text": "4"
+    },
+    {
+      "lineNumber": 571,
+      "text": "]"
+    },
+    {
+      "lineNumber": 572,
+      "text": "+"
+    },
+    {
+      "lineNumber": 573,
+      "text": "1"
+    },
+    {
+      "lineNumber": 574,
+      "text": "400"
+    },
+    {
+      "lineNumber": 575,
+      "text": "1"
+    },
+    {
+      "lineNumber": 576,
+      "text": "10"
+    },
+    {
+      "lineNumber": 577,
+      "text": "["
+    },
+    {
+      "lineNumber": 578,
+      "text": "11"
+    },
+    {
+      "lineNumber": 579,
+      "text": "+"
+    },
+    {
+      "lineNumber": 580,
+      "text": "12"
+    },
+    {
+      "lineNumber": 581,
+      "text": "5"
+    },
+    {
+      "lineNumber": 582,
+      "text": "4"
+    },
+    {
+      "lineNumber": 583,
+      "text": "+"
+    },
+    {
+      "lineNumber": 584,
+      "text": "8"
+    },
+    {
+      "lineNumber": 585,
+      "text": "("
+    },
+    {
+      "lineNumber": 586,
+      "text": "5"
+    },
+    {
+      "lineNumber": 587,
+      "text": "4"
+    },
+    {
+      "lineNumber": 588,
+      "text": ")"
+    },
+    {
+      "lineNumber": 589,
+      "text": "2"
+    },
+    {
+      "lineNumber": 590,
+      "text": "+"
+    },
+    {
+      "lineNumber": 591,
+      "text": "("
+    },
+    {
+      "lineNumber": 592,
+      "text": "5"
+    },
+    {
+      "lineNumber": 593,
+      "text": "4"
+    },
+    {
+      "lineNumber": 594,
+      "text": ")"
+    },
+    {
+      "lineNumber": 595,
+      "text": "4"
+    },
+    {
+      "lineNumber": 596,
+      "text": "]"
+    },
+    {
+      "lineNumber": 597,
+      "text": "="
+    },
+    {
+      "lineNumber": 598,
+      "text": "112881"
+    },
+    {
+      "lineNumber": 599,
+      "text": "102400"
+    },
+    {
+      "lineNumber": 601,
+      "text": "The effective milk percentage for this setup is:"
+    },
+    {
+      "lineNumber": 603,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 604,
+      "text": "="
+    },
+    {
+      "lineNumber": 605,
+      "text": "1756"
+    },
+    {
+      "lineNumber": 606,
+      "text": "%"
+    },
+    {
+      "lineNumber": 607,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 608,
+      "text": "1.05"
+    },
+    {
+      "lineNumber": 609,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 610,
+      "text": "1.05"
+    },
+    {
+      "lineNumber": 611,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 612,
+      "text": "1.1"
+    },
+    {
+      "lineNumber": 613,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 614,
+      "text": "𝑓"
+    },
+    {
+      "lineNumber": 615,
+      "text": "𝑊"
+    },
+    {
+      "lineNumber": 616,
+      "text": "≈"
+    },
+    {
+      "lineNumber": 617,
+      "text": "2347.5599"
+    },
+    {
+      "lineNumber": 618,
+      "text": "%"
+    },
+    {
+      "lineNumber": 620,
+      "text": "Which gives the Kitten multiplier:"
+    },
+    {
+      "lineNumber": 622,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 623,
+      "text": "1"
+    },
+    {
+      "lineNumber": 624,
+      "text": "="
+    },
+    {
+      "lineNumber": 625,
+      "text": "("
+    },
+    {
+      "lineNumber": 626,
+      "text": "1"
+    },
+    {
+      "lineNumber": 627,
+      "text": "+"
+    },
+    {
+      "lineNumber": 628,
+      "text": "0.05"
+    },
+    {
+      "lineNumber": 629,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 630,
+      "text": ")"
+    },
+    {
+      "lineNumber": 631,
+      "text": "("
+    },
+    {
+      "lineNumber": 632,
+      "text": "1"
+    },
+    {
+      "lineNumber": 633,
+      "text": "+"
+    },
+    {
+      "lineNumber": 634,
+      "text": "0.1"
+    },
+    {
+      "lineNumber": 635,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 636,
+      "text": ")"
+    },
+    {
+      "lineNumber": 637,
+      "text": "2"
+    },
+    {
+      "lineNumber": 638,
+      "text": "("
+    },
+    {
+      "lineNumber": 639,
+      "text": "1"
+    },
+    {
+      "lineNumber": 640,
+      "text": "+"
+    },
+    {
+      "lineNumber": 641,
+      "text": "0.115"
+    },
+    {
+      "lineNumber": 642,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 643,
+      "text": ")"
+    },
+    {
+      "lineNumber": 644,
+      "text": "("
+    },
+    {
+      "lineNumber": 645,
+      "text": "1"
+    },
+    {
+      "lineNumber": 646,
+      "text": "+"
+    },
+    {
+      "lineNumber": 647,
+      "text": "0.125"
+    },
+    {
+      "lineNumber": 648,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 649,
+      "text": ")"
+    },
+    {
+      "lineNumber": 650,
+      "text": "2"
+    },
+    {
+      "lineNumber": 652,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 653,
+      "text": "="
+    },
+    {
+      "lineNumber": 654,
+      "text": "𝐾"
+    },
+    {
+      "lineNumber": 655,
+      "text": "1"
+    },
+    {
+      "lineNumber": 656,
+      "text": "∗"
+    },
+    {
+      "lineNumber": 657,
+      "text": "("
+    },
+    {
+      "lineNumber": 658,
+      "text": "1"
+    },
+    {
+      "lineNumber": 659,
+      "text": "+"
+    },
+    {
+      "lineNumber": 660,
+      "text": "0.15"
+    },
+    {
+      "lineNumber": 661,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 662,
+      "text": ")"
+    },
+    {
+      "lineNumber": 663,
+      "text": "2"
+    },
+    {
+      "lineNumber": 664,
+      "text": "("
+    },
+    {
+      "lineNumber": 665,
+      "text": "1"
+    },
+    {
+      "lineNumber": 666,
+      "text": "+"
+    },
+    {
+      "lineNumber": 667,
+      "text": "0.175"
+    },
+    {
+      "lineNumber": 668,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 669,
+      "text": ")"
+    },
+    {
+      "lineNumber": 670,
+      "text": "2"
+    },
+    {
+      "lineNumber": 671,
+      "text": "("
+    },
+    {
+      "lineNumber": 672,
+      "text": "1"
+    },
+    {
+      "lineNumber": 673,
+      "text": "+"
+    },
+    {
+      "lineNumber": 674,
+      "text": "0.2"
+    },
+    {
+      "lineNumber": 675,
+      "text": "𝑀"
+    },
+    {
+      "lineNumber": 676,
+      "text": ")"
+    },
+    {
+      "lineNumber": 677,
+      "text": "5"
+    },
+    {
+      "lineNumber": 679,
+      "text": "This is approximately 4,458,570,563."
+    },
+    {
+      "lineNumber": 681,
+      "text": "The Nursetulip factor will be:"
+    },
+    {
+      "lineNumber": 683,
+      "text": "𝑓"
+    },
+    {
+      "lineNumber": 684,
+      "text": "𝑁"
+    },
+    {
+      "lineNumber": 685,
+      "text": "="
+    },
+    {
+      "lineNumber": 686,
+      "text": "("
+    },
+    {
+      "lineNumber": 687,
+      "text": "1"
+    },
+    {
+      "lineNumber": 688,
+      "text": "−"
+    },
+    {
+      "lineNumber": 689,
+      "text": "1"
+    },
+    {
+      "lineNumber": 690,
+      "text": "40"
+    },
+    {
+      "lineNumber": 691,
+      "text": ")"
+    },
+    {
+      "lineNumber": 692,
+      "text": "4"
+    },
+    {
+      "lineNumber": 693,
+      "text": "="
+    },
+    {
+      "lineNumber": 694,
+      "text": "("
+    },
+    {
+      "lineNumber": 695,
+      "text": "39"
+    },
+    {
+      "lineNumber": 696,
+      "text": "40"
+    },
+    {
+      "lineNumber": 697,
+      "text": ")"
+    },
+    {
+      "lineNumber": 698,
+      "text": "4"
+    },
+    {
+      "lineNumber": 699,
+      "text": "≈"
+    },
+    {
+      "lineNumber": 700,
+      "text": "0.9037"
+    },
+    {
+      "lineNumber": 702,
+      "text": "With a resulting overall production multiplier of fN * K ~ 4,029,156,227, which is ~1.3536 times as much as the previous example, and 2.8% higher than the simple arrangement of 36 Whiskerblooms."
+    },
+    {
+      "lineNumber": 704,
+      "text": "Graphs"
+    },
+    {
+      "lineNumber": 706,
+      "text": "The top image shows the cumulative multipliers for each kitten upgrade, assuming all the previous upgrades were purchased, based on the milk percentage. In each group of 3 lines, the bottom line is the base multiplier, the middle line is the multiplier with either Santa's milk and cookies or Breath of Milk, and the top line is the multiplier with both. In the endgame, with 500 or more achievements, each kitten upgrade (except Kitten angels) at least triples production."
+    },
+    {
+      "lineNumber": 708,
+      "text": "The bottom image shows the multiplier for the Breath of Milk dragon aura, based on the milk percentage and which kitten upgrades are active. The bottom line is the base multiplier, the next lines is the multiplier with Mokalsium, Mother Spirit at 5% or 10%. The lines for each kitten upgrade assume that all previous kitten upgrades are active as well. The base line assumes Santa's milk and cookies has been bought, but the 1.05 milk multiplier of Santa's milk would equal Mokalsium, Mother Spirit at 5%. Also, since Breath of Milk and Santa's milk and cookies have identical effects, their meanings on the chart can be swapped."
+    },
+    {
+      "lineNumber": 710,
+      "text": "Dunking the Cookie"
+    },
+    {
+      "lineNumber": 712,
+      "text": "The Cookie-dunker Achievement is gained by accumulating enough Milk and adjusting the game window in a way that the Big Cookie is overlaid by the Milk graphic on a sizeable area. This can be done by zooming in a lot, reducing the height of the window, or reducing the display area by pressing F12."
+    },
+    {
+      "lineNumber": 714,
+      "text": "Toys"
+    },
+    {
+      "lineNumber": 715,
+      "text": "Main article: Toys"
+    },
+    {
+      "lineNumber": 717,
+      "text": "Milk toys are interactive, physics-enabled objects that can appear in the left panel when Cookie Clicker loads. Toys have a 1/10,000 (0.01%) chance of appearing when the game loads, making them one of the rarest occurrences in Cookie Clicker. They don't do anything to alter gameplay. Reloading the page will almost certainly cause them to disappear."
+    },
+    {
+      "lineNumber": 719,
+      "text": "Trivia"
+    },
+    {
+      "lineNumber": 720,
+      "text": "In the Stats menu, where other upgrades say \"purchased\", the kitten upgrades all say \"purrchased\"."
+    },
+    {
+      "lineNumber": 721,
+      "text": "Likewise, in the store, the kitten upgrades say \"click to purrchase\" instead of \"click to purchase\"."
+    },
+    {
+      "lineNumber": 722,
+      "text": "In the source code of the game, Sanguine Milk is referred to as \"blood milk\", with the image called milkblood.png."
+    },
+    {
+      "lineNumber": 723,
+      "text": "This makes sense, as \"sanguine\" has the same etymology as \"sang\" which means \"blood\" in French, Orteil's native language."
+    },
+    {
+      "lineNumber": 724,
+      "text": "References"
+    },
+    {
+      "lineNumber": 725,
+      "text": "The description for the Kitten wages upgrade is a reference to the meme \"Cats can have little a salami [sic]\"."
+    },
+    {
+      "lineNumber": 726,
+      "text": "The name of the \"Kitten assistants to the regional manager\" upgrade is a reference to the TV show The Office. The description of Kitten assistants to the regional manager is a quote from Dwight Schrute, who holds the position of \"Assistant to the regional manager.\""
+    },
+    {
+      "lineNumber": 727,
+      "text": "The description of the Kitten strategists \"out with the old in with the mew, sir\" references a common English idiom originating in the 18th century."
+    },
+    {
+      "lineNumber": 728,
+      "text": "This box: view • talk • edit"
+    },
+    {
+      "lineNumber": 729,
+      "text": "Cookie Clicker game mechanics"
+    },
+    {
+      "lineNumber": 730,
+      "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 731,
+      "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 732,
+      "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 733,
+      "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 734,
+      "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 735,
+      "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 736,
+      "text": "Further reading\tGameplay"
+    },
+    {
+      "lineNumber": 737,
+      "text": "Categories"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Appearance",
+      "lineNumber": 52,
+      "lines": [
+        {
+          "lineNumber": 54,
+          "text": "As the player gains more and more (non-shadow) achievements, Milk will change its appearance and flavor. The current Milk flavor and rank are shown at the top of the Achievements section in Stats."
+        },
+        {
+          "lineNumber": 56,
+          "text": "Icon\tMilk %\tAchievements\tRank\tFlavor"
+        },
+        {
+          "lineNumber": 57,
+          "text": "0%-96%\t0-24\tI\t(Plain) Milk"
+        },
+        {
+          "lineNumber": 58,
+          "text": "100%-196%\t25-49\tII\tChocolate Milk"
+        },
+        {
+          "lineNumber": 59,
+          "text": "200%-296%\t50-74\tIII\tRaspberry Milk"
+        },
+        {
+          "lineNumber": 60,
+          "text": "300%-396%\t75-99\tIV\tOrange Milk"
+        },
+        {
+          "lineNumber": 61,
+          "text": "400%-496%\t100-124\tV\tCaramel Milk"
+        },
+        {
+          "lineNumber": 62,
+          "text": "500%-596%\t125-149\tVI\tBanana Milk"
+        },
+        {
+          "lineNumber": 63,
+          "text": "600%-696%\t150-174\tVII\tLime Milk"
+        },
+        {
+          "lineNumber": 64,
+          "text": "700%-796%\t175-199\tVIII\tBlueberry Milk"
+        },
+        {
+          "lineNumber": 65,
+          "text": "800%-896%\t200-224\tIX\tStrawberry Milk"
+        },
+        {
+          "lineNumber": 66,
+          "text": "900%-996%\t225-249\tX\tVanilla Milk"
+        },
+        {
+          "lineNumber": 67,
+          "text": "1,000%-1,096%\t250-274\tXI\tHoney Milk"
+        },
+        {
+          "lineNumber": 68,
+          "text": "1,100%-1,196%\t275-299\tXII\tCoffee Milk"
+        },
+        {
+          "lineNumber": 69,
+          "text": "1,200%-1,296%\t300-324\tXIII\tTea Milk"
+        },
+        {
+          "lineNumber": 70,
+          "text": "1,300%-1,396%\t325-349\tXIV\tCoconut Milk"
+        },
+        {
+          "lineNumber": 71,
+          "text": "1,400%-1,496%\t350-374\tXV\tCherry Milk"
+        },
+        {
+          "lineNumber": 72,
+          "text": "1,500%-1,596%\t375-399\tXVI\tSpiced Milk"
+        },
+        {
+          "lineNumber": 73,
+          "text": "1,600%-1,696%\t400-424\tXVII\tMaple Milk"
+        },
+        {
+          "lineNumber": 74,
+          "text": "1,700%-1,796%\t425-449\tXVIII\tMint Milk"
+        },
+        {
+          "lineNumber": 75,
+          "text": "1,800%-1,896%\t450-474\tXIX\tLicorice Milk"
+        },
+        {
+          "lineNumber": 76,
+          "text": "1,900%-1,996%\t475-499\tXX\tRose Milk"
+        },
+        {
+          "lineNumber": 77,
+          "text": "2,000%-2,096%\t500-524\tXXI\tDragonfruit Milk"
+        },
+        {
+          "lineNumber": 78,
+          "text": "2,100%-2,196%\t525-549\tXXII\tMelon Milk"
+        },
+        {
+          "lineNumber": 79,
+          "text": "2,200%-2,296%\t550-574\tXXIII\tBlackcurrant Milk"
+        },
+        {
+          "lineNumber": 80,
+          "text": "2,300%-2,396%\t575-599\tXXIV\tPeach Milk"
+        },
+        {
+          "lineNumber": 81,
+          "text": "2,400%-2,488%\t600-622\tXXV\tHazelnut Milk"
+        },
+        {
+          "lineNumber": 82,
+          "text": "Plain Milk"
+        },
+        {
+          "lineNumber": 83,
+          "text": "Chocolate Milk"
+        },
+        {
+          "lineNumber": 84,
+          "text": "Raspberry Milk"
+        },
+        {
+          "lineNumber": 85,
+          "text": "Orange Milk"
+        },
+        {
+          "lineNumber": 86,
+          "text": "Caramel Milk"
+        },
+        {
+          "lineNumber": 87,
+          "text": "Banana Milk"
+        },
+        {
+          "lineNumber": 88,
+          "text": "Lime Milk"
+        },
+        {
+          "lineNumber": 89,
+          "text": "Blueberry Milk"
+        },
+        {
+          "lineNumber": 90,
+          "text": "Strawberry Milk"
+        },
+        {
+          "lineNumber": 91,
+          "text": "Vanilla Milk"
+        },
+        {
+          "lineNumber": 92,
+          "text": "Honey Milk"
+        },
+        {
+          "lineNumber": 93,
+          "text": "Coffee Milk"
+        },
+        {
+          "lineNumber": 94,
+          "text": "Tea Milk"
+        },
+        {
+          "lineNumber": 95,
+          "text": "Coconut Milk"
+        },
+        {
+          "lineNumber": 96,
+          "text": "Cherry Milk"
+        },
+        {
+          "lineNumber": 97,
+          "text": "Spiced Milk"
+        },
+        {
+          "lineNumber": 98,
+          "text": "Maple Milk"
+        },
+        {
+          "lineNumber": 99,
+          "text": "Mint Milk"
+        },
+        {
+          "lineNumber": 100,
+          "text": "Licorice Milk"
+        },
+        {
+          "lineNumber": 101,
+          "text": "Rose Milk"
+        },
+        {
+          "lineNumber": 102,
+          "text": "Dragonfruit Milk"
+        },
+        {
+          "lineNumber": 103,
+          "text": "Melon Milk"
+        },
+        {
+          "lineNumber": 104,
+          "text": "Blackcurrant Milk"
+        },
+        {
+          "lineNumber": 105,
+          "text": "Peach Milk"
+        },
+        {
+          "lineNumber": 106,
+          "text": "Hazelnut Milk"
+        },
+        {
+          "lineNumber": 108,
+          "text": "After purchasing the Classic dairy selection heavenly upgrade, you may freely choose the flavor of Milk using the \"Milk selector\" switch. However, this is only a cosmetic change, and does not affect the information shown in the stats menu. Additionally, there are 9 more types of Milk added by purchasing the Fanciful dairy selection heavenly upgrade: Zebra Milk, Cosmic Milk, Flaming Milk, Sanguine Milk, Midas Milk, Midnight Milk, Green Inferno Milk, Frostfire Milk and Soy Milk. These new types of Milk are unique in introducing not only new colors, but new patterns to the Milk."
+        },
+        {
+          "lineNumber": 110,
+          "text": "Fanciful Dairy Selection"
+        },
+        {
+          "lineNumber": 112,
+          "text": "Zebra Milk"
+        },
+        {
+          "lineNumber": 113,
+          "text": "Cosmic Milk"
+        },
+        {
+          "lineNumber": 114,
+          "text": "Flaming Milk"
+        },
+        {
+          "lineNumber": 115,
+          "text": "Sanguine Milk"
+        },
+        {
+          "lineNumber": 116,
+          "text": "Midas Milk"
+        },
+        {
+          "lineNumber": 117,
+          "text": "Midnight Milk"
+        },
+        {
+          "lineNumber": 118,
+          "text": "Green Inferno Milk"
+        },
+        {
+          "lineNumber": 119,
+          "text": "Frostfire Milk"
+        },
+        {
+          "lineNumber": 120,
+          "text": "Soy Milk"
+        }
+      ]
+    },
+    {
+      "heading": "Kittens",
+      "lineNumber": 121,
+      "lines": [
+        {
+          "lineNumber": 123,
+          "text": "There are 15 regular kitten upgrades, a kitten-like fortune upgrade, and a heavenly upgrade sharing the same type of milk-based effect."
+        },
+        {
+          "lineNumber": 125,
+          "text": "Icon\tName\tUnlock condition\tBase price\tDescription\tMilk factor\tID"
+        },
+        {
+          "lineNumber": 128,
+          "text": "Kitten helpers\t13 Achievements"
+        },
+        {
+          "lineNumber": 129,
+          "text": "(52% Milk)\t 9 million\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 130,
+          "text": "\"meow may I help you\"\t0.1\t31"
+        },
+        {
+          "lineNumber": 133,
+          "text": "Kitten workers\t25 Achievements"
+        },
+        {
+          "lineNumber": 134,
+          "text": "(100% Milk)\t 9 billion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 135,
+          "text": "\"meow meow meow meow\"\t0.125\t32"
+        },
+        {
+          "lineNumber": 138,
+          "text": "Kitten engineers\t50 Achievements"
+        },
+        {
+          "lineNumber": 139,
+          "text": "(200% Milk)\t 90 trillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 140,
+          "text": "\"meow meow meow meow, sir\"\t0.15\t54"
+        },
+        {
+          "lineNumber": 143,
+          "text": "Kitten overseers\t75 Achievements"
+        },
+        {
+          "lineNumber": 144,
+          "text": "(300% Milk)\t 90 quadrillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 145,
+          "text": "\"my purrpose is to serve you, sir\"\t0.175\t108"
+        },
+        {
+          "lineNumber": 148,
+          "text": "Kitten managers\t100 Achievements"
+        },
+        {
+          "lineNumber": 149,
+          "text": "(400% Milk)\t 900 quintillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 150,
+          "text": "\"that's not gonna paws any problems, sir\"\t0.2\t187"
+        },
+        {
+          "lineNumber": 153,
+          "text": "Kitten accountants\t125 Achievements"
+        },
+        {
+          "lineNumber": 154,
+          "text": "(500% Milk)\t 900 sextillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 155,
+          "text": "\"business going great, sir\"\t0.2\t320"
+        },
+        {
+          "lineNumber": 158,
+          "text": "Kitten specialists\t150 Achievements"
+        },
+        {
+          "lineNumber": 159,
+          "text": "(600% Milk)\t 900 septillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 160,
+          "text": "\"optimeowzing your workflow like whoah, sir\"\t0.2\t321"
+        },
+        {
+          "lineNumber": 163,
+          "text": "Kitten experts\t175 Achievements"
+        },
+        {
+          "lineNumber": 164,
+          "text": "(700% Milk)\t 900 octillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 165,
+          "text": "\"10 years expurrrtise in the cookie business, sir\"\t0.2\t322"
+        },
+        {
+          "lineNumber": 168,
+          "text": "Kitten consultants\t200 Achievements"
+        },
+        {
+          "lineNumber": 169,
+          "text": "(800% Milk)\t 900 nonillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 170,
+          "text": "\"glad to be overpaid to work with you, sir\"\t0.2\t425"
+        },
+        {
+          "lineNumber": 173,
+          "text": "Kitten assistants to the regional manager\t225 Achievements"
+        },
+        {
+          "lineNumber": 174,
+          "text": "(900% Milk)\t 900 decillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 175,
+          "text": "\"nothing stresses meowt... except having to seek the approval of my inferiors, sir\"\t0.175\t442"
+        },
+        {
+          "lineNumber": 178,
+          "text": "Kitten marketeers\t250 achievements"
+        },
+        {
+          "lineNumber": 179,
+          "text": "(1000% milk)\t 900 undecillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 180,
+          "text": "\"no such thing as a saturated markit, sir\"\t0.15\t462"
+        },
+        {
+          "lineNumber": 183,
+          "text": "Kitten analysts\t275 achievements"
+        },
+        {
+          "lineNumber": 184,
+          "text": "(1100% milk)\t 900 duodecillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 185,
+          "text": "\"based on purrent return-on-investment meowdels we should be able to affurd to pay our empawyees somewhere around next century, sir\"\t0.125\t494"
+        },
+        {
+          "lineNumber": 188,
+          "text": "Kitten executives\t300 achievements"
+        },
+        {
+          "lineNumber": 189,
+          "text": "(1200% milk)\t 900 tredecillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 190,
+          "text": "\"ready to execute whatever and whoever you'd like, sir\"\t0.115\t613"
+        },
+        {
+          "lineNumber": 193,
+          "text": "Kitten admins\t325 achievements"
+        },
+        {
+          "lineNumber": 194,
+          "text": "(1300% milk)\t 900 quattuordecillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 195,
+          "text": "\"leadership ain't easy, sir\"\t0.11\t766"
+        },
+        {
+          "lineNumber": 198,
+          "text": "Kitten strategists\t350 achievements"
+        },
+        {
+          "lineNumber": 199,
+          "text": "(1400% milk)\t 900 quindecillion\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 200,
+          "text": "\"out with the old in with the mew, sir\"\t0.105\t865"
+        },
+        {
+          "lineNumber": 203,
+          "text": "Fortune #103\tRandom fortune from news ticker\t 86,400 x CpS"
+        },
+        {
+          "lineNumber": 204,
+          "text": "(Max: 7.778 tredecillion)\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 205,
+          "text": "\"Don't believe the superstitions; all cats are good luck.\"\t0.05\t641"
+        },
+        {
+          "lineNumber": 208,
+          "text": "Kitten angels"
+        },
+        {
+          "lineNumber": 209,
+          "text": "(heavenly upgrade)\t\"Dominions\" purchased\t 9,000\tYou gain more CpS the more milk you have."
+        },
+        {
+          "lineNumber": 210,
+          "text": "\"All cats go to heaven.\"\t0.1\t291"
+        },
+        {
+          "lineNumber": 213,
+          "text": "Kitten wages"
+        },
+        {
+          "lineNumber": 214,
+          "text": "(heavenly upgrade)\t\"Kitten angels\" purchased\t 9 billion\tThrough clever accounting, this actually makes kitten upgrades 10% cheaper."
+        },
+        {
+          "lineNumber": 215,
+          "text": "\"Cats can have little a salary."
+        },
+        {
+          "lineNumber": 216,
+          "text": "Cats are expert hagglers and have a keen sense of bargaining, especially in the case of cash.\"\tN/A\t646"
+        },
+        {
+          "lineNumber": 218,
+          "text": "Each kitten upgrade's Milk Factor, multiplied by the Milk Percentage, provides a CpS production boost. These effects stack multiplicatively, with the Milk Percentage applied separately for each kitten upgrade. For example, say you have Kitten helpers, Kitten engineers, and 200% Milk (50 achievements). Kitten helpers multiplies production by 1 + 2 * 0.1 = 1.2, and Kitten engineers multiplies production by 1 + 2 * 0.15 = 1.3. Combined, these two multipliers will get you a total production multiplier of (1 + 2 * 0.1) * (1 + 2 * 0.15) = 1.2 * 1.3 = 1.56."
+        },
+        {
+          "lineNumber": 220,
+          "text": "Note that this is not multiplying all the kitten factors by the milk percentage (which in this example would get you 2 * (1 + 0.1) * (1 + .15) = 2.53), and while the method used initially results in a lower milk percentage, the multiplier quickly becomes higher with the used method after the 5th kitten upgrade is purchased. With 350 achievements (1400% milk) and all regular kitten upgrades purchased, the CpS production boost is 2,693,564,425%. With all 622 achievements (2488% milk) as of v2.052 and all 17 kitten upgrades (including Fortune #103 and Kitten angels), the CpS production boost is 11,759,167,698,203%. You can check the overall Kitten multiplier in top of Achievements section in Stats."
+        }
+      ]
+    },
+    {
+      "heading": "Modifiers",
+      "lineNumber": 222,
+      "lines": [
+        {
+          "lineNumber": 224,
+          "text": "There are modifiers that can increase the Milk Factor of your kitten upgrades."
+        },
+        {
+          "lineNumber": 226,
+          "text": "Modifier\tMilk Factor multiplier"
+        },
+        {
+          "lineNumber": 227,
+          "text": "Santa upgrade: Santa's milk and cookies\t1.05"
+        },
+        {
+          "lineNumber": 228,
+          "text": "Auras: Reality Bending / Breath of Milk / Both\t1.005 / 1.05 / 1.055"
+        },
+        {
+          "lineNumber": 229,
+          "text": "Mokalsium, Mother Spirit: Diamond / Ruby / Jade\t1.1 / 1.05 / 1.03"
+        },
+        {
+          "lineNumber": 230,
+          "text": "Garden plants (mature, clay)\t1+0.0025W"
+        },
+        {
+          "lineNumber": 231,
+          "text": "W = # of Whiskerbloom"
+        },
+        {
+          "lineNumber": 233,
+          "text": "These are multipliers to individual Milk Factors of each of your kitten upgrades and stack with each other multiplicatively. For example, if you have Kitten managers, the Milk Factor would be 0.2* 1.05 = 0.21 with one of the 1.05 modifiers (Santa upgrade, Breath of Milk aura, or Mokalsium in the Ruby slot). With three 1.05 modifiers, the effective Milk Factor would be 0.2 * 1.05^3 = 0.231525."
+        },
+        {
+          "lineNumber": 235,
+          "text": "Total Modifier\tWithout Santa's Milk and Cookies\tWith Santa's Milk and Cookies"
+        },
+        {
+          "lineNumber": 236,
+          "text": "Mokalsium:\tN/A\tJade\tRuby\tDiamond\tN/A\tJade\tRuby\tDiamond"
+        },
+        {
+          "lineNumber": 237,
+          "text": "No Dragon Aura\t1\t1.03\t1.05\t1.1\t1.05\t1.0815\t1.1025\t1.155"
+        },
+        {
+          "lineNumber": 238,
+          "text": "Reality Bending\t1.005\t1.03515\t1.05525\t1.1055\t1.05525\t1.0869075\t1.1080125\t1.160775"
+        },
+        {
+          "lineNumber": 239,
+          "text": "Breath of Milk\t1.05\t1.0815\t1.1025\t1.155\t1.1025\t1.135575\t1.157625\t1.21275"
+        },
+        {
+          "lineNumber": 240,
+          "text": "Both Auras\t1.055\t1.08665\t1.10775\t1.1605\t1.10775\t1.1409825\t1.1631375\t1.218525"
+        },
+        {
+          "lineNumber": 242,
+          "text": "With Diamond Mokalsium, Santa's Milk and Cookies, Both Auras, all kitten upgrades (including Fortune #103 and Kitten angels), and all 622 achievements (2488% milk) as of v2.052, the total CpS multiplier would be 164,190,867,250,320%."
+        },
+        {
+          "lineNumber": 244,
+          "text": "The effect of Garden plants on Milk percentage is much more complex. The power of Whiskerbloom can be increased by Nursetulip, but Nursetulip itself will reduce overall CpS. See the following examples for detailed discussion. All examples assume:"
+        },
+        {
+          "lineNumber": 246,
+          "text": "439 achievements obtained, 1756% base milk% (maximum as v2.021)"
+        },
+        {
+          "lineNumber": 247,
+          "text": "All kittens owned (including Fortune #103)"
+        },
+        {
+          "lineNumber": 248,
+          "text": "All 3 non-garden modifiers owned"
+        },
+        {
+          "lineNumber": 249,
+          "text": "Aura: Breath of Milk only"
+        },
+        {
+          "lineNumber": 250,
+          "text": "Mokalsium: Diamond slot"
+        },
+        {
+          "lineNumber": 251,
+          "text": "All plants are mature"
+        },
+        {
+          "lineNumber": 252,
+          "text": "The soil is clay."
+        }
+      ]
+    },
+    {
+      "heading": "Example 1",
+      "lineNumber": 253,
+      "lines": [
+        {
+          "lineNumber": 255,
+          "text": "A full 6x6 plot of 36 Whiskerblooms has the modifier, fW, of 1 + 0.0025 * 36 = 1.09, and combining all other three non-garden multipliers will give the effective milk percentage:"
+        },
+        {
+          "lineNumber": 257,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 258,
+          "text": "="
+        },
+        {
+          "lineNumber": 259,
+          "text": "1756"
+        },
+        {
+          "lineNumber": 260,
+          "text": "%"
+        },
+        {
+          "lineNumber": 261,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 262,
+          "text": "1.05"
+        },
+        {
+          "lineNumber": 263,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 264,
+          "text": "1.05"
+        },
+        {
+          "lineNumber": 265,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 266,
+          "text": "1.1"
+        },
+        {
+          "lineNumber": 267,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 268,
+          "text": "𝑓"
+        },
+        {
+          "lineNumber": 269,
+          "text": "𝑊"
+        },
+        {
+          "lineNumber": 270,
+          "text": "="
+        },
+        {
+          "lineNumber": 271,
+          "text": "2321.25201"
+        },
+        {
+          "lineNumber": 272,
+          "text": "%"
+        },
+        {
+          "lineNumber": 274,
+          "text": "The resulting Kitten multiplier will then be:"
+        },
+        {
+          "lineNumber": 276,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 277,
+          "text": "1"
+        },
+        {
+          "lineNumber": 278,
+          "text": "="
+        },
+        {
+          "lineNumber": 279,
+          "text": "("
+        },
+        {
+          "lineNumber": 280,
+          "text": "1"
+        },
+        {
+          "lineNumber": 281,
+          "text": "+"
+        },
+        {
+          "lineNumber": 282,
+          "text": "0.05"
+        },
+        {
+          "lineNumber": 283,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 284,
+          "text": ")"
+        },
+        {
+          "lineNumber": 285,
+          "text": "("
+        },
+        {
+          "lineNumber": 286,
+          "text": "1"
+        },
+        {
+          "lineNumber": 287,
+          "text": "+"
+        },
+        {
+          "lineNumber": 288,
+          "text": "0.1"
+        },
+        {
+          "lineNumber": 289,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 290,
+          "text": ")"
+        },
+        {
+          "lineNumber": 291,
+          "text": "2"
+        },
+        {
+          "lineNumber": 292,
+          "text": "("
+        },
+        {
+          "lineNumber": 293,
+          "text": "1"
+        },
+        {
+          "lineNumber": 294,
+          "text": "+"
+        },
+        {
+          "lineNumber": 295,
+          "text": "0.115"
+        },
+        {
+          "lineNumber": 296,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 297,
+          "text": ")"
+        },
+        {
+          "lineNumber": 298,
+          "text": "("
+        },
+        {
+          "lineNumber": 299,
+          "text": "1"
+        },
+        {
+          "lineNumber": 300,
+          "text": "+"
+        },
+        {
+          "lineNumber": 301,
+          "text": "0.125"
+        },
+        {
+          "lineNumber": 302,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 303,
+          "text": ")"
+        },
+        {
+          "lineNumber": 304,
+          "text": "2"
+        },
+        {
+          "lineNumber": 306,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 307,
+          "text": "="
+        },
+        {
+          "lineNumber": 308,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 309,
+          "text": "1"
+        },
+        {
+          "lineNumber": 310,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 311,
+          "text": "("
+        },
+        {
+          "lineNumber": 312,
+          "text": "1"
+        },
+        {
+          "lineNumber": 313,
+          "text": "+"
+        },
+        {
+          "lineNumber": 314,
+          "text": "0.15"
+        },
+        {
+          "lineNumber": 315,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 316,
+          "text": ")"
+        },
+        {
+          "lineNumber": 317,
+          "text": "2"
+        },
+        {
+          "lineNumber": 318,
+          "text": "("
+        },
+        {
+          "lineNumber": 319,
+          "text": "1"
+        },
+        {
+          "lineNumber": 320,
+          "text": "+"
+        },
+        {
+          "lineNumber": 321,
+          "text": "0.175"
+        },
+        {
+          "lineNumber": 322,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 323,
+          "text": ")"
+        },
+        {
+          "lineNumber": 324,
+          "text": "2"
+        },
+        {
+          "lineNumber": 325,
+          "text": "("
+        },
+        {
+          "lineNumber": 326,
+          "text": "1"
+        },
+        {
+          "lineNumber": 327,
+          "text": "+"
+        },
+        {
+          "lineNumber": 328,
+          "text": "0.2"
+        },
+        {
+          "lineNumber": 329,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 330,
+          "text": ")"
+        },
+        {
+          "lineNumber": 331,
+          "text": "5"
+        },
+        {
+          "lineNumber": 333,
+          "text": "Which is approximately 3,919,378,731."
+        }
+      ]
+    },
+    {
+      "heading": "Example 2",
+      "lineNumber": 335,
+      "lines": [
+        {
+          "lineNumber": 337,
+          "text": "To reach the highest possible effective milk percentage, the Garden should initially be planted as follows:"
+        },
+        {
+          "lineNumber": 339,
+          "text": "W=Whiskerbloom, N=Nursetulip"
+        },
+        {
+          "lineNumber": 340,
+          "text": "W\tW\tW\tW\tW\tW"
+        },
+        {
+          "lineNumber": 341,
+          "text": "N\tN\tN\tN\tN\tN"
+        },
+        {
+          "lineNumber": 342,
+          "text": "W\tW\tW\tW\tW\tW"
+        },
+        {
+          "lineNumber": 343,
+          "text": "N\tN\tN\tN\tN\tN"
+        },
+        {
+          "lineNumber": 344,
+          "text": "W\tW\tW\tW\tW\tW"
+        },
+        {
+          "lineNumber": 345,
+          "text": "N\tN\tN\tN\tN\tN"
+        },
+        {
+          "lineNumber": 347,
+          "text": "Each Nursetulip (in clay) boosts adjacent plants' effects by 5/4. Nursetulip's boosts persist for the tick after it is unearthed, and we can plant a budding Whiskerbloom in its place to both avoid CpS penalty from the Nursetulips and get more milk multipliers. The overall Whiskerbloom modifier will be:"
+        },
+        {
+          "lineNumber": 349,
+          "text": "𝑓"
+        },
+        {
+          "lineNumber": 350,
+          "text": "𝑊"
+        },
+        {
+          "lineNumber": 351,
+          "text": "="
+        },
+        {
+          "lineNumber": 352,
+          "text": "1"
+        },
+        {
+          "lineNumber": 353,
+          "text": "+"
+        },
+        {
+          "lineNumber": 354,
+          "text": "1"
+        },
+        {
+          "lineNumber": 355,
+          "text": "400"
+        },
+        {
+          "lineNumber": 356,
+          "text": "["
+        },
+        {
+          "lineNumber": 357,
+          "text": "2"
+        },
+        {
+          "lineNumber": 358,
+          "text": "("
+        },
+        {
+          "lineNumber": 359,
+          "text": "5"
+        },
+        {
+          "lineNumber": 360,
+          "text": "4"
+        },
+        {
+          "lineNumber": 361,
+          "text": ")"
+        },
+        {
+          "lineNumber": 362,
+          "text": "2"
+        },
+        {
+          "lineNumber": 363,
+          "text": "+"
+        },
+        {
+          "lineNumber": 364,
+          "text": "4"
+        },
+        {
+          "lineNumber": 365,
+          "text": "("
+        },
+        {
+          "lineNumber": 366,
+          "text": "5"
+        },
+        {
+          "lineNumber": 367,
+          "text": "4"
+        },
+        {
+          "lineNumber": 368,
+          "text": ")"
+        },
+        {
+          "lineNumber": 369,
+          "text": "3"
+        },
+        {
+          "lineNumber": 370,
+          "text": "+"
+        },
+        {
+          "lineNumber": 371,
+          "text": "4"
+        },
+        {
+          "lineNumber": 372,
+          "text": "("
+        },
+        {
+          "lineNumber": 373,
+          "text": "5"
+        },
+        {
+          "lineNumber": 374,
+          "text": "4"
+        },
+        {
+          "lineNumber": 375,
+          "text": ")"
+        },
+        {
+          "lineNumber": 376,
+          "text": "4"
+        },
+        {
+          "lineNumber": 377,
+          "text": "+"
+        },
+        {
+          "lineNumber": 378,
+          "text": "8"
+        },
+        {
+          "lineNumber": 379,
+          "text": "("
+        },
+        {
+          "lineNumber": 380,
+          "text": "5"
+        },
+        {
+          "lineNumber": 381,
+          "text": "4"
+        },
+        {
+          "lineNumber": 382,
+          "text": ")"
+        },
+        {
+          "lineNumber": 383,
+          "text": "6"
+        },
+        {
+          "lineNumber": 384,
+          "text": "]"
+        },
+        {
+          "lineNumber": 385,
+          "text": "+"
+        },
+        {
+          "lineNumber": 386,
+          "text": "1"
+        },
+        {
+          "lineNumber": 387,
+          "text": "400"
+        },
+        {
+          "lineNumber": 388,
+          "text": "1"
+        },
+        {
+          "lineNumber": 389,
+          "text": "10"
+        },
+        {
+          "lineNumber": 390,
+          "text": "["
+        },
+        {
+          "lineNumber": 391,
+          "text": "6"
+        },
+        {
+          "lineNumber": 392,
+          "text": "("
+        },
+        {
+          "lineNumber": 393,
+          "text": "5"
+        },
+        {
+          "lineNumber": 394,
+          "text": "4"
+        },
+        {
+          "lineNumber": 395,
+          "text": ")"
+        },
+        {
+          "lineNumber": 396,
+          "text": "+"
+        },
+        {
+          "lineNumber": 397,
+          "text": "12"
+        },
+        {
+          "lineNumber": 398,
+          "text": "("
+        },
+        {
+          "lineNumber": 399,
+          "text": "5"
+        },
+        {
+          "lineNumber": 400,
+          "text": "4"
+        },
+        {
+          "lineNumber": 401,
+          "text": ")"
+        },
+        {
+          "lineNumber": 402,
+          "text": "2"
+        },
+        {
+          "lineNumber": 403,
+          "text": "]"
+        },
+        {
+          "lineNumber": 404,
+          "text": "="
+        },
+        {
+          "lineNumber": 405,
+          "text": "232369"
+        },
+        {
+          "lineNumber": 406,
+          "text": "204800"
+        },
+        {
+          "lineNumber": 407,
+          "text": "Or approximately a milk effectiveness of +13.46%."
+        },
+        {
+          "lineNumber": 409,
+          "text": "The max effective milk percentage which can be achieved is:"
+        },
+        {
+          "lineNumber": 411,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 412,
+          "text": "="
+        },
+        {
+          "lineNumber": 413,
+          "text": "1756"
+        },
+        {
+          "lineNumber": 414,
+          "text": "%"
+        },
+        {
+          "lineNumber": 415,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 416,
+          "text": "1.05"
+        },
+        {
+          "lineNumber": 417,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 418,
+          "text": "1.05"
+        },
+        {
+          "lineNumber": 419,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 420,
+          "text": "1.1"
+        },
+        {
+          "lineNumber": 421,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 422,
+          "text": "𝑓"
+        },
+        {
+          "lineNumber": 423,
+          "text": "𝑊"
+        },
+        {
+          "lineNumber": 424,
+          "text": "≈"
+        },
+        {
+          "lineNumber": 425,
+          "text": "2402.2866"
+        },
+        {
+          "lineNumber": 426,
+          "text": "%"
+        },
+        {
+          "lineNumber": 428,
+          "text": "The resulting Kitten multiplier would be:"
+        },
+        {
+          "lineNumber": 430,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 431,
+          "text": "1"
+        },
+        {
+          "lineNumber": 432,
+          "text": "="
+        },
+        {
+          "lineNumber": 433,
+          "text": "("
+        },
+        {
+          "lineNumber": 434,
+          "text": "1"
+        },
+        {
+          "lineNumber": 435,
+          "text": "+"
+        },
+        {
+          "lineNumber": 436,
+          "text": "0.05"
+        },
+        {
+          "lineNumber": 437,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 438,
+          "text": ")"
+        },
+        {
+          "lineNumber": 439,
+          "text": "("
+        },
+        {
+          "lineNumber": 440,
+          "text": "1"
+        },
+        {
+          "lineNumber": 441,
+          "text": "+"
+        },
+        {
+          "lineNumber": 442,
+          "text": "0.1"
+        },
+        {
+          "lineNumber": 443,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 444,
+          "text": ")"
+        },
+        {
+          "lineNumber": 445,
+          "text": "2"
+        },
+        {
+          "lineNumber": 446,
+          "text": "("
+        },
+        {
+          "lineNumber": 447,
+          "text": "1"
+        },
+        {
+          "lineNumber": 448,
+          "text": "+"
+        },
+        {
+          "lineNumber": 449,
+          "text": "0.115"
+        },
+        {
+          "lineNumber": 450,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 451,
+          "text": ")"
+        },
+        {
+          "lineNumber": 452,
+          "text": "("
+        },
+        {
+          "lineNumber": 453,
+          "text": "1"
+        },
+        {
+          "lineNumber": 454,
+          "text": "+"
+        },
+        {
+          "lineNumber": 455,
+          "text": "0.125"
+        },
+        {
+          "lineNumber": 456,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 457,
+          "text": ")"
+        },
+        {
+          "lineNumber": 458,
+          "text": "2"
+        },
+        {
+          "lineNumber": 460,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 461,
+          "text": "="
+        },
+        {
+          "lineNumber": 462,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 463,
+          "text": "1"
+        },
+        {
+          "lineNumber": 464,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 465,
+          "text": "("
+        },
+        {
+          "lineNumber": 466,
+          "text": "1"
+        },
+        {
+          "lineNumber": 467,
+          "text": "+"
+        },
+        {
+          "lineNumber": 468,
+          "text": "0.15"
+        },
+        {
+          "lineNumber": 469,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 470,
+          "text": ")"
+        },
+        {
+          "lineNumber": 471,
+          "text": "2"
+        },
+        {
+          "lineNumber": 472,
+          "text": "("
+        },
+        {
+          "lineNumber": 473,
+          "text": "1"
+        },
+        {
+          "lineNumber": 474,
+          "text": "+"
+        },
+        {
+          "lineNumber": 475,
+          "text": "0.175"
+        },
+        {
+          "lineNumber": 476,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 477,
+          "text": ")"
+        },
+        {
+          "lineNumber": 478,
+          "text": "2"
+        },
+        {
+          "lineNumber": 479,
+          "text": "("
+        },
+        {
+          "lineNumber": 480,
+          "text": "1"
+        },
+        {
+          "lineNumber": 481,
+          "text": "+"
+        },
+        {
+          "lineNumber": 482,
+          "text": "0.2"
+        },
+        {
+          "lineNumber": 483,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 484,
+          "text": ")"
+        },
+        {
+          "lineNumber": 485,
+          "text": "5"
+        },
+        {
+          "lineNumber": 487,
+          "text": "This is approximately 5,809,133,949. (this is all outdated by several updates)"
+        },
+        {
+          "lineNumber": 489,
+          "text": "However, single Nursetulips in clay also reduce overall CpS by 1/40. In this arrangement, they reduce CpS by a factor of:"
+        },
+        {
+          "lineNumber": 491,
+          "text": "𝑓"
+        },
+        {
+          "lineNumber": 492,
+          "text": "𝑁"
+        },
+        {
+          "lineNumber": 493,
+          "text": "="
+        },
+        {
+          "lineNumber": 494,
+          "text": "("
+        },
+        {
+          "lineNumber": 495,
+          "text": "1"
+        },
+        {
+          "lineNumber": 496,
+          "text": "−"
+        },
+        {
+          "lineNumber": 497,
+          "text": "1"
+        },
+        {
+          "lineNumber": 498,
+          "text": "40"
+        },
+        {
+          "lineNumber": 499,
+          "text": "5"
+        },
+        {
+          "lineNumber": 500,
+          "text": "4"
+        },
+        {
+          "lineNumber": 501,
+          "text": ")"
+        },
+        {
+          "lineNumber": 502,
+          "text": "6"
+        },
+        {
+          "lineNumber": 503,
+          "text": "["
+        },
+        {
+          "lineNumber": 504,
+          "text": "1"
+        },
+        {
+          "lineNumber": 505,
+          "text": "−"
+        },
+        {
+          "lineNumber": 506,
+          "text": "1"
+        },
+        {
+          "lineNumber": 507,
+          "text": "40"
+        },
+        {
+          "lineNumber": 508,
+          "text": "("
+        },
+        {
+          "lineNumber": 509,
+          "text": "5"
+        },
+        {
+          "lineNumber": 510,
+          "text": "4"
+        },
+        {
+          "lineNumber": 511,
+          "text": ")"
+        },
+        {
+          "lineNumber": 512,
+          "text": "2"
+        },
+        {
+          "lineNumber": 513,
+          "text": "]"
+        },
+        {
+          "lineNumber": 514,
+          "text": "12"
+        },
+        {
+          "lineNumber": 515,
+          "text": "="
+        },
+        {
+          "lineNumber": 516,
+          "text": "("
+        },
+        {
+          "lineNumber": 517,
+          "text": "31"
+        },
+        {
+          "lineNumber": 518,
+          "text": "32"
+        },
+        {
+          "lineNumber": 519,
+          "text": ")"
+        },
+        {
+          "lineNumber": 520,
+          "text": "6"
+        },
+        {
+          "lineNumber": 521,
+          "text": "("
+        },
+        {
+          "lineNumber": 522,
+          "text": "123"
+        },
+        {
+          "lineNumber": 523,
+          "text": "128"
+        },
+        {
+          "lineNumber": 524,
+          "text": ")"
+        },
+        {
+          "lineNumber": 525,
+          "text": "12"
+        },
+        {
+          "lineNumber": 526,
+          "text": "≈"
+        },
+        {
+          "lineNumber": 527,
+          "text": "0.5124033903"
+        },
+        {
+          "lineNumber": 529,
+          "text": "Which means the overall production multiplier is only fN * K ~ 2,976,619,930. Thus, despite having the largest possible Kitten multiplier, this setup is not viable for sustained CpS increase, as the amount of time without its CpS penalty is a maximum of 15 minutes."
+        }
+      ]
+    },
+    {
+      "heading": "Example 3",
+      "lineNumber": 531,
+      "lines": [
+        {
+          "lineNumber": 533,
+          "text": "To offset the Nursetulip debuff, the best garden arrangement is:"
+        },
+        {
+          "lineNumber": 535,
+          "text": "W=Whiskerbloom, N=Nursetulip"
+        },
+        {
+          "lineNumber": 536,
+          "text": "W\tW\tW\tW\tW\tW"
+        },
+        {
+          "lineNumber": 537,
+          "text": "W\tW\tW\tW\tW\tW"
+        },
+        {
+          "lineNumber": 538,
+          "text": "W\tW\tN\tW\tN\tW"
+        },
+        {
+          "lineNumber": 539,
+          "text": "W\tW\tW\tW\tW\tW"
+        },
+        {
+          "lineNumber": 540,
+          "text": "W\tW\tN\tW\tN\tW"
+        },
+        {
+          "lineNumber": 541,
+          "text": "W\tW\tW\tW\tW\tW"
+        },
+        {
+          "lineNumber": 543,
+          "text": "The total Whiskerbloom modifier for this setup is:"
+        },
+        {
+          "lineNumber": 545,
+          "text": "𝑓"
+        },
+        {
+          "lineNumber": 546,
+          "text": "𝑊"
+        },
+        {
+          "lineNumber": 547,
+          "text": "="
+        },
+        {
+          "lineNumber": 548,
+          "text": "1"
+        },
+        {
+          "lineNumber": 549,
+          "text": "+"
+        },
+        {
+          "lineNumber": 550,
+          "text": "1"
+        },
+        {
+          "lineNumber": 551,
+          "text": "400"
+        },
+        {
+          "lineNumber": 552,
+          "text": "["
+        },
+        {
+          "lineNumber": 553,
+          "text": "11"
+        },
+        {
+          "lineNumber": 554,
+          "text": "+"
+        },
+        {
+          "lineNumber": 555,
+          "text": "12"
+        },
+        {
+          "lineNumber": 556,
+          "text": "5"
+        },
+        {
+          "lineNumber": 557,
+          "text": "4"
+        },
+        {
+          "lineNumber": 558,
+          "text": "+"
+        },
+        {
+          "lineNumber": 559,
+          "text": "8"
+        },
+        {
+          "lineNumber": 560,
+          "text": "("
+        },
+        {
+          "lineNumber": 561,
+          "text": "5"
+        },
+        {
+          "lineNumber": 562,
+          "text": "4"
+        },
+        {
+          "lineNumber": 563,
+          "text": ")"
+        },
+        {
+          "lineNumber": 564,
+          "text": "2"
+        },
+        {
+          "lineNumber": 565,
+          "text": "+"
+        },
+        {
+          "lineNumber": 566,
+          "text": "("
+        },
+        {
+          "lineNumber": 567,
+          "text": "5"
+        },
+        {
+          "lineNumber": 568,
+          "text": "4"
+        },
+        {
+          "lineNumber": 569,
+          "text": ")"
+        },
+        {
+          "lineNumber": 570,
+          "text": "4"
+        },
+        {
+          "lineNumber": 571,
+          "text": "]"
+        },
+        {
+          "lineNumber": 572,
+          "text": "+"
+        },
+        {
+          "lineNumber": 573,
+          "text": "1"
+        },
+        {
+          "lineNumber": 574,
+          "text": "400"
+        },
+        {
+          "lineNumber": 575,
+          "text": "1"
+        },
+        {
+          "lineNumber": 576,
+          "text": "10"
+        },
+        {
+          "lineNumber": 577,
+          "text": "["
+        },
+        {
+          "lineNumber": 578,
+          "text": "11"
+        },
+        {
+          "lineNumber": 579,
+          "text": "+"
+        },
+        {
+          "lineNumber": 580,
+          "text": "12"
+        },
+        {
+          "lineNumber": 581,
+          "text": "5"
+        },
+        {
+          "lineNumber": 582,
+          "text": "4"
+        },
+        {
+          "lineNumber": 583,
+          "text": "+"
+        },
+        {
+          "lineNumber": 584,
+          "text": "8"
+        },
+        {
+          "lineNumber": 585,
+          "text": "("
+        },
+        {
+          "lineNumber": 586,
+          "text": "5"
+        },
+        {
+          "lineNumber": 587,
+          "text": "4"
+        },
+        {
+          "lineNumber": 588,
+          "text": ")"
+        },
+        {
+          "lineNumber": 589,
+          "text": "2"
+        },
+        {
+          "lineNumber": 590,
+          "text": "+"
+        },
+        {
+          "lineNumber": 591,
+          "text": "("
+        },
+        {
+          "lineNumber": 592,
+          "text": "5"
+        },
+        {
+          "lineNumber": 593,
+          "text": "4"
+        },
+        {
+          "lineNumber": 594,
+          "text": ")"
+        },
+        {
+          "lineNumber": 595,
+          "text": "4"
+        },
+        {
+          "lineNumber": 596,
+          "text": "]"
+        },
+        {
+          "lineNumber": 597,
+          "text": "="
+        },
+        {
+          "lineNumber": 598,
+          "text": "112881"
+        },
+        {
+          "lineNumber": 599,
+          "text": "102400"
+        },
+        {
+          "lineNumber": 601,
+          "text": "The effective milk percentage for this setup is:"
+        },
+        {
+          "lineNumber": 603,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 604,
+          "text": "="
+        },
+        {
+          "lineNumber": 605,
+          "text": "1756"
+        },
+        {
+          "lineNumber": 606,
+          "text": "%"
+        },
+        {
+          "lineNumber": 607,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 608,
+          "text": "1.05"
+        },
+        {
+          "lineNumber": 609,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 610,
+          "text": "1.05"
+        },
+        {
+          "lineNumber": 611,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 612,
+          "text": "1.1"
+        },
+        {
+          "lineNumber": 613,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 614,
+          "text": "𝑓"
+        },
+        {
+          "lineNumber": 615,
+          "text": "𝑊"
+        },
+        {
+          "lineNumber": 616,
+          "text": "≈"
+        },
+        {
+          "lineNumber": 617,
+          "text": "2347.5599"
+        },
+        {
+          "lineNumber": 618,
+          "text": "%"
+        },
+        {
+          "lineNumber": 620,
+          "text": "Which gives the Kitten multiplier:"
+        },
+        {
+          "lineNumber": 622,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 623,
+          "text": "1"
+        },
+        {
+          "lineNumber": 624,
+          "text": "="
+        },
+        {
+          "lineNumber": 625,
+          "text": "("
+        },
+        {
+          "lineNumber": 626,
+          "text": "1"
+        },
+        {
+          "lineNumber": 627,
+          "text": "+"
+        },
+        {
+          "lineNumber": 628,
+          "text": "0.05"
+        },
+        {
+          "lineNumber": 629,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 630,
+          "text": ")"
+        },
+        {
+          "lineNumber": 631,
+          "text": "("
+        },
+        {
+          "lineNumber": 632,
+          "text": "1"
+        },
+        {
+          "lineNumber": 633,
+          "text": "+"
+        },
+        {
+          "lineNumber": 634,
+          "text": "0.1"
+        },
+        {
+          "lineNumber": 635,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 636,
+          "text": ")"
+        },
+        {
+          "lineNumber": 637,
+          "text": "2"
+        },
+        {
+          "lineNumber": 638,
+          "text": "("
+        },
+        {
+          "lineNumber": 639,
+          "text": "1"
+        },
+        {
+          "lineNumber": 640,
+          "text": "+"
+        },
+        {
+          "lineNumber": 641,
+          "text": "0.115"
+        },
+        {
+          "lineNumber": 642,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 643,
+          "text": ")"
+        },
+        {
+          "lineNumber": 644,
+          "text": "("
+        },
+        {
+          "lineNumber": 645,
+          "text": "1"
+        },
+        {
+          "lineNumber": 646,
+          "text": "+"
+        },
+        {
+          "lineNumber": 647,
+          "text": "0.125"
+        },
+        {
+          "lineNumber": 648,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 649,
+          "text": ")"
+        },
+        {
+          "lineNumber": 650,
+          "text": "2"
+        },
+        {
+          "lineNumber": 652,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 653,
+          "text": "="
+        },
+        {
+          "lineNumber": 654,
+          "text": "𝐾"
+        },
+        {
+          "lineNumber": 655,
+          "text": "1"
+        },
+        {
+          "lineNumber": 656,
+          "text": "∗"
+        },
+        {
+          "lineNumber": 657,
+          "text": "("
+        },
+        {
+          "lineNumber": 658,
+          "text": "1"
+        },
+        {
+          "lineNumber": 659,
+          "text": "+"
+        },
+        {
+          "lineNumber": 660,
+          "text": "0.15"
+        },
+        {
+          "lineNumber": 661,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 662,
+          "text": ")"
+        },
+        {
+          "lineNumber": 663,
+          "text": "2"
+        },
+        {
+          "lineNumber": 664,
+          "text": "("
+        },
+        {
+          "lineNumber": 665,
+          "text": "1"
+        },
+        {
+          "lineNumber": 666,
+          "text": "+"
+        },
+        {
+          "lineNumber": 667,
+          "text": "0.175"
+        },
+        {
+          "lineNumber": 668,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 669,
+          "text": ")"
+        },
+        {
+          "lineNumber": 670,
+          "text": "2"
+        },
+        {
+          "lineNumber": 671,
+          "text": "("
+        },
+        {
+          "lineNumber": 672,
+          "text": "1"
+        },
+        {
+          "lineNumber": 673,
+          "text": "+"
+        },
+        {
+          "lineNumber": 674,
+          "text": "0.2"
+        },
+        {
+          "lineNumber": 675,
+          "text": "𝑀"
+        },
+        {
+          "lineNumber": 676,
+          "text": ")"
+        },
+        {
+          "lineNumber": 677,
+          "text": "5"
+        },
+        {
+          "lineNumber": 679,
+          "text": "This is approximately 4,458,570,563."
+        },
+        {
+          "lineNumber": 681,
+          "text": "The Nursetulip factor will be:"
+        },
+        {
+          "lineNumber": 683,
+          "text": "𝑓"
+        },
+        {
+          "lineNumber": 684,
+          "text": "𝑁"
+        },
+        {
+          "lineNumber": 685,
+          "text": "="
+        },
+        {
+          "lineNumber": 686,
+          "text": "("
+        },
+        {
+          "lineNumber": 687,
+          "text": "1"
+        },
+        {
+          "lineNumber": 688,
+          "text": "−"
+        },
+        {
+          "lineNumber": 689,
+          "text": "1"
+        },
+        {
+          "lineNumber": 690,
+          "text": "40"
+        },
+        {
+          "lineNumber": 691,
+          "text": ")"
+        },
+        {
+          "lineNumber": 692,
+          "text": "4"
+        },
+        {
+          "lineNumber": 693,
+          "text": "="
+        },
+        {
+          "lineNumber": 694,
+          "text": "("
+        },
+        {
+          "lineNumber": 695,
+          "text": "39"
+        },
+        {
+          "lineNumber": 696,
+          "text": "40"
+        },
+        {
+          "lineNumber": 697,
+          "text": ")"
+        },
+        {
+          "lineNumber": 698,
+          "text": "4"
+        },
+        {
+          "lineNumber": 699,
+          "text": "≈"
+        },
+        {
+          "lineNumber": 700,
+          "text": "0.9037"
+        },
+        {
+          "lineNumber": 702,
+          "text": "With a resulting overall production multiplier of fN * K ~ 4,029,156,227, which is ~1.3536 times as much as the previous example, and 2.8% higher than the simple arrangement of 36 Whiskerblooms."
+        }
+      ]
+    },
+    {
+      "heading": "Graphs",
+      "lineNumber": 704,
+      "lines": [
+        {
+          "lineNumber": 706,
+          "text": "The top image shows the cumulative multipliers for each kitten upgrade, assuming all the previous upgrades were purchased, based on the milk percentage. In each group of 3 lines, the bottom line is the base multiplier, the middle line is the multiplier with either Santa's milk and cookies or Breath of Milk, and the top line is the multiplier with both. In the endgame, with 500 or more achievements, each kitten upgrade (except Kitten angels) at least triples production."
+        },
+        {
+          "lineNumber": 708,
+          "text": "The bottom image shows the multiplier for the Breath of Milk dragon aura, based on the milk percentage and which kitten upgrades are active. The bottom line is the base multiplier, the next lines is the multiplier with Mokalsium, Mother Spirit at 5% or 10%. The lines for each kitten upgrade assume that all previous kitten upgrades are active as well. The base line assumes Santa's milk and cookies has been bought, but the 1.05 milk multiplier of Santa's milk would equal Mokalsium, Mother Spirit at 5%. Also, since Breath of Milk and Santa's milk and cookies have identical effects, their meanings on the chart can be swapped."
+        }
+      ]
+    },
+    {
+      "heading": "Dunking the Cookie",
+      "lineNumber": 710,
+      "lines": [
+        {
+          "lineNumber": 712,
+          "text": "The Cookie-dunker Achievement is gained by accumulating enough Milk and adjusting the game window in a way that the Big Cookie is overlaid by the Milk graphic on a sizeable area. This can be done by zooming in a lot, reducing the height of the window, or reducing the display area by pressing F12."
+        }
+      ]
+    },
+    {
+      "heading": "Toys",
+      "lineNumber": 714,
+      "lines": [
+        {
+          "lineNumber": 715,
+          "text": "Main article: Toys"
+        },
+        {
+          "lineNumber": 717,
+          "text": "Milk toys are interactive, physics-enabled objects that can appear in the left panel when Cookie Clicker loads. Toys have a 1/10,000 (0.01%) chance of appearing when the game loads, making them one of the rarest occurrences in Cookie Clicker. They don't do anything to alter gameplay. Reloading the page will almost certainly cause them to disappear."
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "lineNumber": 719,
+      "lines": [
+        {
+          "lineNumber": 720,
+          "text": "In the Stats menu, where other upgrades say \"purchased\", the kitten upgrades all say \"purrchased\"."
+        },
+        {
+          "lineNumber": 721,
+          "text": "Likewise, in the store, the kitten upgrades say \"click to purrchase\" instead of \"click to purchase\"."
+        },
+        {
+          "lineNumber": 722,
+          "text": "In the source code of the game, Sanguine Milk is referred to as \"blood milk\", with the image called milkblood.png."
+        },
+        {
+          "lineNumber": 723,
+          "text": "This makes sense, as \"sanguine\" has the same etymology as \"sang\" which means \"blood\" in French, Orteil's native language."
+        }
+      ]
+    },
+    {
+      "heading": "References",
+      "lineNumber": 724,
+      "lines": [
+        {
+          "lineNumber": 725,
+          "text": "The description for the Kitten wages upgrade is a reference to the meme \"Cats can have little a salami [sic]\"."
+        },
+        {
+          "lineNumber": 726,
+          "text": "The name of the \"Kitten assistants to the regional manager\" upgrade is a reference to the TV show The Office. The description of Kitten assistants to the regional manager is a quote from Dwight Schrute, who holds the position of \"Assistant to the regional manager.\""
+        },
+        {
+          "lineNumber": 727,
+          "text": "The description of the Kitten strategists \"out with the old in with the mew, sir\" references a common English idiom originating in the 18th century."
+        },
+        {
+          "lineNumber": 728,
+          "text": "This box: view • talk • edit"
+        },
+        {
+          "lineNumber": 729,
+          "text": "Cookie Clicker game mechanics"
+        },
+        {
+          "lineNumber": 730,
+          "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+        },
+        {
+          "lineNumber": 731,
+          "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+        },
+        {
+          "lineNumber": 732,
+          "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+        },
+        {
+          "lineNumber": 733,
+          "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+        },
+        {
+          "lineNumber": 734,
+          "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+        },
+        {
+          "lineNumber": 735,
+          "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+        },
+        {
+          "lineNumber": 736,
+          "text": "Further reading\tGameplay"
+        },
+        {
+          "lineNumber": 737,
+          "text": "Categories"
+        }
+      ]
+    }
+  ],
+  "tabularRows": [
+    {
+      "lineNumber": 41,
+      "cells": [
+        "1",
+        "Appearance"
+      ],
+      "raw": "1\tAppearance"
+    },
+    {
+      "lineNumber": 42,
+      "cells": [
+        "2",
+        "Kittens"
+      ],
+      "raw": "2\tKittens"
+    },
+    {
+      "lineNumber": 43,
+      "cells": [
+        "3",
+        "Modifiers"
+      ],
+      "raw": "3\tModifiers"
+    },
+    {
+      "lineNumber": 44,
+      "cells": [
+        "3.1",
+        "Example 1"
+      ],
+      "raw": "3.1\tExample 1"
+    },
+    {
+      "lineNumber": 45,
+      "cells": [
+        "3.2",
+        "Example 2"
+      ],
+      "raw": "3.2\tExample 2"
+    },
+    {
+      "lineNumber": 46,
+      "cells": [
+        "3.3",
+        "Example 3"
+      ],
+      "raw": "3.3\tExample 3"
+    },
+    {
+      "lineNumber": 47,
+      "cells": [
+        "3.4",
+        "Graphs"
+      ],
+      "raw": "3.4\tGraphs"
+    },
+    {
+      "lineNumber": 48,
+      "cells": [
+        "4",
+        "Dunking the Cookie"
+      ],
+      "raw": "4\tDunking the Cookie"
+    },
+    {
+      "lineNumber": 49,
+      "cells": [
+        "5",
+        "Toys"
+      ],
+      "raw": "5\tToys"
+    },
+    {
+      "lineNumber": 50,
+      "cells": [
+        "6",
+        "Trivia"
+      ],
+      "raw": "6\tTrivia"
+    },
+    {
+      "lineNumber": 51,
+      "cells": [
+        "6.1",
+        "References"
+      ],
+      "raw": "6.1\tReferences"
+    },
+    {
+      "lineNumber": 56,
+      "cells": [
+        "Icon",
+        "Milk %",
+        "Achievements",
+        "Rank",
+        "Flavor"
+      ],
+      "raw": "Icon\tMilk %\tAchievements\tRank\tFlavor"
+    },
+    {
+      "lineNumber": 57,
+      "cells": [
+        "",
+        "0%-96%",
+        "0-24",
+        "I",
+        "(Plain) Milk"
+      ],
+      "raw": "0%-96%\t0-24\tI\t(Plain) Milk"
+    },
+    {
+      "lineNumber": 58,
+      "cells": [
+        "",
+        "100%-196%",
+        "25-49",
+        "II",
+        "Chocolate Milk"
+      ],
+      "raw": "100%-196%\t25-49\tII\tChocolate Milk"
+    },
+    {
+      "lineNumber": 59,
+      "cells": [
+        "",
+        "200%-296%",
+        "50-74",
+        "III",
+        "Raspberry Milk"
+      ],
+      "raw": "200%-296%\t50-74\tIII\tRaspberry Milk"
+    },
+    {
+      "lineNumber": 60,
+      "cells": [
+        "",
+        "300%-396%",
+        "75-99",
+        "IV",
+        "Orange Milk"
+      ],
+      "raw": "300%-396%\t75-99\tIV\tOrange Milk"
+    },
+    {
+      "lineNumber": 61,
+      "cells": [
+        "",
+        "400%-496%",
+        "100-124",
+        "V",
+        "Caramel Milk"
+      ],
+      "raw": "400%-496%\t100-124\tV\tCaramel Milk"
+    },
+    {
+      "lineNumber": 62,
+      "cells": [
+        "",
+        "500%-596%",
+        "125-149",
+        "VI",
+        "Banana Milk"
+      ],
+      "raw": "500%-596%\t125-149\tVI\tBanana Milk"
+    },
+    {
+      "lineNumber": 63,
+      "cells": [
+        "",
+        "600%-696%",
+        "150-174",
+        "VII",
+        "Lime Milk"
+      ],
+      "raw": "600%-696%\t150-174\tVII\tLime Milk"
+    },
+    {
+      "lineNumber": 64,
+      "cells": [
+        "",
+        "700%-796%",
+        "175-199",
+        "VIII",
+        "Blueberry Milk"
+      ],
+      "raw": "700%-796%\t175-199\tVIII\tBlueberry Milk"
+    },
+    {
+      "lineNumber": 65,
+      "cells": [
+        "",
+        "800%-896%",
+        "200-224",
+        "IX",
+        "Strawberry Milk"
+      ],
+      "raw": "800%-896%\t200-224\tIX\tStrawberry Milk"
+    },
+    {
+      "lineNumber": 66,
+      "cells": [
+        "",
+        "900%-996%",
+        "225-249",
+        "X",
+        "Vanilla Milk"
+      ],
+      "raw": "900%-996%\t225-249\tX\tVanilla Milk"
+    },
+    {
+      "lineNumber": 67,
+      "cells": [
+        "",
+        "1,000%-1,096%",
+        "250-274",
+        "XI",
+        "Honey Milk"
+      ],
+      "raw": "1,000%-1,096%\t250-274\tXI\tHoney Milk"
+    },
+    {
+      "lineNumber": 68,
+      "cells": [
+        "",
+        "1,100%-1,196%",
+        "275-299",
+        "XII",
+        "Coffee Milk"
+      ],
+      "raw": "1,100%-1,196%\t275-299\tXII\tCoffee Milk"
+    },
+    {
+      "lineNumber": 69,
+      "cells": [
+        "",
+        "1,200%-1,296%",
+        "300-324",
+        "XIII",
+        "Tea Milk"
+      ],
+      "raw": "1,200%-1,296%\t300-324\tXIII\tTea Milk"
+    },
+    {
+      "lineNumber": 70,
+      "cells": [
+        "",
+        "1,300%-1,396%",
+        "325-349",
+        "XIV",
+        "Coconut Milk"
+      ],
+      "raw": "1,300%-1,396%\t325-349\tXIV\tCoconut Milk"
+    },
+    {
+      "lineNumber": 71,
+      "cells": [
+        "",
+        "1,400%-1,496%",
+        "350-374",
+        "XV",
+        "Cherry Milk"
+      ],
+      "raw": "1,400%-1,496%\t350-374\tXV\tCherry Milk"
+    },
+    {
+      "lineNumber": 72,
+      "cells": [
+        "",
+        "1,500%-1,596%",
+        "375-399",
+        "XVI",
+        "Spiced Milk"
+      ],
+      "raw": "1,500%-1,596%\t375-399\tXVI\tSpiced Milk"
+    },
+    {
+      "lineNumber": 73,
+      "cells": [
+        "",
+        "1,600%-1,696%",
+        "400-424",
+        "XVII",
+        "Maple Milk"
+      ],
+      "raw": "1,600%-1,696%\t400-424\tXVII\tMaple Milk"
+    },
+    {
+      "lineNumber": 74,
+      "cells": [
+        "",
+        "1,700%-1,796%",
+        "425-449",
+        "XVIII",
+        "Mint Milk"
+      ],
+      "raw": "1,700%-1,796%\t425-449\tXVIII\tMint Milk"
+    },
+    {
+      "lineNumber": 75,
+      "cells": [
+        "",
+        "1,800%-1,896%",
+        "450-474",
+        "XIX",
+        "Licorice Milk"
+      ],
+      "raw": "1,800%-1,896%\t450-474\tXIX\tLicorice Milk"
+    },
+    {
+      "lineNumber": 76,
+      "cells": [
+        "",
+        "1,900%-1,996%",
+        "475-499",
+        "XX",
+        "Rose Milk"
+      ],
+      "raw": "1,900%-1,996%\t475-499\tXX\tRose Milk"
+    },
+    {
+      "lineNumber": 77,
+      "cells": [
+        "",
+        "2,000%-2,096%",
+        "500-524",
+        "XXI",
+        "Dragonfruit Milk"
+      ],
+      "raw": "2,000%-2,096%\t500-524\tXXI\tDragonfruit Milk"
+    },
+    {
+      "lineNumber": 78,
+      "cells": [
+        "",
+        "2,100%-2,196%",
+        "525-549",
+        "XXII",
+        "Melon Milk"
+      ],
+      "raw": "2,100%-2,196%\t525-549\tXXII\tMelon Milk"
+    },
+    {
+      "lineNumber": 79,
+      "cells": [
+        "",
+        "2,200%-2,296%",
+        "550-574",
+        "XXIII",
+        "Blackcurrant Milk"
+      ],
+      "raw": "2,200%-2,296%\t550-574\tXXIII\tBlackcurrant Milk"
+    },
+    {
+      "lineNumber": 80,
+      "cells": [
+        "",
+        "2,300%-2,396%",
+        "575-599",
+        "XXIV",
+        "Peach Milk"
+      ],
+      "raw": "2,300%-2,396%\t575-599\tXXIV\tPeach Milk"
+    },
+    {
+      "lineNumber": 81,
+      "cells": [
+        "",
+        "2,400%-2,488%",
+        "600-622",
+        "XXV",
+        "Hazelnut Milk"
+      ],
+      "raw": "2,400%-2,488%\t600-622\tXXV\tHazelnut Milk"
+    },
+    {
+      "lineNumber": 125,
+      "cells": [
+        "",
+        "Icon",
+        "Name",
+        "Unlock condition",
+        "Base price",
+        "Description",
+        "Milk factor",
+        "ID"
+      ],
+      "raw": "Icon\tName\tUnlock condition\tBase price\tDescription\tMilk factor\tID"
+    },
+    {
+      "lineNumber": 128,
+      "cells": [
+        "",
+        "",
+        "Kitten helpers",
+        "13 Achievements"
+      ],
+      "raw": "Kitten helpers\t13 Achievements"
+    },
+    {
+      "lineNumber": 129,
+      "cells": [
+        "(52% Milk)",
+        "9 million",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(52% Milk)\t 9 million\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 130,
+      "cells": [
+        "\"meow may I help you\"",
+        "0.1",
+        "31"
+      ],
+      "raw": "\"meow may I help you\"\t0.1\t31"
+    },
+    {
+      "lineNumber": 133,
+      "cells": [
+        "",
+        "",
+        "Kitten workers",
+        "25 Achievements"
+      ],
+      "raw": "Kitten workers\t25 Achievements"
+    },
+    {
+      "lineNumber": 134,
+      "cells": [
+        "(100% Milk)",
+        "9 billion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(100% Milk)\t 9 billion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 135,
+      "cells": [
+        "\"meow meow meow meow\"",
+        "0.125",
+        "32"
+      ],
+      "raw": "\"meow meow meow meow\"\t0.125\t32"
+    },
+    {
+      "lineNumber": 138,
+      "cells": [
+        "",
+        "",
+        "Kitten engineers",
+        "50 Achievements"
+      ],
+      "raw": "Kitten engineers\t50 Achievements"
+    },
+    {
+      "lineNumber": 139,
+      "cells": [
+        "(200% Milk)",
+        "90 trillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(200% Milk)\t 90 trillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 140,
+      "cells": [
+        "\"meow meow meow meow, sir\"",
+        "0.15",
+        "54"
+      ],
+      "raw": "\"meow meow meow meow, sir\"\t0.15\t54"
+    },
+    {
+      "lineNumber": 143,
+      "cells": [
+        "",
+        "",
+        "Kitten overseers",
+        "75 Achievements"
+      ],
+      "raw": "Kitten overseers\t75 Achievements"
+    },
+    {
+      "lineNumber": 144,
+      "cells": [
+        "(300% Milk)",
+        "90 quadrillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(300% Milk)\t 90 quadrillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 145,
+      "cells": [
+        "\"my purrpose is to serve you, sir\"",
+        "0.175",
+        "108"
+      ],
+      "raw": "\"my purrpose is to serve you, sir\"\t0.175\t108"
+    },
+    {
+      "lineNumber": 148,
+      "cells": [
+        "",
+        "",
+        "Kitten managers",
+        "100 Achievements"
+      ],
+      "raw": "Kitten managers\t100 Achievements"
+    },
+    {
+      "lineNumber": 149,
+      "cells": [
+        "(400% Milk)",
+        "900 quintillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(400% Milk)\t 900 quintillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 150,
+      "cells": [
+        "\"that's not gonna paws any problems, sir\"",
+        "0.2",
+        "187"
+      ],
+      "raw": "\"that's not gonna paws any problems, sir\"\t0.2\t187"
+    },
+    {
+      "lineNumber": 153,
+      "cells": [
+        "",
+        "",
+        "Kitten accountants",
+        "125 Achievements"
+      ],
+      "raw": "Kitten accountants\t125 Achievements"
+    },
+    {
+      "lineNumber": 154,
+      "cells": [
+        "(500% Milk)",
+        "900 sextillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(500% Milk)\t 900 sextillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 155,
+      "cells": [
+        "\"business going great, sir\"",
+        "0.2",
+        "320"
+      ],
+      "raw": "\"business going great, sir\"\t0.2\t320"
+    },
+    {
+      "lineNumber": 158,
+      "cells": [
+        "",
+        "",
+        "Kitten specialists",
+        "150 Achievements"
+      ],
+      "raw": "Kitten specialists\t150 Achievements"
+    },
+    {
+      "lineNumber": 159,
+      "cells": [
+        "(600% Milk)",
+        "900 septillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(600% Milk)\t 900 septillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 160,
+      "cells": [
+        "\"optimeowzing your workflow like whoah, sir\"",
+        "0.2",
+        "321"
+      ],
+      "raw": "\"optimeowzing your workflow like whoah, sir\"\t0.2\t321"
+    },
+    {
+      "lineNumber": 163,
+      "cells": [
+        "",
+        "",
+        "Kitten experts",
+        "175 Achievements"
+      ],
+      "raw": "Kitten experts\t175 Achievements"
+    },
+    {
+      "lineNumber": 164,
+      "cells": [
+        "(700% Milk)",
+        "900 octillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(700% Milk)\t 900 octillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 165,
+      "cells": [
+        "\"10 years expurrrtise in the cookie business, sir\"",
+        "0.2",
+        "322"
+      ],
+      "raw": "\"10 years expurrrtise in the cookie business, sir\"\t0.2\t322"
+    },
+    {
+      "lineNumber": 168,
+      "cells": [
+        "",
+        "",
+        "Kitten consultants",
+        "200 Achievements"
+      ],
+      "raw": "Kitten consultants\t200 Achievements"
+    },
+    {
+      "lineNumber": 169,
+      "cells": [
+        "(800% Milk)",
+        "900 nonillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(800% Milk)\t 900 nonillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 170,
+      "cells": [
+        "\"glad to be overpaid to work with you, sir\"",
+        "0.2",
+        "425"
+      ],
+      "raw": "\"glad to be overpaid to work with you, sir\"\t0.2\t425"
+    },
+    {
+      "lineNumber": 173,
+      "cells": [
+        "",
+        "",
+        "Kitten assistants to the regional manager",
+        "225 Achievements"
+      ],
+      "raw": "Kitten assistants to the regional manager\t225 Achievements"
+    },
+    {
+      "lineNumber": 174,
+      "cells": [
+        "(900% Milk)",
+        "900 decillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(900% Milk)\t 900 decillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 175,
+      "cells": [
+        "\"nothing stresses meowt... except having to seek the approval of my inferiors, sir\"",
+        "0.175",
+        "442"
+      ],
+      "raw": "\"nothing stresses meowt... except having to seek the approval of my inferiors, sir\"\t0.175\t442"
+    },
+    {
+      "lineNumber": 178,
+      "cells": [
+        "",
+        "",
+        "Kitten marketeers",
+        "250 achievements"
+      ],
+      "raw": "Kitten marketeers\t250 achievements"
+    },
+    {
+      "lineNumber": 179,
+      "cells": [
+        "(1000% milk)",
+        "900 undecillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(1000% milk)\t 900 undecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 180,
+      "cells": [
+        "\"no such thing as a saturated markit, sir\"",
+        "0.15",
+        "462"
+      ],
+      "raw": "\"no such thing as a saturated markit, sir\"\t0.15\t462"
+    },
+    {
+      "lineNumber": 183,
+      "cells": [
+        "",
+        "",
+        "Kitten analysts",
+        "275 achievements"
+      ],
+      "raw": "Kitten analysts\t275 achievements"
+    },
+    {
+      "lineNumber": 184,
+      "cells": [
+        "(1100% milk)",
+        "900 duodecillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(1100% milk)\t 900 duodecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 185,
+      "cells": [
+        "\"based on purrent return-on-investment meowdels we should be able to affurd to pay our empawyees somewhere around next century, sir\"",
+        "0.125",
+        "494"
+      ],
+      "raw": "\"based on purrent return-on-investment meowdels we should be able to affurd to pay our empawyees somewhere around next century, sir\"\t0.125\t494"
+    },
+    {
+      "lineNumber": 188,
+      "cells": [
+        "",
+        "",
+        "Kitten executives",
+        "300 achievements"
+      ],
+      "raw": "Kitten executives\t300 achievements"
+    },
+    {
+      "lineNumber": 189,
+      "cells": [
+        "(1200% milk)",
+        "900 tredecillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(1200% milk)\t 900 tredecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 190,
+      "cells": [
+        "\"ready to execute whatever and whoever you'd like, sir\"",
+        "0.115",
+        "613"
+      ],
+      "raw": "\"ready to execute whatever and whoever you'd like, sir\"\t0.115\t613"
+    },
+    {
+      "lineNumber": 193,
+      "cells": [
+        "",
+        "",
+        "Kitten admins",
+        "325 achievements"
+      ],
+      "raw": "Kitten admins\t325 achievements"
+    },
+    {
+      "lineNumber": 194,
+      "cells": [
+        "(1300% milk)",
+        "900 quattuordecillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(1300% milk)\t 900 quattuordecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 195,
+      "cells": [
+        "\"leadership ain't easy, sir\"",
+        "0.11",
+        "766"
+      ],
+      "raw": "\"leadership ain't easy, sir\"\t0.11\t766"
+    },
+    {
+      "lineNumber": 198,
+      "cells": [
+        "",
+        "",
+        "Kitten strategists",
+        "350 achievements"
+      ],
+      "raw": "Kitten strategists\t350 achievements"
+    },
+    {
+      "lineNumber": 199,
+      "cells": [
+        "(1400% milk)",
+        "900 quindecillion",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(1400% milk)\t 900 quindecillion\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 200,
+      "cells": [
+        "\"out with the old in with the mew, sir\"",
+        "0.105",
+        "865"
+      ],
+      "raw": "\"out with the old in with the mew, sir\"\t0.105\t865"
+    },
+    {
+      "lineNumber": 203,
+      "cells": [
+        "",
+        "",
+        "Fortune #103",
+        "Random fortune from news ticker",
+        "86,400 x CpS"
+      ],
+      "raw": "Fortune #103\tRandom fortune from news ticker\t 86,400 x CpS"
+    },
+    {
+      "lineNumber": 204,
+      "cells": [
+        "(Max: 7.778 tredecillion)",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(Max: 7.778 tredecillion)\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 205,
+      "cells": [
+        "\"Don't believe the superstitions; all cats are good luck.\"",
+        "0.05",
+        "641"
+      ],
+      "raw": "\"Don't believe the superstitions; all cats are good luck.\"\t0.05\t641"
+    },
+    {
+      "lineNumber": 209,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Dominions\" purchased",
+        "9,000",
+        "You gain more CpS the more milk you have."
+      ],
+      "raw": "(heavenly upgrade)\t\"Dominions\" purchased\t 9,000\tYou gain more CpS the more milk you have."
+    },
+    {
+      "lineNumber": 210,
+      "cells": [
+        "\"All cats go to heaven.\"",
+        "0.1",
+        "291"
+      ],
+      "raw": "\"All cats go to heaven.\"\t0.1\t291"
+    },
+    {
+      "lineNumber": 214,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Kitten angels\" purchased",
+        "9 billion",
+        "Through clever accounting, this actually makes kitten upgrades 10% cheaper."
+      ],
+      "raw": "(heavenly upgrade)\t\"Kitten angels\" purchased\t 9 billion\tThrough clever accounting, this actually makes kitten upgrades 10% cheaper."
+    },
+    {
+      "lineNumber": 216,
+      "cells": [
+        "Cats are expert hagglers and have a keen sense of bargaining, especially in the case of cash.\"",
+        "N/A",
+        "646"
+      ],
+      "raw": "Cats are expert hagglers and have a keen sense of bargaining, especially in the case of cash.\"\tN/A\t646"
+    },
+    {
+      "lineNumber": 226,
+      "cells": [
+        "Modifier",
+        "Milk Factor multiplier"
+      ],
+      "raw": "Modifier\tMilk Factor multiplier"
+    },
+    {
+      "lineNumber": 227,
+      "cells": [
+        "Santa upgrade: Santa's milk and cookies",
+        "1.05"
+      ],
+      "raw": "Santa upgrade: Santa's milk and cookies\t1.05"
+    },
+    {
+      "lineNumber": 228,
+      "cells": [
+        "Auras: Reality Bending / Breath of Milk / Both",
+        "1.005 / 1.05 / 1.055"
+      ],
+      "raw": "Auras: Reality Bending / Breath of Milk / Both\t1.005 / 1.05 / 1.055"
+    },
+    {
+      "lineNumber": 229,
+      "cells": [
+        "Mokalsium, Mother Spirit: Diamond / Ruby / Jade",
+        "1.1 / 1.05 / 1.03"
+      ],
+      "raw": "Mokalsium, Mother Spirit: Diamond / Ruby / Jade\t1.1 / 1.05 / 1.03"
+    },
+    {
+      "lineNumber": 230,
+      "cells": [
+        "Garden plants (mature, clay)",
+        "1+0.0025W"
+      ],
+      "raw": "Garden plants (mature, clay)\t1+0.0025W"
+    },
+    {
+      "lineNumber": 235,
+      "cells": [
+        "Total Modifier",
+        "Without Santa's Milk and Cookies",
+        "With Santa's Milk and Cookies"
+      ],
+      "raw": "Total Modifier\tWithout Santa's Milk and Cookies\tWith Santa's Milk and Cookies"
+    },
+    {
+      "lineNumber": 236,
+      "cells": [
+        "Mokalsium:",
+        "N/A",
+        "Jade",
+        "Ruby",
+        "Diamond",
+        "N/A",
+        "Jade",
+        "Ruby",
+        "Diamond"
+      ],
+      "raw": "Mokalsium:\tN/A\tJade\tRuby\tDiamond\tN/A\tJade\tRuby\tDiamond"
+    },
+    {
+      "lineNumber": 237,
+      "cells": [
+        "No Dragon Aura",
+        "1",
+        "1.03",
+        "1.05",
+        "1.1",
+        "1.05",
+        "1.0815",
+        "1.1025",
+        "1.155"
+      ],
+      "raw": "No Dragon Aura\t1\t1.03\t1.05\t1.1\t1.05\t1.0815\t1.1025\t1.155"
+    },
+    {
+      "lineNumber": 238,
+      "cells": [
+        "Reality Bending",
+        "1.005",
+        "1.03515",
+        "1.05525",
+        "1.1055",
+        "1.05525",
+        "1.0869075",
+        "1.1080125",
+        "1.160775"
+      ],
+      "raw": "Reality Bending\t1.005\t1.03515\t1.05525\t1.1055\t1.05525\t1.0869075\t1.1080125\t1.160775"
+    },
+    {
+      "lineNumber": 239,
+      "cells": [
+        "Breath of Milk",
+        "1.05",
+        "1.0815",
+        "1.1025",
+        "1.155",
+        "1.1025",
+        "1.135575",
+        "1.157625",
+        "1.21275"
+      ],
+      "raw": "Breath of Milk\t1.05\t1.0815\t1.1025\t1.155\t1.1025\t1.135575\t1.157625\t1.21275"
+    },
+    {
+      "lineNumber": 240,
+      "cells": [
+        "Both Auras",
+        "1.055",
+        "1.08665",
+        "1.10775",
+        "1.1605",
+        "1.10775",
+        "1.1409825",
+        "1.1631375",
+        "1.218525"
+      ],
+      "raw": "Both Auras\t1.055\t1.08665\t1.10775\t1.1605\t1.10775\t1.1409825\t1.1631375\t1.218525"
+    },
+    {
+      "lineNumber": 340,
+      "cells": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "raw": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 341,
+      "cells": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "raw": "N\tN\tN\tN\tN\tN"
+    },
+    {
+      "lineNumber": 342,
+      "cells": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "raw": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 343,
+      "cells": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "raw": "N\tN\tN\tN\tN\tN"
+    },
+    {
+      "lineNumber": 344,
+      "cells": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "raw": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 345,
+      "cells": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "raw": "N\tN\tN\tN\tN\tN"
+    },
+    {
+      "lineNumber": 536,
+      "cells": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "raw": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 537,
+      "cells": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "raw": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 538,
+      "cells": [
+        "W",
+        "W",
+        "N",
+        "W",
+        "N",
+        "W"
+      ],
+      "raw": "W\tW\tN\tW\tN\tW"
+    },
+    {
+      "lineNumber": 539,
+      "cells": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "raw": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 540,
+      "cells": [
+        "W",
+        "W",
+        "N",
+        "W",
+        "N",
+        "W"
+      ],
+      "raw": "W\tW\tN\tW\tN\tW"
+    },
+    {
+      "lineNumber": 541,
+      "cells": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "raw": "W\tW\tW\tW\tW\tW"
+    },
+    {
+      "lineNumber": 730,
+      "cells": [
+        "Cookies",
+        "Cookie Clicker • Clicking • Buildings"
+      ],
+      "raw": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 731,
+      "cells": [
+        "General",
+        "Achievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+      ],
+      "raw": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 732,
+      "cells": [
+        "Upgrades",
+        "Overview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+      ],
+      "raw": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 733,
+      "cells": [
+        "Ascension",
+        "Ascension • Heavenly Chips • Challenge Mode • Krumblor"
+      ],
+      "raw": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 734,
+      "cells": [
+        "Seasons",
+        "Overview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+      ],
+      "raw": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 735,
+      "cells": [
+        "Minigames",
+        "Overview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+      ],
+      "raw": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 736,
+      "cells": [
+        "Further reading",
+        "Gameplay"
+      ],
+      "raw": "Further reading\tGameplay"
+    }
+  ]
+}

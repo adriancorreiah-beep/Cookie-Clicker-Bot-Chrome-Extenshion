@@ -1,0 +1,5206 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "Cookie Clicker Wiki scraped page text supplied by user",
+  "generatedDate": "2026-06-01",
+  "slug": "building",
+  "title": "Building",
+  "sourceFile": "pasted-text.txt",
+  "categories": [
+    "Gameplay",
+    "Buyable"
+  ],
+  "articleStartLine": 198,
+  "articleEndLine": 799,
+  "contents": [
+    "Building Prices",
+    "Sugar Lump Leveling",
+    "List of Buildings",
+    "Trivia"
+  ],
+  "articleLines": [
+    {
+      "lineNumber": 203,
+      "text": "The video player is currently playing an ad. You can skip the ad in 5 sec with a mouse or keyboard"
+    },
+    {
+      "lineNumber": 204,
+      "text": "For Buildings in Cookie Clicker Classic, see Building (Cookie Clicker Classic)."
+    },
+    {
+      "lineNumber": 205,
+      "text": "For Buildings in Cookie Clicker Beta, see Cookie Clicker Beta#Buildings."
+    },
+    {
+      "lineNumber": 206,
+      "text": "Buildings are important items in Cookie Clicker that generate cookies. They can be purchased from the rightmost section of the interface."
+    },
+    {
+      "lineNumber": 208,
+      "text": "Starting with the classic version, the game initially had 6 buildings. Time machines were added in version 0.125. When the big update was out, farms were added in version 1.0. Antimatter condensers were added in version 1.036. Prisms were added in version 1.041. Chancemakers were added in version 2.0042. Fractal engines were added in version 2.021. Idleverses were added in version 2.048. You were added in 2.052."
+    },
+    {
+      "lineNumber": 210,
+      "text": "There are 20 types of buildings in Cookie Clicker and the player can purchase multiple of each type. Every building after Grandma has:"
+    },
+    {
+      "lineNumber": 212,
+      "text": "The Javascript Console, which has a base price of 71 Quintillion."
+    },
+    {
+      "lineNumber": 213,
+      "text": "The Javascript Console, which has a base price of 71 Quintillion."
+    },
+    {
+      "lineNumber": 215,
+      "text": "A base cost for purchasing the 1st building, which increases by 15% multiplicatively each time another of that building is purchased."
+    },
+    {
+      "lineNumber": 216,
+      "text": "A base CpS that the player will be given for each of that building. This increases with upgrades and can be affected by CpS boosts like those from Milk or Prestige and effects like Frenzy."
+    },
+    {
+      "lineNumber": 217,
+      "text": "A tiered  for , doubling the production of all Javascript Consoles."
+    },
+    {
+      "lineNumber": 218,
+      "text": "A tiered upgrade for Javascript Consoles, doubling the production of all Javascript Consoles."
+    },
+    {
+      "lineNumber": 220,
+      "text": "15 tiered upgrades that each double the production of that building, multiplying its CpS by 2[1]."
+    },
+    {
+      "lineNumber": 221,
+      "text": "A Synergy upgrade for Javascript Consoles, where the base buildings are Javascript Consoles and the boosted buildings are Grandmas."
+    },
+    {
+      "lineNumber": 222,
+      "text": "A Synergy upgrade for Javascript Consoles, where the base buildings are Javascript Consoles and the boosted buildings are Grandmas."
+    },
+    {
+      "lineNumber": 224,
+      "text": "2 Synergy upgrades (unlocked from the heavenly upgrades Synergies Vol. I and Synergies Vol. II) that have that building as a base building or boosted building. Each Synergy upgrade has a base building and a boosted building, and results in the boosted building gaining +5% CpS per base building owned, and the base building gaining +0.1% CpS per boosted building owned. The boosted building is always higher up the building list than the base building."
+    },
+    {
+      "lineNumber": 225,
+      "text": "An associated grandma type, which boosts its CpS depending on the amount of Grandmas; starting from Farms with a gain of +1% Farm CpS per 1 Grandma, the amount of Grandmas needed for +1% of its building's CpS increases by 1 for every subsequent building."
+    },
+    {
+      "lineNumber": 226,
+      "text": "The Fortune upgrade for Javascript Consoles."
+    },
+    {
+      "lineNumber": 227,
+      "text": "The Fortune upgrade for Javascript Consoles."
+    },
+    {
+      "lineNumber": 229,
+      "text": "1 fortune upgrade (unlocked from the Heavenly Upgrade Fortune Cookies) that increases the production of the building by 7% and lowers the cost of it by 7%."
+    },
+    {
+      "lineNumber": 230,
+      "text": "The  to unshackle Javascript consoles."
+    },
+    {
+      "lineNumber": 231,
+      "text": "The heavenly upgrade to unshackle Javascript consoles."
+    },
+    {
+      "lineNumber": 233,
+      "text": "1 heavenly upgrade to unshackle the building, making unshackled tiered upgrades more effective."
+    },
+    {
+      "lineNumber": 234,
+      "text": "The first three tiered upgrades for Cursors double both Cursor production and cookies gained from clicking. The next tiered upgrade gives 0.1 base CpS to Cursors and 0.1 cookies gained from clicking for each non-cursor building owned. All following tiered upgrades multiply this effect by 5, 10 or 20."
+    },
+    {
+      "lineNumber": 235,
+      "text": "For Grandmas, in addition to the content above, the CpS of Grandmas are also doubled by each Grandma type, Bingo center/Research facility, Ritual rolling pins, and Naughty list. They are also boosted from the Grandmapocalypse upgrades One mind, Communal brain sweep, and Elder Pact. Elderwort cookies boost Grandma CpS by 2%. Lastly, there are two other heavenly upgrades that boost Grandma CpS: Cat ladies, and Milkhelp® lactose intolerance relief tablets. Grandmas do not have synergy upgrades of their own, but are boosted from Javascript Consoles."
+    },
+    {
+      "lineNumber": 237,
+      "text": "Cursors have a unique progression of upgrades. The first three upgrades double the base CpS, the fourth (Thousand fingers) increases CpS by 0.1 per non-Cursor building (which is unaffected by the previous upgrades), the fifth (Million fingers) multiplies the effectiveness of Thousand fingers by 5, the sixth (Billion fingers) by 10, and all subsequent tiered upgrades multiply its effectiveness by 20. The cursor upgrades also have a unique system of cost scaling. Unshackled cursors simply multiply the power of Thousand fingers by 25. Cursors do not have synergy upgrades of its own, but are boosted from Fractal Engines."
+    },
+    {
+      "lineNumber": 239,
+      "text": "Cookie Clicker started with 7 buildings and obtained new buildings in versions 0.125, 1.0, 1.036, 1.041, 2.0, 2.0042, 2.016, 2.021, 2.031, 2.048, and 2.052 as the final building."
+    },
+    {
+      "lineNumber": 242,
+      "text": "Contents"
+    },
+    {
+      "lineNumber": 243,
+      "text": "1\tBuilding Prices"
+    },
+    {
+      "lineNumber": 244,
+      "text": "2\tSugar Lump Leveling"
+    },
+    {
+      "lineNumber": 245,
+      "text": "3\tList of Buildings"
+    },
+    {
+      "lineNumber": 246,
+      "text": "4\tTrivia"
+    },
+    {
+      "lineNumber": 247,
+      "text": "Building Prices"
+    },
+    {
+      "lineNumber": 248,
+      "text": "Each building's price is calculated with the following formula (without taking discount upgrades and auras in account), rounded up to the next integer:"
+    },
+    {
+      "lineNumber": 250,
+      "text": "Price"
+    },
+    {
+      "lineNumber": 251,
+      "text": "="
+    },
+    {
+      "lineNumber": 252,
+      "text": "Base cost"
+    },
+    {
+      "lineNumber": 253,
+      "text": "×"
+    },
+    {
+      "lineNumber": 254,
+      "text": "1.15"
+    },
+    {
+      "lineNumber": 255,
+      "text": "M"
+    },
+    {
+      "lineNumber": 256,
+      "text": "−"
+    },
+    {
+      "lineNumber": 257,
+      "text": "F"
+    },
+    {
+      "lineNumber": 258,
+      "text": "{\\displaystyle {\\text{Price}}={\\text{Base cost}}\\times 1.15^{M-F}}"
+    },
+    {
+      "lineNumber": 259,
+      "text": "where M – the number of that type of building currently owned;"
+    },
+    {
+      "lineNumber": 260,
+      "text": "F – the number of that type of building you have for free (cursors and grandmas you get from Starter kit and Starter kitchen prestige upgrades.)"
+    },
+    {
+      "lineNumber": 261,
+      "text": "Or, equivalently:"
+    },
+    {
+      "lineNumber": 263,
+      "text": "Price of Building Number (N+1)"
+    },
+    {
+      "lineNumber": 264,
+      "text": "="
+    },
+    {
+      "lineNumber": 265,
+      "text": "Price of Building Number N"
+    },
+    {
+      "lineNumber": 266,
+      "text": "×"
+    },
+    {
+      "lineNumber": 267,
+      "text": "1.15"
+    },
+    {
+      "lineNumber": 268,
+      "text": "{\\displaystyle {\\text{Price of Building Number (N+1)}}={\\text{Price of Building Number N}}\\times 1.15}"
+    },
+    {
+      "lineNumber": 269,
+      "text": "For approximate calculations when one is not in the mood to use a calculator, this translates roughly to a doubling of price every 5 buildings, and a thousand increase every 50."
+    },
+    {
+      "lineNumber": 271,
+      "text": "Additionally, one may also want to know the total amount of cookies they'd spend if they were to buy the same building several times in a row. In that case, one must add up the price of each individual building in the list."
+    },
+    {
+      "lineNumber": 273,
+      "text": "For reference, use this price multiplier for Buy 10:"
+    },
+    {
+      "lineNumber": 275,
+      "text": "Price of Buy 10"
+    },
+    {
+      "lineNumber": 276,
+      "text": "="
+    },
+    {
+      "lineNumber": 277,
+      "text": "Price"
+    },
+    {
+      "lineNumber": 278,
+      "text": "×"
+    },
+    {
+      "lineNumber": 279,
+      "text": "20.303718238"
+    },
+    {
+      "lineNumber": 280,
+      "text": "{\\displaystyle {\\text{Price of Buy 10}}={\\text{Price}}\\times 20.303718238}"
+    },
+    {
+      "lineNumber": 281,
+      "text": "And this one for Buy 100:"
+    },
+    {
+      "lineNumber": 283,
+      "text": "Price of Buy 100"
+    },
+    {
+      "lineNumber": 284,
+      "text": "="
+    },
+    {
+      "lineNumber": 285,
+      "text": "Price"
+    },
+    {
+      "lineNumber": 286,
+      "text": "×"
+    },
+    {
+      "lineNumber": 287,
+      "text": "7828749.671335256"
+    },
+    {
+      "lineNumber": 288,
+      "text": "{\\displaystyle {\\text{Price of Buy 100}}={\\text{Price}}\\times 7828749.671335256}"
+    },
+    {
+      "lineNumber": 289,
+      "text": "The cumulative price for N buildings is calculated as a finite geometric series:"
+    },
+    {
+      "lineNumber": 291,
+      "text": "Cumulative price"
+    },
+    {
+      "lineNumber": 292,
+      "text": "="
+    },
+    {
+      "lineNumber": 293,
+      "text": "∑"
+    },
+    {
+      "lineNumber": 294,
+      "text": "N"
+    },
+    {
+      "lineNumber": 295,
+      "text": "="
+    },
+    {
+      "lineNumber": 296,
+      "text": "1"
+    },
+    {
+      "lineNumber": 297,
+      "text": "N"
+    },
+    {
+      "lineNumber": 298,
+      "text": "Base cost"
+    },
+    {
+      "lineNumber": 299,
+      "text": "×"
+    },
+    {
+      "lineNumber": 300,
+      "text": "1.15"
+    },
+    {
+      "lineNumber": 301,
+      "text": "N"
+    },
+    {
+      "lineNumber": 302,
+      "text": "1.15"
+    },
+    {
+      "lineNumber": 303,
+      "text": "{\\displaystyle {\\text{Cumulative price}}=\\sum \\limits _{N=1}^{N}{\\frac {{\\text{Base cost}}\\times {1.15^{N}}}{1.15}}}"
+    },
+    {
+      "lineNumber": 304,
+      "text": "If you already have some buildings (for example, if you have 200 Cursors and want to know how much you will spend to reach 240), you can edit a bit the previous formula and get:"
+    },
+    {
+      "lineNumber": 306,
+      "text": "Cumulative price"
+    },
+    {
+      "lineNumber": 307,
+      "text": "="
+    },
+    {
+      "lineNumber": 308,
+      "text": "∑"
+    },
+    {
+      "lineNumber": 309,
+      "text": "b"
+    },
+    {
+      "lineNumber": 310,
+      "text": "="
+    },
+    {
+      "lineNumber": 311,
+      "text": "a"
+    },
+    {
+      "lineNumber": 312,
+      "text": "+"
+    },
+    {
+      "lineNumber": 313,
+      "text": "1"
+    },
+    {
+      "lineNumber": 314,
+      "text": "b"
+    },
+    {
+      "lineNumber": 315,
+      "text": "Base cost"
+    },
+    {
+      "lineNumber": 316,
+      "text": "×"
+    },
+    {
+      "lineNumber": 317,
+      "text": "1.15"
+    },
+    {
+      "lineNumber": 318,
+      "text": "b"
+    },
+    {
+      "lineNumber": 319,
+      "text": "1.15"
+    },
+    {
+      "lineNumber": 320,
+      "text": "{\\displaystyle {\\text{Cumulative price}}=\\sum \\limits _{b=a+1}^{b}{\\frac {{\\text{Base cost}}\\times {1.15^{b}}}{1.15}}}"
+    },
+    {
+      "lineNumber": 321,
+      "text": "Which can also be represented as"
+    },
+    {
+      "lineNumber": 322,
+      "text": "20"
+    },
+    {
+      "lineNumber": 323,
+      "text": "3"
+    },
+    {
+      "lineNumber": 324,
+      "text": "c"
+    },
+    {
+      "lineNumber": 325,
+      "text": "("
+    },
+    {
+      "lineNumber": 326,
+      "text": "("
+    },
+    {
+      "lineNumber": 327,
+      "text": "23"
+    },
+    {
+      "lineNumber": 328,
+      "text": "20"
+    },
+    {
+      "lineNumber": 329,
+      "text": ")"
+    },
+    {
+      "lineNumber": 330,
+      "text": "b"
+    },
+    {
+      "lineNumber": 331,
+      "text": "−"
+    },
+    {
+      "lineNumber": 332,
+      "text": "("
+    },
+    {
+      "lineNumber": 333,
+      "text": "23"
+    },
+    {
+      "lineNumber": 334,
+      "text": "20"
+    },
+    {
+      "lineNumber": 335,
+      "text": ")"
+    },
+    {
+      "lineNumber": 336,
+      "text": "a"
+    },
+    {
+      "lineNumber": 337,
+      "text": ")"
+    },
+    {
+      "lineNumber": 338,
+      "text": "{\\displaystyle {\\frac {20}{3}}c(({\\frac {23}{20}})^{b}-({\\frac {23}{20}})^{a})}"
+    },
+    {
+      "lineNumber": 339,
+      "text": "Where a is the number of buildings you have, and b is the number you wish to have."
+    },
+    {
+      "lineNumber": 341,
+      "text": "As a shortcut, here's a table listing the total cost of buying N buildings, as well as the price for each individual building:"
+    },
+    {
+      "lineNumber": 343,
+      "text": "Building No.\tUnit Price\tTotal Cookies Needed"
+    },
+    {
+      "lineNumber": 344,
+      "text": "1\t1\t1"
+    },
+    {
+      "lineNumber": 345,
+      "text": "2\t1.15\t2.15"
+    },
+    {
+      "lineNumber": 346,
+      "text": "3\t1.3225\t3.4725"
+    },
+    {
+      "lineNumber": 347,
+      "text": "4\t1.5209\t4.9934"
+    },
+    {
+      "lineNumber": 348,
+      "text": "5\t1.749\t6.7424"
+    },
+    {
+      "lineNumber": 349,
+      "text": "6\t2.0114\t8.7537"
+    },
+    {
+      "lineNumber": 350,
+      "text": "Graph"
+    },
+    {
+      "lineNumber": 351,
+      "text": "Graph for total cookies"
+    },
+    {
+      "lineNumber": 353,
+      "text": "You can get discounts with the following game elements:"
+    },
+    {
+      "lineNumber": 355,
+      "text": "Season saving gives a 1% discount"
+    },
+    {
+      "lineNumber": 356,
+      "text": "Santa's dominion gives a 1% discount"
+    },
+    {
+      "lineNumber": 357,
+      "text": "Faberge egg gives a 1% discount"
+    },
+    {
+      "lineNumber": 358,
+      "text": "Divine discount gives a 1% discount"
+    },
+    {
+      "lineNumber": 359,
+      "text": "Everything must go gives a 5% discount"
+    },
+    {
+      "lineNumber": 360,
+      "text": "Dotjeiess spirit gives a 7%/5%/2% discount on the Diamond/Ruby/Jade slot"
+    },
+    {
+      "lineNumber": 361,
+      "text": "Fierce Hoarder aura gives a 2% discount"
+    },
+    {
+      "lineNumber": 362,
+      "text": "Reality Bending aura gives a 0.2% discount (stacking additively with Fierce Hoarder aura)"
+    },
+    {
+      "lineNumber": 363,
+      "text": "Summon Crafty Pixies spell gives a 2% discount"
+    },
+    {
+      "lineNumber": 364,
+      "text": "Fortune Cookie upgrade #100 gives a 1% discount, and upgrades #001-#020 give a 7% discount to specific buildings"
+    },
+    {
+      "lineNumber": 365,
+      "text": "Cheapcaps planted in clay give a discount of 0.25% each"
+    },
+    {
+      "lineNumber": 366,
+      "text": "Nursetulips boost Cheapcaps, which allows for a higher discount from them"
+    },
+    {
+      "lineNumber": 367,
+      "text": "Nursetulips can be unearthed without losing its boost and baby Cheapcaps can be planted in their place, resulting in an even higher discount from them"
+    },
+    {
+      "lineNumber": 368,
+      "text": "These discounts stack multiplicatively. The maximal possible discount is"
+    },
+    {
+      "lineNumber": 370,
+      "text": "("
+    },
+    {
+      "lineNumber": 371,
+      "text": "1"
+    },
+    {
+      "lineNumber": 372,
+      "text": "−"
+    },
+    {
+      "lineNumber": 373,
+      "text": "0.0025"
+    },
+    {
+      "lineNumber": 374,
+      "text": "×"
+    },
+    {
+      "lineNumber": 375,
+      "text": "1.25"
+    },
+    {
+      "lineNumber": 376,
+      "text": "2"
+    },
+    {
+      "lineNumber": 377,
+      "text": ")"
+    },
+    {
+      "lineNumber": 378,
+      "text": "2"
+    },
+    {
+      "lineNumber": 379,
+      "text": "×"
+    },
+    {
+      "lineNumber": 380,
+      "text": "("
+    },
+    {
+      "lineNumber": 381,
+      "text": "1"
+    },
+    {
+      "lineNumber": 382,
+      "text": "−"
+    },
+    {
+      "lineNumber": 383,
+      "text": "0.0025"
+    },
+    {
+      "lineNumber": 384,
+      "text": "×"
+    },
+    {
+      "lineNumber": 385,
+      "text": "1.25"
+    },
+    {
+      "lineNumber": 386,
+      "text": "3"
+    },
+    {
+      "lineNumber": 387,
+      "text": ")"
+    },
+    {
+      "lineNumber": 388,
+      "text": "4"
+    },
+    {
+      "lineNumber": 389,
+      "text": "×"
+    },
+    {
+      "lineNumber": 390,
+      "text": "("
+    },
+    {
+      "lineNumber": 391,
+      "text": "1"
+    },
+    {
+      "lineNumber": 392,
+      "text": "−"
+    },
+    {
+      "lineNumber": 393,
+      "text": "0.0025"
+    },
+    {
+      "lineNumber": 394,
+      "text": "×"
+    },
+    {
+      "lineNumber": 395,
+      "text": "1.25"
+    },
+    {
+      "lineNumber": 396,
+      "text": "4"
+    },
+    {
+      "lineNumber": 397,
+      "text": ")"
+    },
+    {
+      "lineNumber": 398,
+      "text": "4"
+    },
+    {
+      "lineNumber": 399,
+      "text": "×"
+    },
+    {
+      "lineNumber": 400,
+      "text": "("
+    },
+    {
+      "lineNumber": 401,
+      "text": "1"
+    },
+    {
+      "lineNumber": 402,
+      "text": "−"
+    },
+    {
+      "lineNumber": 403,
+      "text": "0.0025"
+    },
+    {
+      "lineNumber": 404,
+      "text": "×"
+    },
+    {
+      "lineNumber": 405,
+      "text": "1.25"
+    },
+    {
+      "lineNumber": 406,
+      "text": "6"
+    },
+    {
+      "lineNumber": 407,
+      "text": ")"
+    },
+    {
+      "lineNumber": 408,
+      "text": "8"
+    },
+    {
+      "lineNumber": 409,
+      "text": "×"
+    },
+    {
+      "lineNumber": 410,
+      "text": "("
+    },
+    {
+      "lineNumber": 411,
+      "text": "1"
+    },
+    {
+      "lineNumber": 412,
+      "text": "−"
+    },
+    {
+      "lineNumber": 413,
+      "text": "0.00025"
+    },
+    {
+      "lineNumber": 414,
+      "text": "×"
+    },
+    {
+      "lineNumber": 415,
+      "text": "1.25"
+    },
+    {
+      "lineNumber": 416,
+      "text": "2"
+    },
+    {
+      "lineNumber": 417,
+      "text": ")"
+    },
+    {
+      "lineNumber": 418,
+      "text": "6"
+    },
+    {
+      "lineNumber": 419,
+      "text": "{\\displaystyle (1-0.0025\\times 1.25^{2})^{2}\\times (1-0.0025\\times 1.25^{3})^{4}\\times (1-0.0025\\times 1.25^{4})^{4}\\times (1-0.0025\\times 1.25^{6})^{8}\\times (1-0.00025\\times 1.25^{2})^{6}}"
+    },
+    {
+      "lineNumber": 420,
+      "text": "×"
+    },
+    {
+      "lineNumber": 421,
+      "text": "("
+    },
+    {
+      "lineNumber": 422,
+      "text": "1"
+    },
+    {
+      "lineNumber": 423,
+      "text": "−"
+    },
+    {
+      "lineNumber": 424,
+      "text": "0.00025"
+    },
+    {
+      "lineNumber": 425,
+      "text": "×"
+    },
+    {
+      "lineNumber": 426,
+      "text": "1.25"
+    },
+    {
+      "lineNumber": 427,
+      "text": "3"
+    },
+    {
+      "lineNumber": 428,
+      "text": ")"
+    },
+    {
+      "lineNumber": 429,
+      "text": "1"
+    },
+    {
+      "lineNumber": 430,
+      "text": "2"
+    },
+    {
+      "lineNumber": 431,
+      "text": "×"
+    },
+    {
+      "lineNumber": 432,
+      "text": "0.99"
+    },
+    {
+      "lineNumber": 433,
+      "text": "5"
+    },
+    {
+      "lineNumber": 434,
+      "text": "×"
+    },
+    {
+      "lineNumber": 435,
+      "text": "0.98"
+    },
+    {
+      "lineNumber": 436,
+      "text": "×"
+    },
+    {
+      "lineNumber": 437,
+      "text": "0.978"
+    },
+    {
+      "lineNumber": 438,
+      "text": "×"
+    },
+    {
+      "lineNumber": 439,
+      "text": "0.95"
+    },
+    {
+      "lineNumber": 440,
+      "text": "×"
+    },
+    {
+      "lineNumber": 441,
+      "text": "0.93"
+    },
+    {
+      "lineNumber": 442,
+      "text": "2"
+    },
+    {
+      "lineNumber": 443,
+      "text": "≈"
+    },
+    {
+      "lineNumber": 444,
+      "text": "0.65318"
+    },
+    {
+      "lineNumber": 445,
+      "text": "{\\displaystyle \\times (1-0.00025\\times 1.25^{3})^{1}2\\times 0.99^{5}\\times 0.98\\times 0.978\\times 0.95\\times 0.93^{2}\\approx 0.65318}"
+    },
+    {
+      "lineNumber": 446,
+      "text": "25% of the building's current price (50% with Earth Shatterer aura) comes back when sold. This is actually 1.15 times the amount displayed on the button, as the calculation for the button label uses the original price of the building to be sold rather than the price of the next building. The actual refund of a building is thus 28.75% (57.5% with Earth Shatterer) times the amount of cookies needed to buy it, times +2% for scp backfire."
+    },
+    {
+      "lineNumber": 448,
+      "text": "A Crafty Pixies backfire increases the refund by 2%, yielding a factor of 29.325% (58.65% with Earth Shatterer)."
+    },
+    {
+      "lineNumber": 450,
+      "text": "Sugar Lump Leveling"
+    },
+    {
+      "lineNumber": 451,
+      "text": "By leveling up buildings using sugar lumps, they will grant 1% more CpS. Each building has an achievement for reaching level 10, and level 12 Cursors are required to fully upgrade the Stock Market headquarters. Currently, 1,255 sugar lumps are required to get Cursors to level 20 and all other buildings to level 10. Some buildings will also enable minigames like the Garden when upgraded to Level 1, which grants you further CpS boosts. Leveling up Wizard Tower gives you Grimoire, which can cast spells for various effects such as more cookies, summoning golden cookies, or summoning wrinklers. Leveling up Temples gives Pantheon, which lets you slot gods in order to gain various positive effects in exchange for a negative effect. The power of the positive and negative effect depends on the slot the gods are in. Leveling up the Bank gives the Stock Market, which lets you buy and sell stocks to make a profit in cookies (shown as dollars within the minigame)."
+    },
+    {
+      "lineNumber": 453,
+      "text": "List of Buildings"
+    },
+    {
+      "lineNumber": 454,
+      "text": "This section lists all the buildings currently in Cookie Clicker, along with stats like base cost, base CpS, maximum CpS, etc. Abbreviations used in the table below:"
+    },
+    {
+      "lineNumber": 456,
+      "text": "N – Total number of buildings"
+    },
+    {
+      "lineNumber": 457,
+      "text": "C – Number of Cursors"
+    },
+    {
+      "lineNumber": 458,
+      "text": "G – Number of Grandmas"
+    },
+    {
+      "lineNumber": 459,
+      "text": "Fr – Number of Farms"
+    },
+    {
+      "lineNumber": 460,
+      "text": "M – Number of Mines"
+    },
+    {
+      "lineNumber": 461,
+      "text": "Fc – Number of Factories"
+    },
+    {
+      "lineNumber": 462,
+      "text": "B – Number of Banks"
+    },
+    {
+      "lineNumber": 463,
+      "text": "T – Number of Temples"
+    },
+    {
+      "lineNumber": 464,
+      "text": "W – Number of Wizard towers"
+    },
+    {
+      "lineNumber": 465,
+      "text": "S – Number of Shipments"
+    },
+    {
+      "lineNumber": 466,
+      "text": "AL – Number of Alchemy labs"
+    },
+    {
+      "lineNumber": 467,
+      "text": "Po – Number of Portals"
+    },
+    {
+      "lineNumber": 468,
+      "text": "TM – Number of Time machines"
+    },
+    {
+      "lineNumber": 469,
+      "text": "AC – Number of Antimatter condensers"
+    },
+    {
+      "lineNumber": 470,
+      "text": "Pr – Number of Prisms"
+    },
+    {
+      "lineNumber": 471,
+      "text": "Ch – Number of Chancemakers"
+    },
+    {
+      "lineNumber": 472,
+      "text": "FE – Number of Fractal Engines"
+    },
+    {
+      "lineNumber": 473,
+      "text": "JC - Number of Javascript Consoles"
+    },
+    {
+      "lineNumber": 474,
+      "text": "Iv - Number of Idleverses"
+    },
+    {
+      "lineNumber": 475,
+      "text": "CB - Number of Cortex Bakers"
+    },
+    {
+      "lineNumber": 476,
+      "text": "Y - Number of You"
+    },
+    {
+      "lineNumber": 477,
+      "text": "Building\tSprite size\tBase Cost\tID\tBase CpS\tMaximum build count\tMax CpS\tHas grandma type?\tInitial Payoff Time\tNumber of synergies\tNumber of Upgrades"
+    },
+    {
+      "lineNumber": 478,
+      "text": "Cursor"
+    },
+    {
+      "lineNumber": 480,
+      "text": "Cursor\t64x64\t15\t0\t0.1\t5059\t(68.48 trillion"
+    },
+    {
+      "lineNumber": 481,
+      "text": "× (N - C) + 0.856)"
+    },
+    {
+      "lineNumber": 482,
+      "text": "× (1 + FE/20)\tno\t150 seconds,"
+    },
+    {
+      "lineNumber": 483,
+      "text": "2.5 minutes\t19\t15 tiered"
+    },
+    {
+      "lineNumber": 484,
+      "text": "+ 1 synergy"
+    },
+    {
+      "lineNumber": 485,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 486,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 487,
+      "text": "Grandma"
+    },
+    {
+      "lineNumber": 489,
+      "text": "Grandma\t64x64\t100\t1\t1\t5047\t936,228 trillion"
+    },
+    {
+      "lineNumber": 490,
+      "text": "× (1 + G/25 + Po/20)"
+    },
+    {
+      "lineNumber": 491,
+      "text": "× (1 + (N - G)/90.91)"
+    },
+    {
+      "lineNumber": 492,
+      "text": "× (1 + JC/20)\tno\t100 seconds,"
+    },
+    {
+      "lineNumber": 493,
+      "text": "1.7 minutes\t19\t15 tiered"
+    },
+    {
+      "lineNumber": 494,
+      "text": "+ 5 research"
+    },
+    {
+      "lineNumber": 495,
+      "text": "+ 2 miscellaneous"
+    },
+    {
+      "lineNumber": 496,
+      "text": "+ 17 grandma types"
+    },
+    {
+      "lineNumber": 497,
+      "text": "+ 1 synergy"
+    },
+    {
+      "lineNumber": 498,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 499,
+      "text": "+ 2 heavenly"
+    },
+    {
+      "lineNumber": 500,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 501,
+      "text": "Farm"
+    },
+    {
+      "lineNumber": 503,
+      "text": "Farm\t64x64\t1,100\t2\t8\t5028\t4.258 billion"
+    },
+    {
+      "lineNumber": 504,
+      "text": "× (1 + T/20)"
+    },
+    {
+      "lineNumber": 505,
+      "text": "× (1 + W/20)"
+    },
+    {
+      "lineNumber": 506,
+      "text": "× (1 + Po/20)"
+    },
+    {
+      "lineNumber": 507,
+      "text": "× (1 + TM/20)"
+    },
+    {
+      "lineNumber": 508,
+      "text": "× (1 + CB/20)"
+    },
+    {
+      "lineNumber": 509,
+      "text": "× (1 + G/100)\tyes\t138 seconds,"
+    },
+    {
+      "lineNumber": 510,
+      "text": "2.3 minutes\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 511,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 512,
+      "text": "+ 5 synergies"
+    },
+    {
+      "lineNumber": 513,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 514,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 515,
+      "text": "Mine"
+    },
+    {
+      "lineNumber": 517,
+      "text": "Mine\t64x64\t12,000\t3\t47\t5011\t16.769 billion"
+    },
+    {
+      "lineNumber": 518,
+      "text": "× (1 + W/20)"
+    },
+    {
+      "lineNumber": 519,
+      "text": "× (1 + S/20)2"
+    },
+    {
+      "lineNumber": 520,
+      "text": "× (1 + AL/20)"
+    },
+    {
+      "lineNumber": 521,
+      "text": "× (1 + Ch/20)"
+    },
+    {
+      "lineNumber": 522,
+      "text": "× (1 + G/200)\tyes\t255 seconds,"
+    },
+    {
+      "lineNumber": 523,
+      "text": "4.3 minutes\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 524,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 525,
+      "text": "+ 5 synergies"
+    },
+    {
+      "lineNumber": 526,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 527,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 528,
+      "text": "Factory"
+    },
+    {
+      "lineNumber": 530,
+      "text": "Factory\t64x64\t130,000\t4\t260\t4996\t61.503 billion"
+    },
+    {
+      "lineNumber": 531,
+      "text": "× (1 + B/20)"
+    },
+    {
+      "lineNumber": 532,
+      "text": "× (1 + S/20)"
+    },
+    {
+      "lineNumber": 533,
+      "text": "× (1 + TM/20)"
+    },
+    {
+      "lineNumber": 534,
+      "text": "× (1 + AC/20)"
+    },
+    {
+      "lineNumber": 535,
+      "text": "× (1 + G/300)\tyes\t500 seconds,"
+    },
+    {
+      "lineNumber": 536,
+      "text": "8.3 minutes\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 537,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 538,
+      "text": "+ 4 synergies"
+    },
+    {
+      "lineNumber": 539,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 540,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 541,
+      "text": "Bank"
+    },
+    {
+      "lineNumber": 543,
+      "text": "Bank\t64x64\t1.4 million\t5\t1,400\t4977\t217.036 billion"
+    },
+    {
+      "lineNumber": 544,
+      "text": "× (1 + Fc/1,000)"
+    },
+    {
+      "lineNumber": 545,
+      "text": "× (1 + AL/20)"
+    },
+    {
+      "lineNumber": 546,
+      "text": "× (1 + Po/20)"
+    },
+    {
+      "lineNumber": 547,
+      "text": "× (1 + AC/20)"
+    },
+    {
+      "lineNumber": 548,
+      "text": "× (1 + G/400)\tyes\t1,000 seconds,"
+    },
+    {
+      "lineNumber": 549,
+      "text": "16.7 minutes\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 550,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 551,
+      "text": "+ 4 synergies"
+    },
+    {
+      "lineNumber": 552,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 553,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 554,
+      "text": "Temple"
+    },
+    {
+      "lineNumber": 556,
+      "text": "Temple\t64x64\t20 million\t6\t7,800\t4958\t782.820 billion"
+    },
+    {
+      "lineNumber": 557,
+      "text": "× (1 + Fr/1,000)"
+    },
+    {
+      "lineNumber": 558,
+      "text": "× (1 + Po/20)"
+    },
+    {
+      "lineNumber": 559,
+      "text": "× (1 + AC/20)"
+    },
+    {
+      "lineNumber": 560,
+      "text": "× (1 + Pr/20)"
+    },
+    {
+      "lineNumber": 561,
+      "text": "× (1 + CB/20)"
+    },
+    {
+      "lineNumber": 562,
+      "text": "× (1 + G/500)\tyes\t2,564 seconds,"
+    },
+    {
+      "lineNumber": 563,
+      "text": "42.7 minutes\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 564,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 565,
+      "text": "+ 5 synergies"
+    },
+    {
+      "lineNumber": 566,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 567,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 568,
+      "text": "Wizard tower"
+    },
+    {
+      "lineNumber": 570,
+      "text": "Wizard Tower\t64x64\t330 million\t7\t44,000\t4938\t2.822 trillion"
+    },
+    {
+      "lineNumber": 571,
+      "text": "× (1 + Fr/1,000)"
+    },
+    {
+      "lineNumber": 572,
+      "text": "× (1 + M/1,000)"
+    },
+    {
+      "lineNumber": 573,
+      "text": "× (1 + AL/20)"
+    },
+    {
+      "lineNumber": 574,
+      "text": "× (1 + Pr/20)"
+    },
+    {
+      "lineNumber": 575,
+      "text": "× (1 + G/600)\tyes\t7,500 seconds,"
+    },
+    {
+      "lineNumber": 576,
+      "text": "125 minutes,"
+    },
+    {
+      "lineNumber": 577,
+      "text": "2.1 hours\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 578,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 579,
+      "text": "+ 4 synergies"
+    },
+    {
+      "lineNumber": 580,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 581,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 582,
+      "text": "Shipment"
+    },
+    {
+      "lineNumber": 584,
+      "text": "Shipment\t64x64\t5.1 billion\t8\t260,000\t4918\t10.510 trillion"
+    },
+    {
+      "lineNumber": 585,
+      "text": "× (1 + M/1,000)2"
+    },
+    {
+      "lineNumber": 586,
+      "text": "× (1 + Fc/1,000)"
+    },
+    {
+      "lineNumber": 587,
+      "text": "× (1 + TM/20)"
+    },
+    {
+      "lineNumber": 588,
+      "text": "× (1 + G/700)\tyes\t19,615 seconds,"
+    },
+    {
+      "lineNumber": 589,
+      "text": "326.9 minutes,"
+    },
+    {
+      "lineNumber": 590,
+      "text": "5.4 hours\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 591,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 592,
+      "text": "+ 4 synergies"
+    },
+    {
+      "lineNumber": 593,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 594,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 595,
+      "text": "Alchemy lab"
+    },
+    {
+      "lineNumber": 597,
+      "text": "Alchemy Lab\t64x64\t75 billion\t9\t1.6 million\t4899\t40.173 trillion"
+    },
+    {
+      "lineNumber": 598,
+      "text": "× (1 + M/1,000)"
+    },
+    {
+      "lineNumber": 599,
+      "text": "× (1 + B/1,000)"
+    },
+    {
+      "lineNumber": 600,
+      "text": "× (1 + W/1,000)"
+    },
+    {
+      "lineNumber": 601,
+      "text": "× (1 + AC/20)"
+    },
+    {
+      "lineNumber": 602,
+      "text": "× (1 + G/800)\tyes\t46,875 seconds,"
+    },
+    {
+      "lineNumber": 603,
+      "text": "781.3 minutes,"
+    },
+    {
+      "lineNumber": 604,
+      "text": "13 hours\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 605,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 606,
+      "text": "+ 4 synergies"
+    },
+    {
+      "lineNumber": 607,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 608,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 609,
+      "text": "Portal"
+    },
+    {
+      "lineNumber": 611,
+      "text": "Portal\t64x64\t1 trillion\t10\t10 million\t4880\t153.533 trillion"
+    },
+    {
+      "lineNumber": 612,
+      "text": "× (1 + Fr/1,000)"
+    },
+    {
+      "lineNumber": 613,
+      "text": "× (1 + B/1,000)"
+    },
+    {
+      "lineNumber": 614,
+      "text": "× (1 + T/1,000)"
+    },
+    {
+      "lineNumber": 615,
+      "text": "× (1 + Pr/20)"
+    },
+    {
+      "lineNumber": 616,
+      "text": "× (1 + Iv/20)"
+    },
+    {
+      "lineNumber": 617,
+      "text": "× (1 + G/900)\tyes\t100,000 seconds,"
+    },
+    {
+      "lineNumber": 618,
+      "text": "1,666.7 minutes,"
+    },
+    {
+      "lineNumber": 619,
+      "text": "27.8 hours,"
+    },
+    {
+      "lineNumber": 620,
+      "text": "1.16 days\t6\t15 tiered"
+    },
+    {
+      "lineNumber": 621,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 622,
+      "text": "+ 5 synergies"
+    },
+    {
+      "lineNumber": 623,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 624,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 625,
+      "text": "Time machine"
+    },
+    {
+      "lineNumber": 627,
+      "text": "Time Machine\t64x64\t14 trillion\t11\t65 million\t4861\t600.160 trillion"
+    },
+    {
+      "lineNumber": 628,
+      "text": "× (1 + Fr/1,000)"
+    },
+    {
+      "lineNumber": 629,
+      "text": "× (1 + Fc/1,000)"
+    },
+    {
+      "lineNumber": 630,
+      "text": "× (1 + S/1,000)"
+    },
+    {
+      "lineNumber": 631,
+      "text": "× (1 + Pr/20)"
+    },
+    {
+      "lineNumber": 632,
+      "text": "× (1 + Y/20)"
+    },
+    {
+      "lineNumber": 633,
+      "text": "× (1 + G/1,000)\tyes\t215,385 seconds,"
+    },
+    {
+      "lineNumber": 634,
+      "text": "3,589.8 minutes,"
+    },
+    {
+      "lineNumber": 635,
+      "text": "59.8 hours,"
+    },
+    {
+      "lineNumber": 636,
+      "text": "2.49 days\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 637,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 638,
+      "text": "+ 5 synergies"
+    },
+    {
+      "lineNumber": 639,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 640,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 641,
+      "text": "Antimatter Condenser"
+    },
+    {
+      "lineNumber": 643,
+      "text": "Antimatter Condenser\t64x64\t170 trillion\t12\t430 million\t4844\t2.345 quadrillion"
+    },
+    {
+      "lineNumber": 644,
+      "text": "× (1 + Fc/1,000)"
+    },
+    {
+      "lineNumber": 645,
+      "text": "× (1 + B/1,000)"
+    },
+    {
+      "lineNumber": 646,
+      "text": "× (1 + T/1,000)"
+    },
+    {
+      "lineNumber": 647,
+      "text": "× (1 + AL/1,000)"
+    },
+    {
+      "lineNumber": 648,
+      "text": "× (1 + Ch/20)"
+    },
+    {
+      "lineNumber": 649,
+      "text": "× (1 + G/1,100)\tyes\t395,348 seconds,"
+    },
+    {
+      "lineNumber": 650,
+      "text": "6,589.1 minutes,"
+    },
+    {
+      "lineNumber": 651,
+      "text": "109.8 hours,"
+    },
+    {
+      "lineNumber": 652,
+      "text": "4.58 days\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 653,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 654,
+      "text": "+ 5 synergies"
+    },
+    {
+      "lineNumber": 655,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 656,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 657,
+      "text": "Prism"
+    },
+    {
+      "lineNumber": 659,
+      "text": "Prism\t64x64\t2.1 quadrillion\t13\t2.9 billion\t4826\t9.167 quadrillion"
+    },
+    {
+      "lineNumber": 660,
+      "text": "× (1 + T/1,000)"
+    },
+    {
+      "lineNumber": 661,
+      "text": "× (1 + W/1,000)"
+    },
+    {
+      "lineNumber": 662,
+      "text": "× (1 + Po/1,000)"
+    },
+    {
+      "lineNumber": 663,
+      "text": "× (1 + TM/1,000)"
+    },
+    {
+      "lineNumber": 664,
+      "text": "× (1 + FE/20)"
+    },
+    {
+      "lineNumber": 665,
+      "text": "× (1 + G/1,200)\tyes\t724,137 seconds,"
+    },
+    {
+      "lineNumber": 666,
+      "text": "12,069 minutes,"
+    },
+    {
+      "lineNumber": 667,
+      "text": "201.1 hours,"
+    },
+    {
+      "lineNumber": 668,
+      "text": "8.38 days\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 669,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 670,
+      "text": "+ 5 synergies"
+    },
+    {
+      "lineNumber": 671,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 672,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 673,
+      "text": "Chancemaker"
+    },
+    {
+      "lineNumber": 675,
+      "text": "Chancemaker\t64x64\t26 quadrillion\t14\t21 billion\t4808\t37.688 quadrillion"
+    },
+    {
+      "lineNumber": 676,
+      "text": "× (1 + M/1,000)"
+    },
+    {
+      "lineNumber": 677,
+      "text": "× (1 + AC/1,000)"
+    },
+    {
+      "lineNumber": 678,
+      "text": "× (1 + JC/20)"
+    },
+    {
+      "lineNumber": 679,
+      "text": "× (1 + G/1,300)\tyes\t1,238,095 seconds,"
+    },
+    {
+      "lineNumber": 680,
+      "text": "20,634.9 minutes,"
+    },
+    {
+      "lineNumber": 681,
+      "text": "343.9 hours,"
+    },
+    {
+      "lineNumber": 682,
+      "text": "13.33 days\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 683,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 684,
+      "text": "+ 3 synergies"
+    },
+    {
+      "lineNumber": 685,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 686,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 687,
+      "text": "Fractal Engine"
+    },
+    {
+      "lineNumber": 689,
+      "text": "Fractal Engine\t64x64\t310 quadrillion\t15\t150 billion\t4790\t149.477 quadrillion"
+    },
+    {
+      "lineNumber": 690,
+      "text": "× (1 + C/1,000)"
+    },
+    {
+      "lineNumber": 691,
+      "text": "× (1 + Pr/1,000)"
+    },
+    {
+      "lineNumber": 692,
+      "text": "× (1 + Iv/20)"
+    },
+    {
+      "lineNumber": 693,
+      "text": "× (1 + G/1,400)\tyes\t2,066,666 seconds,"
+    },
+    {
+      "lineNumber": 694,
+      "text": "34,444.4 minutes,"
+    },
+    {
+      "lineNumber": 695,
+      "text": "574.1 hours,"
+    },
+    {
+      "lineNumber": 696,
+      "text": "23.92 days\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 697,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 698,
+      "text": "+ 3 synergies"
+    },
+    {
+      "lineNumber": 699,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 700,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 701,
+      "text": "Javascript Console"
+    },
+    {
+      "lineNumber": 703,
+      "text": "Javascript Console\t64x64\t71 quintillion\t16\t1.1 trillion\t4751\t594.217 quadrillion"
+    },
+    {
+      "lineNumber": 704,
+      "text": "× (1 + G/1,000)"
+    },
+    {
+      "lineNumber": 705,
+      "text": "× (1 + Ch/1,000)"
+    },
+    {
+      "lineNumber": 706,
+      "text": "× (1 + Y/20)"
+    },
+    {
+      "lineNumber": 707,
+      "text": "× (1 + G/1,500)\tyes\t64,545,454 seconds,"
+    },
+    {
+      "lineNumber": 708,
+      "text": "1,075,757.6 minutes,"
+    },
+    {
+      "lineNumber": 709,
+      "text": "17,929.3 hours,"
+    },
+    {
+      "lineNumber": 710,
+      "text": "747.05 days,"
+    },
+    {
+      "lineNumber": 711,
+      "text": "2.05 years\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 712,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 713,
+      "text": "+ 3 synergies"
+    },
+    {
+      "lineNumber": 714,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 715,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 716,
+      "text": "Idleverse"
+    },
+    {
+      "lineNumber": 718,
+      "text": "Idleverse\t64x64\t12 sextillion\t17\t8.3 trillion\t4714\t2.368 quintillion"
+    },
+    {
+      "lineNumber": 719,
+      "text": "× (1 + Po/1,000)"
+    },
+    {
+      "lineNumber": 720,
+      "text": "× (1 + FE/1,000)"
+    },
+    {
+      "lineNumber": 721,
+      "text": "× (1 + G/1,600)\tyes\t1,445,783,133 seconds,"
+    },
+    {
+      "lineNumber": 722,
+      "text": "24,096,385.5 minutes,"
+    },
+    {
+      "lineNumber": 723,
+      "text": "401,606.4 hours,"
+    },
+    {
+      "lineNumber": 724,
+      "text": "16,733.6 days,"
+    },
+    {
+      "lineNumber": 725,
+      "text": "45.8 years\t2\t15 tiered"
+    },
+    {
+      "lineNumber": 726,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 727,
+      "text": "+ 2 synergies"
+    },
+    {
+      "lineNumber": 728,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 729,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 730,
+      "text": "Cortex Baker"
+    },
+    {
+      "lineNumber": 732,
+      "text": "Cortex Baker\t64x64\t1.9 septillion\t18\t64 trillion\t4678\t9.374 quintillion"
+    },
+    {
+      "lineNumber": 733,
+      "text": "× (1 + Fr/1,000)"
+    },
+    {
+      "lineNumber": 734,
+      "text": "× (1 + T/1,000)"
+    },
+    {
+      "lineNumber": 735,
+      "text": "× (1 + G/1,700)\tyes\t29,687,500,000 seconds,"
+    },
+    {
+      "lineNumber": 736,
+      "text": "494,791,666.7 minutes,"
+    },
+    {
+      "lineNumber": 737,
+      "text": "8,246,527.8 hours,"
+    },
+    {
+      "lineNumber": 738,
+      "text": "343,605.3 days,"
+    },
+    {
+      "lineNumber": 739,
+      "text": "941.4 years\t2\t15 tiered"
+    },
+    {
+      "lineNumber": 740,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 741,
+      "text": "+ 2 synergies"
+    },
+    {
+      "lineNumber": 742,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 743,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 744,
+      "text": "You"
+    },
+    {
+      "lineNumber": 746,
+      "text": "You\t64x64\t540 septillion\t19\t510 trillion\t4638\t37.349 quintillion"
+    },
+    {
+      "lineNumber": 747,
+      "text": "× (1 + TM/1,000)"
+    },
+    {
+      "lineNumber": 748,
+      "text": "× (1 + JC/1,000)"
+    },
+    {
+      "lineNumber": 749,
+      "text": "× (1 + G/1,800)\tyes\t1,058,823,529,412 seconds,"
+    },
+    {
+      "lineNumber": 750,
+      "text": "17,647,058,823.5 minutes,"
+    },
+    {
+      "lineNumber": 751,
+      "text": "294,117,647.1 hours,"
+    },
+    {
+      "lineNumber": 752,
+      "text": "12,254,902.0 days,"
+    },
+    {
+      "lineNumber": 753,
+      "text": "33,575.1 years\t2\t15 tiered"
+    },
+    {
+      "lineNumber": 754,
+      "text": "+ 1 grandma type"
+    },
+    {
+      "lineNumber": 755,
+      "text": "+ 2 synergies"
+    },
+    {
+      "lineNumber": 756,
+      "text": "+ 1 fortune"
+    },
+    {
+      "lineNumber": 757,
+      "text": "+ 1 unshackled"
+    },
+    {
+      "lineNumber": 758,
+      "text": "Trivia"
+    },
+    {
+      "lineNumber": 759,
+      "text": "Purchasing 700 of every building without any discount would have a cumulative cost of approximately 11.126 duovigintillion cookies."
+    },
+    {
+      "lineNumber": 760,
+      "text": "As the prices rise the more of a building you own, the price will eventually reach 21024, the max number of Double-precision floating-point format, a number too large to process, and the price will say Infinity and you cannot buy more unless you cheat to lower the prices or obtain more buildings, etc. Taking all the discounts and free buildings into account, the maximum numbers are 5,071 cursors, 5,053 grandmas, 5,031 farms, 5,014 mines, 4,996 factories, 4,979 banks, 4,960 temples, 4,940 wizard towers, 4,921 shipments, 4,902 alchemy labs, 4,883 portals, 4,864 time machines, 4,846 antimatter condensers, 4,828 prisms, 4,810 chancemakers, 4,793 fractal engines, 4,754 javascript console, 4,717 idleverses, 4,681 cortex bakers, and 4,640 You."
+    },
+    {
+      "lineNumber": 761,
+      "text": "An updated spreadsheet with the base cost of every building to the purchase limit can be found here."
+    },
+    {
+      "lineNumber": 762,
+      "text": "Buildings"
+    },
+    {
+      "lineNumber": 763,
+      "text": "Cursor 64px"
+    },
+    {
+      "lineNumber": 764,
+      "text": "Cursor\tGrandmas"
+    },
+    {
+      "lineNumber": 765,
+      "text": "Grandma\tFarm"
+    },
+    {
+      "lineNumber": 766,
+      "text": "Farm\tMine new"
+    },
+    {
+      "lineNumber": 767,
+      "text": "Mine\tFactory new"
+    },
+    {
+      "lineNumber": 768,
+      "text": "Factory"
+    },
+    {
+      "lineNumber": 769,
+      "text": "Bank"
+    },
+    {
+      "lineNumber": 770,
+      "text": "Bank\tTemple"
+    },
+    {
+      "lineNumber": 771,
+      "text": "Temple\tWizardtower"
+    },
+    {
+      "lineNumber": 772,
+      "text": "Wizard Tower\tShipment new"
+    },
+    {
+      "lineNumber": 773,
+      "text": "Shipment\tAlchemylab"
+    },
+    {
+      "lineNumber": 774,
+      "text": "Alchemy Lab"
+    },
+    {
+      "lineNumber": 775,
+      "text": "Portal new"
+    },
+    {
+      "lineNumber": 776,
+      "text": "Portal\tTimemachine new"
+    },
+    {
+      "lineNumber": 777,
+      "text": "Time Machine\tAntim"
+    },
+    {
+      "lineNumber": 778,
+      "text": "Antimatter Condenser\tPrism"
+    },
+    {
+      "lineNumber": 779,
+      "text": "Prism\tChancemaker"
+    },
+    {
+      "lineNumber": 780,
+      "text": "Chancemaker"
+    },
+    {
+      "lineNumber": 781,
+      "text": "Fractal engine"
+    },
+    {
+      "lineNumber": 782,
+      "text": "Fractal Engine\tJavascript console"
+    },
+    {
+      "lineNumber": 783,
+      "text": "Javascript Console\tIdleverse"
+    },
+    {
+      "lineNumber": 784,
+      "text": "Idleverse\tCortex Baker"
+    },
+    {
+      "lineNumber": 785,
+      "text": "Cortex Baker\tYou"
+    },
+    {
+      "lineNumber": 786,
+      "text": "You"
+    },
+    {
+      "lineNumber": 787,
+      "text": "Buildings overview"
+    },
+    {
+      "lineNumber": 788,
+      "text": "This box: view • talk • edit"
+    },
+    {
+      "lineNumber": 789,
+      "text": "This box: view • talk • edit"
+    },
+    {
+      "lineNumber": 790,
+      "text": "Cookie Clicker game mechanics"
+    },
+    {
+      "lineNumber": 791,
+      "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 792,
+      "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 793,
+      "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 794,
+      "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 795,
+      "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 796,
+      "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 797,
+      "text": "Further reading\tGameplay"
+    },
+    {
+      "lineNumber": 798,
+      "text": "Categories"
+    },
+    {
+      "lineNumber": 799,
+      "text": "Languages"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Building Prices",
+      "lineNumber": 247,
+      "lines": [
+        {
+          "lineNumber": 248,
+          "text": "Each building's price is calculated with the following formula (without taking discount upgrades and auras in account), rounded up to the next integer:"
+        },
+        {
+          "lineNumber": 250,
+          "text": "Price"
+        },
+        {
+          "lineNumber": 251,
+          "text": "="
+        },
+        {
+          "lineNumber": 252,
+          "text": "Base cost"
+        },
+        {
+          "lineNumber": 253,
+          "text": "×"
+        },
+        {
+          "lineNumber": 254,
+          "text": "1.15"
+        },
+        {
+          "lineNumber": 255,
+          "text": "M"
+        },
+        {
+          "lineNumber": 256,
+          "text": "−"
+        },
+        {
+          "lineNumber": 257,
+          "text": "F"
+        },
+        {
+          "lineNumber": 258,
+          "text": "{\\displaystyle {\\text{Price}}={\\text{Base cost}}\\times 1.15^{M-F}}"
+        },
+        {
+          "lineNumber": 259,
+          "text": "where M – the number of that type of building currently owned;"
+        },
+        {
+          "lineNumber": 260,
+          "text": "F – the number of that type of building you have for free (cursors and grandmas you get from Starter kit and Starter kitchen prestige upgrades.)"
+        },
+        {
+          "lineNumber": 261,
+          "text": "Or, equivalently:"
+        },
+        {
+          "lineNumber": 263,
+          "text": "Price of Building Number (N+1)"
+        },
+        {
+          "lineNumber": 264,
+          "text": "="
+        },
+        {
+          "lineNumber": 265,
+          "text": "Price of Building Number N"
+        },
+        {
+          "lineNumber": 266,
+          "text": "×"
+        },
+        {
+          "lineNumber": 267,
+          "text": "1.15"
+        },
+        {
+          "lineNumber": 268,
+          "text": "{\\displaystyle {\\text{Price of Building Number (N+1)}}={\\text{Price of Building Number N}}\\times 1.15}"
+        },
+        {
+          "lineNumber": 269,
+          "text": "For approximate calculations when one is not in the mood to use a calculator, this translates roughly to a doubling of price every 5 buildings, and a thousand increase every 50."
+        },
+        {
+          "lineNumber": 271,
+          "text": "Additionally, one may also want to know the total amount of cookies they'd spend if they were to buy the same building several times in a row. In that case, one must add up the price of each individual building in the list."
+        },
+        {
+          "lineNumber": 273,
+          "text": "For reference, use this price multiplier for Buy 10:"
+        },
+        {
+          "lineNumber": 275,
+          "text": "Price of Buy 10"
+        },
+        {
+          "lineNumber": 276,
+          "text": "="
+        },
+        {
+          "lineNumber": 277,
+          "text": "Price"
+        },
+        {
+          "lineNumber": 278,
+          "text": "×"
+        },
+        {
+          "lineNumber": 279,
+          "text": "20.303718238"
+        },
+        {
+          "lineNumber": 280,
+          "text": "{\\displaystyle {\\text{Price of Buy 10}}={\\text{Price}}\\times 20.303718238}"
+        },
+        {
+          "lineNumber": 281,
+          "text": "And this one for Buy 100:"
+        },
+        {
+          "lineNumber": 283,
+          "text": "Price of Buy 100"
+        },
+        {
+          "lineNumber": 284,
+          "text": "="
+        },
+        {
+          "lineNumber": 285,
+          "text": "Price"
+        },
+        {
+          "lineNumber": 286,
+          "text": "×"
+        },
+        {
+          "lineNumber": 287,
+          "text": "7828749.671335256"
+        },
+        {
+          "lineNumber": 288,
+          "text": "{\\displaystyle {\\text{Price of Buy 100}}={\\text{Price}}\\times 7828749.671335256}"
+        },
+        {
+          "lineNumber": 289,
+          "text": "The cumulative price for N buildings is calculated as a finite geometric series:"
+        },
+        {
+          "lineNumber": 291,
+          "text": "Cumulative price"
+        },
+        {
+          "lineNumber": 292,
+          "text": "="
+        },
+        {
+          "lineNumber": 293,
+          "text": "∑"
+        },
+        {
+          "lineNumber": 294,
+          "text": "N"
+        },
+        {
+          "lineNumber": 295,
+          "text": "="
+        },
+        {
+          "lineNumber": 296,
+          "text": "1"
+        },
+        {
+          "lineNumber": 297,
+          "text": "N"
+        },
+        {
+          "lineNumber": 298,
+          "text": "Base cost"
+        },
+        {
+          "lineNumber": 299,
+          "text": "×"
+        },
+        {
+          "lineNumber": 300,
+          "text": "1.15"
+        },
+        {
+          "lineNumber": 301,
+          "text": "N"
+        },
+        {
+          "lineNumber": 302,
+          "text": "1.15"
+        },
+        {
+          "lineNumber": 303,
+          "text": "{\\displaystyle {\\text{Cumulative price}}=\\sum \\limits _{N=1}^{N}{\\frac {{\\text{Base cost}}\\times {1.15^{N}}}{1.15}}}"
+        },
+        {
+          "lineNumber": 304,
+          "text": "If you already have some buildings (for example, if you have 200 Cursors and want to know how much you will spend to reach 240), you can edit a bit the previous formula and get:"
+        },
+        {
+          "lineNumber": 306,
+          "text": "Cumulative price"
+        },
+        {
+          "lineNumber": 307,
+          "text": "="
+        },
+        {
+          "lineNumber": 308,
+          "text": "∑"
+        },
+        {
+          "lineNumber": 309,
+          "text": "b"
+        },
+        {
+          "lineNumber": 310,
+          "text": "="
+        },
+        {
+          "lineNumber": 311,
+          "text": "a"
+        },
+        {
+          "lineNumber": 312,
+          "text": "+"
+        },
+        {
+          "lineNumber": 313,
+          "text": "1"
+        },
+        {
+          "lineNumber": 314,
+          "text": "b"
+        },
+        {
+          "lineNumber": 315,
+          "text": "Base cost"
+        },
+        {
+          "lineNumber": 316,
+          "text": "×"
+        },
+        {
+          "lineNumber": 317,
+          "text": "1.15"
+        },
+        {
+          "lineNumber": 318,
+          "text": "b"
+        },
+        {
+          "lineNumber": 319,
+          "text": "1.15"
+        },
+        {
+          "lineNumber": 320,
+          "text": "{\\displaystyle {\\text{Cumulative price}}=\\sum \\limits _{b=a+1}^{b}{\\frac {{\\text{Base cost}}\\times {1.15^{b}}}{1.15}}}"
+        },
+        {
+          "lineNumber": 321,
+          "text": "Which can also be represented as"
+        },
+        {
+          "lineNumber": 322,
+          "text": "20"
+        },
+        {
+          "lineNumber": 323,
+          "text": "3"
+        },
+        {
+          "lineNumber": 324,
+          "text": "c"
+        },
+        {
+          "lineNumber": 325,
+          "text": "("
+        },
+        {
+          "lineNumber": 326,
+          "text": "("
+        },
+        {
+          "lineNumber": 327,
+          "text": "23"
+        },
+        {
+          "lineNumber": 328,
+          "text": "20"
+        },
+        {
+          "lineNumber": 329,
+          "text": ")"
+        },
+        {
+          "lineNumber": 330,
+          "text": "b"
+        },
+        {
+          "lineNumber": 331,
+          "text": "−"
+        },
+        {
+          "lineNumber": 332,
+          "text": "("
+        },
+        {
+          "lineNumber": 333,
+          "text": "23"
+        },
+        {
+          "lineNumber": 334,
+          "text": "20"
+        },
+        {
+          "lineNumber": 335,
+          "text": ")"
+        },
+        {
+          "lineNumber": 336,
+          "text": "a"
+        },
+        {
+          "lineNumber": 337,
+          "text": ")"
+        },
+        {
+          "lineNumber": 338,
+          "text": "{\\displaystyle {\\frac {20}{3}}c(({\\frac {23}{20}})^{b}-({\\frac {23}{20}})^{a})}"
+        },
+        {
+          "lineNumber": 339,
+          "text": "Where a is the number of buildings you have, and b is the number you wish to have."
+        },
+        {
+          "lineNumber": 341,
+          "text": "As a shortcut, here's a table listing the total cost of buying N buildings, as well as the price for each individual building:"
+        },
+        {
+          "lineNumber": 343,
+          "text": "Building No.\tUnit Price\tTotal Cookies Needed"
+        },
+        {
+          "lineNumber": 344,
+          "text": "1\t1\t1"
+        },
+        {
+          "lineNumber": 345,
+          "text": "2\t1.15\t2.15"
+        },
+        {
+          "lineNumber": 346,
+          "text": "3\t1.3225\t3.4725"
+        },
+        {
+          "lineNumber": 347,
+          "text": "4\t1.5209\t4.9934"
+        },
+        {
+          "lineNumber": 348,
+          "text": "5\t1.749\t6.7424"
+        },
+        {
+          "lineNumber": 349,
+          "text": "6\t2.0114\t8.7537"
+        },
+        {
+          "lineNumber": 350,
+          "text": "Graph"
+        },
+        {
+          "lineNumber": 351,
+          "text": "Graph for total cookies"
+        },
+        {
+          "lineNumber": 353,
+          "text": "You can get discounts with the following game elements:"
+        },
+        {
+          "lineNumber": 355,
+          "text": "Season saving gives a 1% discount"
+        },
+        {
+          "lineNumber": 356,
+          "text": "Santa's dominion gives a 1% discount"
+        },
+        {
+          "lineNumber": 357,
+          "text": "Faberge egg gives a 1% discount"
+        },
+        {
+          "lineNumber": 358,
+          "text": "Divine discount gives a 1% discount"
+        },
+        {
+          "lineNumber": 359,
+          "text": "Everything must go gives a 5% discount"
+        },
+        {
+          "lineNumber": 360,
+          "text": "Dotjeiess spirit gives a 7%/5%/2% discount on the Diamond/Ruby/Jade slot"
+        },
+        {
+          "lineNumber": 361,
+          "text": "Fierce Hoarder aura gives a 2% discount"
+        },
+        {
+          "lineNumber": 362,
+          "text": "Reality Bending aura gives a 0.2% discount (stacking additively with Fierce Hoarder aura)"
+        },
+        {
+          "lineNumber": 363,
+          "text": "Summon Crafty Pixies spell gives a 2% discount"
+        },
+        {
+          "lineNumber": 364,
+          "text": "Fortune Cookie upgrade #100 gives a 1% discount, and upgrades #001-#020 give a 7% discount to specific buildings"
+        },
+        {
+          "lineNumber": 365,
+          "text": "Cheapcaps planted in clay give a discount of 0.25% each"
+        },
+        {
+          "lineNumber": 366,
+          "text": "Nursetulips boost Cheapcaps, which allows for a higher discount from them"
+        },
+        {
+          "lineNumber": 367,
+          "text": "Nursetulips can be unearthed without losing its boost and baby Cheapcaps can be planted in their place, resulting in an even higher discount from them"
+        },
+        {
+          "lineNumber": 368,
+          "text": "These discounts stack multiplicatively. The maximal possible discount is"
+        },
+        {
+          "lineNumber": 370,
+          "text": "("
+        },
+        {
+          "lineNumber": 371,
+          "text": "1"
+        },
+        {
+          "lineNumber": 372,
+          "text": "−"
+        },
+        {
+          "lineNumber": 373,
+          "text": "0.0025"
+        },
+        {
+          "lineNumber": 374,
+          "text": "×"
+        },
+        {
+          "lineNumber": 375,
+          "text": "1.25"
+        },
+        {
+          "lineNumber": 376,
+          "text": "2"
+        },
+        {
+          "lineNumber": 377,
+          "text": ")"
+        },
+        {
+          "lineNumber": 378,
+          "text": "2"
+        },
+        {
+          "lineNumber": 379,
+          "text": "×"
+        },
+        {
+          "lineNumber": 380,
+          "text": "("
+        },
+        {
+          "lineNumber": 381,
+          "text": "1"
+        },
+        {
+          "lineNumber": 382,
+          "text": "−"
+        },
+        {
+          "lineNumber": 383,
+          "text": "0.0025"
+        },
+        {
+          "lineNumber": 384,
+          "text": "×"
+        },
+        {
+          "lineNumber": 385,
+          "text": "1.25"
+        },
+        {
+          "lineNumber": 386,
+          "text": "3"
+        },
+        {
+          "lineNumber": 387,
+          "text": ")"
+        },
+        {
+          "lineNumber": 388,
+          "text": "4"
+        },
+        {
+          "lineNumber": 389,
+          "text": "×"
+        },
+        {
+          "lineNumber": 390,
+          "text": "("
+        },
+        {
+          "lineNumber": 391,
+          "text": "1"
+        },
+        {
+          "lineNumber": 392,
+          "text": "−"
+        },
+        {
+          "lineNumber": 393,
+          "text": "0.0025"
+        },
+        {
+          "lineNumber": 394,
+          "text": "×"
+        },
+        {
+          "lineNumber": 395,
+          "text": "1.25"
+        },
+        {
+          "lineNumber": 396,
+          "text": "4"
+        },
+        {
+          "lineNumber": 397,
+          "text": ")"
+        },
+        {
+          "lineNumber": 398,
+          "text": "4"
+        },
+        {
+          "lineNumber": 399,
+          "text": "×"
+        },
+        {
+          "lineNumber": 400,
+          "text": "("
+        },
+        {
+          "lineNumber": 401,
+          "text": "1"
+        },
+        {
+          "lineNumber": 402,
+          "text": "−"
+        },
+        {
+          "lineNumber": 403,
+          "text": "0.0025"
+        },
+        {
+          "lineNumber": 404,
+          "text": "×"
+        },
+        {
+          "lineNumber": 405,
+          "text": "1.25"
+        },
+        {
+          "lineNumber": 406,
+          "text": "6"
+        },
+        {
+          "lineNumber": 407,
+          "text": ")"
+        },
+        {
+          "lineNumber": 408,
+          "text": "8"
+        },
+        {
+          "lineNumber": 409,
+          "text": "×"
+        },
+        {
+          "lineNumber": 410,
+          "text": "("
+        },
+        {
+          "lineNumber": 411,
+          "text": "1"
+        },
+        {
+          "lineNumber": 412,
+          "text": "−"
+        },
+        {
+          "lineNumber": 413,
+          "text": "0.00025"
+        },
+        {
+          "lineNumber": 414,
+          "text": "×"
+        },
+        {
+          "lineNumber": 415,
+          "text": "1.25"
+        },
+        {
+          "lineNumber": 416,
+          "text": "2"
+        },
+        {
+          "lineNumber": 417,
+          "text": ")"
+        },
+        {
+          "lineNumber": 418,
+          "text": "6"
+        },
+        {
+          "lineNumber": 419,
+          "text": "{\\displaystyle (1-0.0025\\times 1.25^{2})^{2}\\times (1-0.0025\\times 1.25^{3})^{4}\\times (1-0.0025\\times 1.25^{4})^{4}\\times (1-0.0025\\times 1.25^{6})^{8}\\times (1-0.00025\\times 1.25^{2})^{6}}"
+        },
+        {
+          "lineNumber": 420,
+          "text": "×"
+        },
+        {
+          "lineNumber": 421,
+          "text": "("
+        },
+        {
+          "lineNumber": 422,
+          "text": "1"
+        },
+        {
+          "lineNumber": 423,
+          "text": "−"
+        },
+        {
+          "lineNumber": 424,
+          "text": "0.00025"
+        },
+        {
+          "lineNumber": 425,
+          "text": "×"
+        },
+        {
+          "lineNumber": 426,
+          "text": "1.25"
+        },
+        {
+          "lineNumber": 427,
+          "text": "3"
+        },
+        {
+          "lineNumber": 428,
+          "text": ")"
+        },
+        {
+          "lineNumber": 429,
+          "text": "1"
+        },
+        {
+          "lineNumber": 430,
+          "text": "2"
+        },
+        {
+          "lineNumber": 431,
+          "text": "×"
+        },
+        {
+          "lineNumber": 432,
+          "text": "0.99"
+        },
+        {
+          "lineNumber": 433,
+          "text": "5"
+        },
+        {
+          "lineNumber": 434,
+          "text": "×"
+        },
+        {
+          "lineNumber": 435,
+          "text": "0.98"
+        },
+        {
+          "lineNumber": 436,
+          "text": "×"
+        },
+        {
+          "lineNumber": 437,
+          "text": "0.978"
+        },
+        {
+          "lineNumber": 438,
+          "text": "×"
+        },
+        {
+          "lineNumber": 439,
+          "text": "0.95"
+        },
+        {
+          "lineNumber": 440,
+          "text": "×"
+        },
+        {
+          "lineNumber": 441,
+          "text": "0.93"
+        },
+        {
+          "lineNumber": 442,
+          "text": "2"
+        },
+        {
+          "lineNumber": 443,
+          "text": "≈"
+        },
+        {
+          "lineNumber": 444,
+          "text": "0.65318"
+        },
+        {
+          "lineNumber": 445,
+          "text": "{\\displaystyle \\times (1-0.00025\\times 1.25^{3})^{1}2\\times 0.99^{5}\\times 0.98\\times 0.978\\times 0.95\\times 0.93^{2}\\approx 0.65318}"
+        },
+        {
+          "lineNumber": 446,
+          "text": "25% of the building's current price (50% with Earth Shatterer aura) comes back when sold. This is actually 1.15 times the amount displayed on the button, as the calculation for the button label uses the original price of the building to be sold rather than the price of the next building. The actual refund of a building is thus 28.75% (57.5% with Earth Shatterer) times the amount of cookies needed to buy it, times +2% for scp backfire."
+        },
+        {
+          "lineNumber": 448,
+          "text": "A Crafty Pixies backfire increases the refund by 2%, yielding a factor of 29.325% (58.65% with Earth Shatterer)."
+        }
+      ]
+    },
+    {
+      "heading": "Sugar Lump Leveling",
+      "lineNumber": 450,
+      "lines": [
+        {
+          "lineNumber": 451,
+          "text": "By leveling up buildings using sugar lumps, they will grant 1% more CpS. Each building has an achievement for reaching level 10, and level 12 Cursors are required to fully upgrade the Stock Market headquarters. Currently, 1,255 sugar lumps are required to get Cursors to level 20 and all other buildings to level 10. Some buildings will also enable minigames like the Garden when upgraded to Level 1, which grants you further CpS boosts. Leveling up Wizard Tower gives you Grimoire, which can cast spells for various effects such as more cookies, summoning golden cookies, or summoning wrinklers. Leveling up Temples gives Pantheon, which lets you slot gods in order to gain various positive effects in exchange for a negative effect. The power of the positive and negative effect depends on the slot the gods are in. Leveling up the Bank gives the Stock Market, which lets you buy and sell stocks to make a profit in cookies (shown as dollars within the minigame)."
+        }
+      ]
+    },
+    {
+      "heading": "List of Buildings",
+      "lineNumber": 453,
+      "lines": [
+        {
+          "lineNumber": 454,
+          "text": "This section lists all the buildings currently in Cookie Clicker, along with stats like base cost, base CpS, maximum CpS, etc. Abbreviations used in the table below:"
+        },
+        {
+          "lineNumber": 456,
+          "text": "N – Total number of buildings"
+        },
+        {
+          "lineNumber": 457,
+          "text": "C – Number of Cursors"
+        },
+        {
+          "lineNumber": 458,
+          "text": "G – Number of Grandmas"
+        },
+        {
+          "lineNumber": 459,
+          "text": "Fr – Number of Farms"
+        },
+        {
+          "lineNumber": 460,
+          "text": "M – Number of Mines"
+        },
+        {
+          "lineNumber": 461,
+          "text": "Fc – Number of Factories"
+        },
+        {
+          "lineNumber": 462,
+          "text": "B – Number of Banks"
+        },
+        {
+          "lineNumber": 463,
+          "text": "T – Number of Temples"
+        },
+        {
+          "lineNumber": 464,
+          "text": "W – Number of Wizard towers"
+        },
+        {
+          "lineNumber": 465,
+          "text": "S – Number of Shipments"
+        },
+        {
+          "lineNumber": 466,
+          "text": "AL – Number of Alchemy labs"
+        },
+        {
+          "lineNumber": 467,
+          "text": "Po – Number of Portals"
+        },
+        {
+          "lineNumber": 468,
+          "text": "TM – Number of Time machines"
+        },
+        {
+          "lineNumber": 469,
+          "text": "AC – Number of Antimatter condensers"
+        },
+        {
+          "lineNumber": 470,
+          "text": "Pr – Number of Prisms"
+        },
+        {
+          "lineNumber": 471,
+          "text": "Ch – Number of Chancemakers"
+        },
+        {
+          "lineNumber": 472,
+          "text": "FE – Number of Fractal Engines"
+        },
+        {
+          "lineNumber": 473,
+          "text": "JC - Number of Javascript Consoles"
+        },
+        {
+          "lineNumber": 474,
+          "text": "Iv - Number of Idleverses"
+        },
+        {
+          "lineNumber": 475,
+          "text": "CB - Number of Cortex Bakers"
+        },
+        {
+          "lineNumber": 476,
+          "text": "Y - Number of You"
+        },
+        {
+          "lineNumber": 477,
+          "text": "Building\tSprite size\tBase Cost\tID\tBase CpS\tMaximum build count\tMax CpS\tHas grandma type?\tInitial Payoff Time\tNumber of synergies\tNumber of Upgrades"
+        },
+        {
+          "lineNumber": 478,
+          "text": "Cursor"
+        },
+        {
+          "lineNumber": 480,
+          "text": "Cursor\t64x64\t15\t0\t0.1\t5059\t(68.48 trillion"
+        },
+        {
+          "lineNumber": 481,
+          "text": "× (N - C) + 0.856)"
+        },
+        {
+          "lineNumber": 482,
+          "text": "× (1 + FE/20)\tno\t150 seconds,"
+        },
+        {
+          "lineNumber": 483,
+          "text": "2.5 minutes\t19\t15 tiered"
+        },
+        {
+          "lineNumber": 484,
+          "text": "+ 1 synergy"
+        },
+        {
+          "lineNumber": 485,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 486,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 487,
+          "text": "Grandma"
+        },
+        {
+          "lineNumber": 489,
+          "text": "Grandma\t64x64\t100\t1\t1\t5047\t936,228 trillion"
+        },
+        {
+          "lineNumber": 490,
+          "text": "× (1 + G/25 + Po/20)"
+        },
+        {
+          "lineNumber": 491,
+          "text": "× (1 + (N - G)/90.91)"
+        },
+        {
+          "lineNumber": 492,
+          "text": "× (1 + JC/20)\tno\t100 seconds,"
+        },
+        {
+          "lineNumber": 493,
+          "text": "1.7 minutes\t19\t15 tiered"
+        },
+        {
+          "lineNumber": 494,
+          "text": "+ 5 research"
+        },
+        {
+          "lineNumber": 495,
+          "text": "+ 2 miscellaneous"
+        },
+        {
+          "lineNumber": 496,
+          "text": "+ 17 grandma types"
+        },
+        {
+          "lineNumber": 497,
+          "text": "+ 1 synergy"
+        },
+        {
+          "lineNumber": 498,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 499,
+          "text": "+ 2 heavenly"
+        },
+        {
+          "lineNumber": 500,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 501,
+          "text": "Farm"
+        },
+        {
+          "lineNumber": 503,
+          "text": "Farm\t64x64\t1,100\t2\t8\t5028\t4.258 billion"
+        },
+        {
+          "lineNumber": 504,
+          "text": "× (1 + T/20)"
+        },
+        {
+          "lineNumber": 505,
+          "text": "× (1 + W/20)"
+        },
+        {
+          "lineNumber": 506,
+          "text": "× (1 + Po/20)"
+        },
+        {
+          "lineNumber": 507,
+          "text": "× (1 + TM/20)"
+        },
+        {
+          "lineNumber": 508,
+          "text": "× (1 + CB/20)"
+        },
+        {
+          "lineNumber": 509,
+          "text": "× (1 + G/100)\tyes\t138 seconds,"
+        },
+        {
+          "lineNumber": 510,
+          "text": "2.3 minutes\t5\t15 tiered"
+        },
+        {
+          "lineNumber": 511,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 512,
+          "text": "+ 5 synergies"
+        },
+        {
+          "lineNumber": 513,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 514,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 515,
+          "text": "Mine"
+        },
+        {
+          "lineNumber": 517,
+          "text": "Mine\t64x64\t12,000\t3\t47\t5011\t16.769 billion"
+        },
+        {
+          "lineNumber": 518,
+          "text": "× (1 + W/20)"
+        },
+        {
+          "lineNumber": 519,
+          "text": "× (1 + S/20)2"
+        },
+        {
+          "lineNumber": 520,
+          "text": "× (1 + AL/20)"
+        },
+        {
+          "lineNumber": 521,
+          "text": "× (1 + Ch/20)"
+        },
+        {
+          "lineNumber": 522,
+          "text": "× (1 + G/200)\tyes\t255 seconds,"
+        },
+        {
+          "lineNumber": 523,
+          "text": "4.3 minutes\t4\t15 tiered"
+        },
+        {
+          "lineNumber": 524,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 525,
+          "text": "+ 5 synergies"
+        },
+        {
+          "lineNumber": 526,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 527,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 528,
+          "text": "Factory"
+        },
+        {
+          "lineNumber": 530,
+          "text": "Factory\t64x64\t130,000\t4\t260\t4996\t61.503 billion"
+        },
+        {
+          "lineNumber": 531,
+          "text": "× (1 + B/20)"
+        },
+        {
+          "lineNumber": 532,
+          "text": "× (1 + S/20)"
+        },
+        {
+          "lineNumber": 533,
+          "text": "× (1 + TM/20)"
+        },
+        {
+          "lineNumber": 534,
+          "text": "× (1 + AC/20)"
+        },
+        {
+          "lineNumber": 535,
+          "text": "× (1 + G/300)\tyes\t500 seconds,"
+        },
+        {
+          "lineNumber": 536,
+          "text": "8.3 minutes\t4\t15 tiered"
+        },
+        {
+          "lineNumber": 537,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 538,
+          "text": "+ 4 synergies"
+        },
+        {
+          "lineNumber": 539,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 540,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 541,
+          "text": "Bank"
+        },
+        {
+          "lineNumber": 543,
+          "text": "Bank\t64x64\t1.4 million\t5\t1,400\t4977\t217.036 billion"
+        },
+        {
+          "lineNumber": 544,
+          "text": "× (1 + Fc/1,000)"
+        },
+        {
+          "lineNumber": 545,
+          "text": "× (1 + AL/20)"
+        },
+        {
+          "lineNumber": 546,
+          "text": "× (1 + Po/20)"
+        },
+        {
+          "lineNumber": 547,
+          "text": "× (1 + AC/20)"
+        },
+        {
+          "lineNumber": 548,
+          "text": "× (1 + G/400)\tyes\t1,000 seconds,"
+        },
+        {
+          "lineNumber": 549,
+          "text": "16.7 minutes\t4\t15 tiered"
+        },
+        {
+          "lineNumber": 550,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 551,
+          "text": "+ 4 synergies"
+        },
+        {
+          "lineNumber": 552,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 553,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 554,
+          "text": "Temple"
+        },
+        {
+          "lineNumber": 556,
+          "text": "Temple\t64x64\t20 million\t6\t7,800\t4958\t782.820 billion"
+        },
+        {
+          "lineNumber": 557,
+          "text": "× (1 + Fr/1,000)"
+        },
+        {
+          "lineNumber": 558,
+          "text": "× (1 + Po/20)"
+        },
+        {
+          "lineNumber": 559,
+          "text": "× (1 + AC/20)"
+        },
+        {
+          "lineNumber": 560,
+          "text": "× (1 + Pr/20)"
+        },
+        {
+          "lineNumber": 561,
+          "text": "× (1 + CB/20)"
+        },
+        {
+          "lineNumber": 562,
+          "text": "× (1 + G/500)\tyes\t2,564 seconds,"
+        },
+        {
+          "lineNumber": 563,
+          "text": "42.7 minutes\t5\t15 tiered"
+        },
+        {
+          "lineNumber": 564,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 565,
+          "text": "+ 5 synergies"
+        },
+        {
+          "lineNumber": 566,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 567,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 568,
+          "text": "Wizard tower"
+        },
+        {
+          "lineNumber": 570,
+          "text": "Wizard Tower\t64x64\t330 million\t7\t44,000\t4938\t2.822 trillion"
+        },
+        {
+          "lineNumber": 571,
+          "text": "× (1 + Fr/1,000)"
+        },
+        {
+          "lineNumber": 572,
+          "text": "× (1 + M/1,000)"
+        },
+        {
+          "lineNumber": 573,
+          "text": "× (1 + AL/20)"
+        },
+        {
+          "lineNumber": 574,
+          "text": "× (1 + Pr/20)"
+        },
+        {
+          "lineNumber": 575,
+          "text": "× (1 + G/600)\tyes\t7,500 seconds,"
+        },
+        {
+          "lineNumber": 576,
+          "text": "125 minutes,"
+        },
+        {
+          "lineNumber": 577,
+          "text": "2.1 hours\t4\t15 tiered"
+        },
+        {
+          "lineNumber": 578,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 579,
+          "text": "+ 4 synergies"
+        },
+        {
+          "lineNumber": 580,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 581,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 582,
+          "text": "Shipment"
+        },
+        {
+          "lineNumber": 584,
+          "text": "Shipment\t64x64\t5.1 billion\t8\t260,000\t4918\t10.510 trillion"
+        },
+        {
+          "lineNumber": 585,
+          "text": "× (1 + M/1,000)2"
+        },
+        {
+          "lineNumber": 586,
+          "text": "× (1 + Fc/1,000)"
+        },
+        {
+          "lineNumber": 587,
+          "text": "× (1 + TM/20)"
+        },
+        {
+          "lineNumber": 588,
+          "text": "× (1 + G/700)\tyes\t19,615 seconds,"
+        },
+        {
+          "lineNumber": 589,
+          "text": "326.9 minutes,"
+        },
+        {
+          "lineNumber": 590,
+          "text": "5.4 hours\t3\t15 tiered"
+        },
+        {
+          "lineNumber": 591,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 592,
+          "text": "+ 4 synergies"
+        },
+        {
+          "lineNumber": 593,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 594,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 595,
+          "text": "Alchemy lab"
+        },
+        {
+          "lineNumber": 597,
+          "text": "Alchemy Lab\t64x64\t75 billion\t9\t1.6 million\t4899\t40.173 trillion"
+        },
+        {
+          "lineNumber": 598,
+          "text": "× (1 + M/1,000)"
+        },
+        {
+          "lineNumber": 599,
+          "text": "× (1 + B/1,000)"
+        },
+        {
+          "lineNumber": 600,
+          "text": "× (1 + W/1,000)"
+        },
+        {
+          "lineNumber": 601,
+          "text": "× (1 + AC/20)"
+        },
+        {
+          "lineNumber": 602,
+          "text": "× (1 + G/800)\tyes\t46,875 seconds,"
+        },
+        {
+          "lineNumber": 603,
+          "text": "781.3 minutes,"
+        },
+        {
+          "lineNumber": 604,
+          "text": "13 hours\t4\t15 tiered"
+        },
+        {
+          "lineNumber": 605,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 606,
+          "text": "+ 4 synergies"
+        },
+        {
+          "lineNumber": 607,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 608,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 609,
+          "text": "Portal"
+        },
+        {
+          "lineNumber": 611,
+          "text": "Portal\t64x64\t1 trillion\t10\t10 million\t4880\t153.533 trillion"
+        },
+        {
+          "lineNumber": 612,
+          "text": "× (1 + Fr/1,000)"
+        },
+        {
+          "lineNumber": 613,
+          "text": "× (1 + B/1,000)"
+        },
+        {
+          "lineNumber": 614,
+          "text": "× (1 + T/1,000)"
+        },
+        {
+          "lineNumber": 615,
+          "text": "× (1 + Pr/20)"
+        },
+        {
+          "lineNumber": 616,
+          "text": "× (1 + Iv/20)"
+        },
+        {
+          "lineNumber": 617,
+          "text": "× (1 + G/900)\tyes\t100,000 seconds,"
+        },
+        {
+          "lineNumber": 618,
+          "text": "1,666.7 minutes,"
+        },
+        {
+          "lineNumber": 619,
+          "text": "27.8 hours,"
+        },
+        {
+          "lineNumber": 620,
+          "text": "1.16 days\t6\t15 tiered"
+        },
+        {
+          "lineNumber": 621,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 622,
+          "text": "+ 5 synergies"
+        },
+        {
+          "lineNumber": 623,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 624,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 625,
+          "text": "Time machine"
+        },
+        {
+          "lineNumber": 627,
+          "text": "Time Machine\t64x64\t14 trillion\t11\t65 million\t4861\t600.160 trillion"
+        },
+        {
+          "lineNumber": 628,
+          "text": "× (1 + Fr/1,000)"
+        },
+        {
+          "lineNumber": 629,
+          "text": "× (1 + Fc/1,000)"
+        },
+        {
+          "lineNumber": 630,
+          "text": "× (1 + S/1,000)"
+        },
+        {
+          "lineNumber": 631,
+          "text": "× (1 + Pr/20)"
+        },
+        {
+          "lineNumber": 632,
+          "text": "× (1 + Y/20)"
+        },
+        {
+          "lineNumber": 633,
+          "text": "× (1 + G/1,000)\tyes\t215,385 seconds,"
+        },
+        {
+          "lineNumber": 634,
+          "text": "3,589.8 minutes,"
+        },
+        {
+          "lineNumber": 635,
+          "text": "59.8 hours,"
+        },
+        {
+          "lineNumber": 636,
+          "text": "2.49 days\t5\t15 tiered"
+        },
+        {
+          "lineNumber": 637,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 638,
+          "text": "+ 5 synergies"
+        },
+        {
+          "lineNumber": 639,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 640,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 641,
+          "text": "Antimatter Condenser"
+        },
+        {
+          "lineNumber": 643,
+          "text": "Antimatter Condenser\t64x64\t170 trillion\t12\t430 million\t4844\t2.345 quadrillion"
+        },
+        {
+          "lineNumber": 644,
+          "text": "× (1 + Fc/1,000)"
+        },
+        {
+          "lineNumber": 645,
+          "text": "× (1 + B/1,000)"
+        },
+        {
+          "lineNumber": 646,
+          "text": "× (1 + T/1,000)"
+        },
+        {
+          "lineNumber": 647,
+          "text": "× (1 + AL/1,000)"
+        },
+        {
+          "lineNumber": 648,
+          "text": "× (1 + Ch/20)"
+        },
+        {
+          "lineNumber": 649,
+          "text": "× (1 + G/1,100)\tyes\t395,348 seconds,"
+        },
+        {
+          "lineNumber": 650,
+          "text": "6,589.1 minutes,"
+        },
+        {
+          "lineNumber": 651,
+          "text": "109.8 hours,"
+        },
+        {
+          "lineNumber": 652,
+          "text": "4.58 days\t5\t15 tiered"
+        },
+        {
+          "lineNumber": 653,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 654,
+          "text": "+ 5 synergies"
+        },
+        {
+          "lineNumber": 655,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 656,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 657,
+          "text": "Prism"
+        },
+        {
+          "lineNumber": 659,
+          "text": "Prism\t64x64\t2.1 quadrillion\t13\t2.9 billion\t4826\t9.167 quadrillion"
+        },
+        {
+          "lineNumber": 660,
+          "text": "× (1 + T/1,000)"
+        },
+        {
+          "lineNumber": 661,
+          "text": "× (1 + W/1,000)"
+        },
+        {
+          "lineNumber": 662,
+          "text": "× (1 + Po/1,000)"
+        },
+        {
+          "lineNumber": 663,
+          "text": "× (1 + TM/1,000)"
+        },
+        {
+          "lineNumber": 664,
+          "text": "× (1 + FE/20)"
+        },
+        {
+          "lineNumber": 665,
+          "text": "× (1 + G/1,200)\tyes\t724,137 seconds,"
+        },
+        {
+          "lineNumber": 666,
+          "text": "12,069 minutes,"
+        },
+        {
+          "lineNumber": 667,
+          "text": "201.1 hours,"
+        },
+        {
+          "lineNumber": 668,
+          "text": "8.38 days\t5\t15 tiered"
+        },
+        {
+          "lineNumber": 669,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 670,
+          "text": "+ 5 synergies"
+        },
+        {
+          "lineNumber": 671,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 672,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 673,
+          "text": "Chancemaker"
+        },
+        {
+          "lineNumber": 675,
+          "text": "Chancemaker\t64x64\t26 quadrillion\t14\t21 billion\t4808\t37.688 quadrillion"
+        },
+        {
+          "lineNumber": 676,
+          "text": "× (1 + M/1,000)"
+        },
+        {
+          "lineNumber": 677,
+          "text": "× (1 + AC/1,000)"
+        },
+        {
+          "lineNumber": 678,
+          "text": "× (1 + JC/20)"
+        },
+        {
+          "lineNumber": 679,
+          "text": "× (1 + G/1,300)\tyes\t1,238,095 seconds,"
+        },
+        {
+          "lineNumber": 680,
+          "text": "20,634.9 minutes,"
+        },
+        {
+          "lineNumber": 681,
+          "text": "343.9 hours,"
+        },
+        {
+          "lineNumber": 682,
+          "text": "13.33 days\t3\t15 tiered"
+        },
+        {
+          "lineNumber": 683,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 684,
+          "text": "+ 3 synergies"
+        },
+        {
+          "lineNumber": 685,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 686,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 687,
+          "text": "Fractal Engine"
+        },
+        {
+          "lineNumber": 689,
+          "text": "Fractal Engine\t64x64\t310 quadrillion\t15\t150 billion\t4790\t149.477 quadrillion"
+        },
+        {
+          "lineNumber": 690,
+          "text": "× (1 + C/1,000)"
+        },
+        {
+          "lineNumber": 691,
+          "text": "× (1 + Pr/1,000)"
+        },
+        {
+          "lineNumber": 692,
+          "text": "× (1 + Iv/20)"
+        },
+        {
+          "lineNumber": 693,
+          "text": "× (1 + G/1,400)\tyes\t2,066,666 seconds,"
+        },
+        {
+          "lineNumber": 694,
+          "text": "34,444.4 minutes,"
+        },
+        {
+          "lineNumber": 695,
+          "text": "574.1 hours,"
+        },
+        {
+          "lineNumber": 696,
+          "text": "23.92 days\t3\t15 tiered"
+        },
+        {
+          "lineNumber": 697,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 698,
+          "text": "+ 3 synergies"
+        },
+        {
+          "lineNumber": 699,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 700,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 701,
+          "text": "Javascript Console"
+        },
+        {
+          "lineNumber": 703,
+          "text": "Javascript Console\t64x64\t71 quintillion\t16\t1.1 trillion\t4751\t594.217 quadrillion"
+        },
+        {
+          "lineNumber": 704,
+          "text": "× (1 + G/1,000)"
+        },
+        {
+          "lineNumber": 705,
+          "text": "× (1 + Ch/1,000)"
+        },
+        {
+          "lineNumber": 706,
+          "text": "× (1 + Y/20)"
+        },
+        {
+          "lineNumber": 707,
+          "text": "× (1 + G/1,500)\tyes\t64,545,454 seconds,"
+        },
+        {
+          "lineNumber": 708,
+          "text": "1,075,757.6 minutes,"
+        },
+        {
+          "lineNumber": 709,
+          "text": "17,929.3 hours,"
+        },
+        {
+          "lineNumber": 710,
+          "text": "747.05 days,"
+        },
+        {
+          "lineNumber": 711,
+          "text": "2.05 years\t3\t15 tiered"
+        },
+        {
+          "lineNumber": 712,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 713,
+          "text": "+ 3 synergies"
+        },
+        {
+          "lineNumber": 714,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 715,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 716,
+          "text": "Idleverse"
+        },
+        {
+          "lineNumber": 718,
+          "text": "Idleverse\t64x64\t12 sextillion\t17\t8.3 trillion\t4714\t2.368 quintillion"
+        },
+        {
+          "lineNumber": 719,
+          "text": "× (1 + Po/1,000)"
+        },
+        {
+          "lineNumber": 720,
+          "text": "× (1 + FE/1,000)"
+        },
+        {
+          "lineNumber": 721,
+          "text": "× (1 + G/1,600)\tyes\t1,445,783,133 seconds,"
+        },
+        {
+          "lineNumber": 722,
+          "text": "24,096,385.5 minutes,"
+        },
+        {
+          "lineNumber": 723,
+          "text": "401,606.4 hours,"
+        },
+        {
+          "lineNumber": 724,
+          "text": "16,733.6 days,"
+        },
+        {
+          "lineNumber": 725,
+          "text": "45.8 years\t2\t15 tiered"
+        },
+        {
+          "lineNumber": 726,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 727,
+          "text": "+ 2 synergies"
+        },
+        {
+          "lineNumber": 728,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 729,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 730,
+          "text": "Cortex Baker"
+        },
+        {
+          "lineNumber": 732,
+          "text": "Cortex Baker\t64x64\t1.9 septillion\t18\t64 trillion\t4678\t9.374 quintillion"
+        },
+        {
+          "lineNumber": 733,
+          "text": "× (1 + Fr/1,000)"
+        },
+        {
+          "lineNumber": 734,
+          "text": "× (1 + T/1,000)"
+        },
+        {
+          "lineNumber": 735,
+          "text": "× (1 + G/1,700)\tyes\t29,687,500,000 seconds,"
+        },
+        {
+          "lineNumber": 736,
+          "text": "494,791,666.7 minutes,"
+        },
+        {
+          "lineNumber": 737,
+          "text": "8,246,527.8 hours,"
+        },
+        {
+          "lineNumber": 738,
+          "text": "343,605.3 days,"
+        },
+        {
+          "lineNumber": 739,
+          "text": "941.4 years\t2\t15 tiered"
+        },
+        {
+          "lineNumber": 740,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 741,
+          "text": "+ 2 synergies"
+        },
+        {
+          "lineNumber": 742,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 743,
+          "text": "+ 1 unshackled"
+        },
+        {
+          "lineNumber": 744,
+          "text": "You"
+        },
+        {
+          "lineNumber": 746,
+          "text": "You\t64x64\t540 septillion\t19\t510 trillion\t4638\t37.349 quintillion"
+        },
+        {
+          "lineNumber": 747,
+          "text": "× (1 + TM/1,000)"
+        },
+        {
+          "lineNumber": 748,
+          "text": "× (1 + JC/1,000)"
+        },
+        {
+          "lineNumber": 749,
+          "text": "× (1 + G/1,800)\tyes\t1,058,823,529,412 seconds,"
+        },
+        {
+          "lineNumber": 750,
+          "text": "17,647,058,823.5 minutes,"
+        },
+        {
+          "lineNumber": 751,
+          "text": "294,117,647.1 hours,"
+        },
+        {
+          "lineNumber": 752,
+          "text": "12,254,902.0 days,"
+        },
+        {
+          "lineNumber": 753,
+          "text": "33,575.1 years\t2\t15 tiered"
+        },
+        {
+          "lineNumber": 754,
+          "text": "+ 1 grandma type"
+        },
+        {
+          "lineNumber": 755,
+          "text": "+ 2 synergies"
+        },
+        {
+          "lineNumber": 756,
+          "text": "+ 1 fortune"
+        },
+        {
+          "lineNumber": 757,
+          "text": "+ 1 unshackled"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "lineNumber": 758,
+      "lines": [
+        {
+          "lineNumber": 759,
+          "text": "Purchasing 700 of every building without any discount would have a cumulative cost of approximately 11.126 duovigintillion cookies."
+        },
+        {
+          "lineNumber": 760,
+          "text": "As the prices rise the more of a building you own, the price will eventually reach 21024, the max number of Double-precision floating-point format, a number too large to process, and the price will say Infinity and you cannot buy more unless you cheat to lower the prices or obtain more buildings, etc. Taking all the discounts and free buildings into account, the maximum numbers are 5,071 cursors, 5,053 grandmas, 5,031 farms, 5,014 mines, 4,996 factories, 4,979 banks, 4,960 temples, 4,940 wizard towers, 4,921 shipments, 4,902 alchemy labs, 4,883 portals, 4,864 time machines, 4,846 antimatter condensers, 4,828 prisms, 4,810 chancemakers, 4,793 fractal engines, 4,754 javascript console, 4,717 idleverses, 4,681 cortex bakers, and 4,640 You."
+        },
+        {
+          "lineNumber": 761,
+          "text": "An updated spreadsheet with the base cost of every building to the purchase limit can be found here."
+        },
+        {
+          "lineNumber": 762,
+          "text": "Buildings"
+        },
+        {
+          "lineNumber": 763,
+          "text": "Cursor 64px"
+        },
+        {
+          "lineNumber": 764,
+          "text": "Cursor\tGrandmas"
+        },
+        {
+          "lineNumber": 765,
+          "text": "Grandma\tFarm"
+        },
+        {
+          "lineNumber": 766,
+          "text": "Farm\tMine new"
+        },
+        {
+          "lineNumber": 767,
+          "text": "Mine\tFactory new"
+        },
+        {
+          "lineNumber": 768,
+          "text": "Factory"
+        },
+        {
+          "lineNumber": 769,
+          "text": "Bank"
+        },
+        {
+          "lineNumber": 770,
+          "text": "Bank\tTemple"
+        },
+        {
+          "lineNumber": 771,
+          "text": "Temple\tWizardtower"
+        },
+        {
+          "lineNumber": 772,
+          "text": "Wizard Tower\tShipment new"
+        },
+        {
+          "lineNumber": 773,
+          "text": "Shipment\tAlchemylab"
+        },
+        {
+          "lineNumber": 774,
+          "text": "Alchemy Lab"
+        },
+        {
+          "lineNumber": 775,
+          "text": "Portal new"
+        },
+        {
+          "lineNumber": 776,
+          "text": "Portal\tTimemachine new"
+        },
+        {
+          "lineNumber": 777,
+          "text": "Time Machine\tAntim"
+        },
+        {
+          "lineNumber": 778,
+          "text": "Antimatter Condenser\tPrism"
+        },
+        {
+          "lineNumber": 779,
+          "text": "Prism\tChancemaker"
+        },
+        {
+          "lineNumber": 780,
+          "text": "Chancemaker"
+        },
+        {
+          "lineNumber": 781,
+          "text": "Fractal engine"
+        },
+        {
+          "lineNumber": 782,
+          "text": "Fractal Engine\tJavascript console"
+        },
+        {
+          "lineNumber": 783,
+          "text": "Javascript Console\tIdleverse"
+        },
+        {
+          "lineNumber": 784,
+          "text": "Idleverse\tCortex Baker"
+        },
+        {
+          "lineNumber": 785,
+          "text": "Cortex Baker\tYou"
+        },
+        {
+          "lineNumber": 786,
+          "text": "You"
+        },
+        {
+          "lineNumber": 787,
+          "text": "Buildings overview"
+        },
+        {
+          "lineNumber": 788,
+          "text": "This box: view • talk • edit"
+        },
+        {
+          "lineNumber": 789,
+          "text": "This box: view • talk • edit"
+        },
+        {
+          "lineNumber": 790,
+          "text": "Cookie Clicker game mechanics"
+        },
+        {
+          "lineNumber": 791,
+          "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+        },
+        {
+          "lineNumber": 792,
+          "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+        },
+        {
+          "lineNumber": 793,
+          "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+        },
+        {
+          "lineNumber": 794,
+          "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+        },
+        {
+          "lineNumber": 795,
+          "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+        },
+        {
+          "lineNumber": 796,
+          "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+        },
+        {
+          "lineNumber": 797,
+          "text": "Further reading\tGameplay"
+        },
+        {
+          "lineNumber": 798,
+          "text": "Categories"
+        },
+        {
+          "lineNumber": 799,
+          "text": "Languages"
+        }
+      ]
+    }
+  ],
+  "tabularRows": [
+    {
+      "lineNumber": 243,
+      "cells": [
+        "1",
+        "Building Prices"
+      ],
+      "raw": "1\tBuilding Prices"
+    },
+    {
+      "lineNumber": 244,
+      "cells": [
+        "2",
+        "Sugar Lump Leveling"
+      ],
+      "raw": "2\tSugar Lump Leveling"
+    },
+    {
+      "lineNumber": 245,
+      "cells": [
+        "3",
+        "List of Buildings"
+      ],
+      "raw": "3\tList of Buildings"
+    },
+    {
+      "lineNumber": 246,
+      "cells": [
+        "4",
+        "Trivia"
+      ],
+      "raw": "4\tTrivia"
+    },
+    {
+      "lineNumber": 343,
+      "cells": [
+        "Building No.",
+        "Unit Price",
+        "Total Cookies Needed"
+      ],
+      "raw": "Building No.\tUnit Price\tTotal Cookies Needed"
+    },
+    {
+      "lineNumber": 344,
+      "cells": [
+        "1",
+        "1",
+        "1"
+      ],
+      "raw": "1\t1\t1"
+    },
+    {
+      "lineNumber": 345,
+      "cells": [
+        "2",
+        "1.15",
+        "2.15"
+      ],
+      "raw": "2\t1.15\t2.15"
+    },
+    {
+      "lineNumber": 346,
+      "cells": [
+        "3",
+        "1.3225",
+        "3.4725"
+      ],
+      "raw": "3\t1.3225\t3.4725"
+    },
+    {
+      "lineNumber": 347,
+      "cells": [
+        "4",
+        "1.5209",
+        "4.9934"
+      ],
+      "raw": "4\t1.5209\t4.9934"
+    },
+    {
+      "lineNumber": 348,
+      "cells": [
+        "5",
+        "1.749",
+        "6.7424"
+      ],
+      "raw": "5\t1.749\t6.7424"
+    },
+    {
+      "lineNumber": 349,
+      "cells": [
+        "6",
+        "2.0114",
+        "8.7537"
+      ],
+      "raw": "6\t2.0114\t8.7537"
+    },
+    {
+      "lineNumber": 477,
+      "cells": [
+        "Building",
+        "Sprite size",
+        "Base Cost",
+        "ID",
+        "Base CpS",
+        "Maximum build count",
+        "Max CpS",
+        "Has grandma type?",
+        "Initial Payoff Time",
+        "Number of synergies",
+        "Number of Upgrades"
+      ],
+      "raw": "Building\tSprite size\tBase Cost\tID\tBase CpS\tMaximum build count\tMax CpS\tHas grandma type?\tInitial Payoff Time\tNumber of synergies\tNumber of Upgrades"
+    },
+    {
+      "lineNumber": 480,
+      "cells": [
+        "Cursor",
+        "64x64",
+        "15",
+        "0",
+        "0.1",
+        "5059",
+        "(68.48 trillion"
+      ],
+      "raw": "Cursor\t64x64\t15\t0\t0.1\t5059\t(68.48 trillion"
+    },
+    {
+      "lineNumber": 482,
+      "cells": [
+        "× (1 + FE/20)",
+        "no",
+        "150 seconds,"
+      ],
+      "raw": "× (1 + FE/20)\tno\t150 seconds,"
+    },
+    {
+      "lineNumber": 483,
+      "cells": [
+        "2.5 minutes",
+        "19",
+        "15 tiered"
+      ],
+      "raw": "2.5 minutes\t19\t15 tiered"
+    },
+    {
+      "lineNumber": 489,
+      "cells": [
+        "Grandma",
+        "64x64",
+        "100",
+        "1",
+        "1",
+        "5047",
+        "936,228 trillion"
+      ],
+      "raw": "Grandma\t64x64\t100\t1\t1\t5047\t936,228 trillion"
+    },
+    {
+      "lineNumber": 492,
+      "cells": [
+        "× (1 + JC/20)",
+        "no",
+        "100 seconds,"
+      ],
+      "raw": "× (1 + JC/20)\tno\t100 seconds,"
+    },
+    {
+      "lineNumber": 493,
+      "cells": [
+        "1.7 minutes",
+        "19",
+        "15 tiered"
+      ],
+      "raw": "1.7 minutes\t19\t15 tiered"
+    },
+    {
+      "lineNumber": 503,
+      "cells": [
+        "Farm",
+        "64x64",
+        "1,100",
+        "2",
+        "8",
+        "5028",
+        "4.258 billion"
+      ],
+      "raw": "Farm\t64x64\t1,100\t2\t8\t5028\t4.258 billion"
+    },
+    {
+      "lineNumber": 509,
+      "cells": [
+        "× (1 + G/100)",
+        "yes",
+        "138 seconds,"
+      ],
+      "raw": "× (1 + G/100)\tyes\t138 seconds,"
+    },
+    {
+      "lineNumber": 510,
+      "cells": [
+        "2.3 minutes",
+        "5",
+        "15 tiered"
+      ],
+      "raw": "2.3 minutes\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 517,
+      "cells": [
+        "Mine",
+        "64x64",
+        "12,000",
+        "3",
+        "47",
+        "5011",
+        "16.769 billion"
+      ],
+      "raw": "Mine\t64x64\t12,000\t3\t47\t5011\t16.769 billion"
+    },
+    {
+      "lineNumber": 522,
+      "cells": [
+        "× (1 + G/200)",
+        "yes",
+        "255 seconds,"
+      ],
+      "raw": "× (1 + G/200)\tyes\t255 seconds,"
+    },
+    {
+      "lineNumber": 523,
+      "cells": [
+        "4.3 minutes",
+        "4",
+        "15 tiered"
+      ],
+      "raw": "4.3 minutes\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 530,
+      "cells": [
+        "Factory",
+        "64x64",
+        "130,000",
+        "4",
+        "260",
+        "4996",
+        "61.503 billion"
+      ],
+      "raw": "Factory\t64x64\t130,000\t4\t260\t4996\t61.503 billion"
+    },
+    {
+      "lineNumber": 535,
+      "cells": [
+        "× (1 + G/300)",
+        "yes",
+        "500 seconds,"
+      ],
+      "raw": "× (1 + G/300)\tyes\t500 seconds,"
+    },
+    {
+      "lineNumber": 536,
+      "cells": [
+        "8.3 minutes",
+        "4",
+        "15 tiered"
+      ],
+      "raw": "8.3 minutes\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 543,
+      "cells": [
+        "Bank",
+        "64x64",
+        "1.4 million",
+        "5",
+        "1,400",
+        "4977",
+        "217.036 billion"
+      ],
+      "raw": "Bank\t64x64\t1.4 million\t5\t1,400\t4977\t217.036 billion"
+    },
+    {
+      "lineNumber": 548,
+      "cells": [
+        "× (1 + G/400)",
+        "yes",
+        "1,000 seconds,"
+      ],
+      "raw": "× (1 + G/400)\tyes\t1,000 seconds,"
+    },
+    {
+      "lineNumber": 549,
+      "cells": [
+        "16.7 minutes",
+        "4",
+        "15 tiered"
+      ],
+      "raw": "16.7 minutes\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 556,
+      "cells": [
+        "Temple",
+        "64x64",
+        "20 million",
+        "6",
+        "7,800",
+        "4958",
+        "782.820 billion"
+      ],
+      "raw": "Temple\t64x64\t20 million\t6\t7,800\t4958\t782.820 billion"
+    },
+    {
+      "lineNumber": 562,
+      "cells": [
+        "× (1 + G/500)",
+        "yes",
+        "2,564 seconds,"
+      ],
+      "raw": "× (1 + G/500)\tyes\t2,564 seconds,"
+    },
+    {
+      "lineNumber": 563,
+      "cells": [
+        "42.7 minutes",
+        "5",
+        "15 tiered"
+      ],
+      "raw": "42.7 minutes\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 570,
+      "cells": [
+        "Wizard Tower",
+        "64x64",
+        "330 million",
+        "7",
+        "44,000",
+        "4938",
+        "2.822 trillion"
+      ],
+      "raw": "Wizard Tower\t64x64\t330 million\t7\t44,000\t4938\t2.822 trillion"
+    },
+    {
+      "lineNumber": 575,
+      "cells": [
+        "× (1 + G/600)",
+        "yes",
+        "7,500 seconds,"
+      ],
+      "raw": "× (1 + G/600)\tyes\t7,500 seconds,"
+    },
+    {
+      "lineNumber": 577,
+      "cells": [
+        "2.1 hours",
+        "4",
+        "15 tiered"
+      ],
+      "raw": "2.1 hours\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 584,
+      "cells": [
+        "Shipment",
+        "64x64",
+        "5.1 billion",
+        "8",
+        "260,000",
+        "4918",
+        "10.510 trillion"
+      ],
+      "raw": "Shipment\t64x64\t5.1 billion\t8\t260,000\t4918\t10.510 trillion"
+    },
+    {
+      "lineNumber": 588,
+      "cells": [
+        "× (1 + G/700)",
+        "yes",
+        "19,615 seconds,"
+      ],
+      "raw": "× (1 + G/700)\tyes\t19,615 seconds,"
+    },
+    {
+      "lineNumber": 590,
+      "cells": [
+        "5.4 hours",
+        "3",
+        "15 tiered"
+      ],
+      "raw": "5.4 hours\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 597,
+      "cells": [
+        "Alchemy Lab",
+        "64x64",
+        "75 billion",
+        "9",
+        "1.6 million",
+        "4899",
+        "40.173 trillion"
+      ],
+      "raw": "Alchemy Lab\t64x64\t75 billion\t9\t1.6 million\t4899\t40.173 trillion"
+    },
+    {
+      "lineNumber": 602,
+      "cells": [
+        "× (1 + G/800)",
+        "yes",
+        "46,875 seconds,"
+      ],
+      "raw": "× (1 + G/800)\tyes\t46,875 seconds,"
+    },
+    {
+      "lineNumber": 604,
+      "cells": [
+        "13 hours",
+        "4",
+        "15 tiered"
+      ],
+      "raw": "13 hours\t4\t15 tiered"
+    },
+    {
+      "lineNumber": 611,
+      "cells": [
+        "Portal",
+        "64x64",
+        "1 trillion",
+        "10",
+        "10 million",
+        "4880",
+        "153.533 trillion"
+      ],
+      "raw": "Portal\t64x64\t1 trillion\t10\t10 million\t4880\t153.533 trillion"
+    },
+    {
+      "lineNumber": 617,
+      "cells": [
+        "× (1 + G/900)",
+        "yes",
+        "100,000 seconds,"
+      ],
+      "raw": "× (1 + G/900)\tyes\t100,000 seconds,"
+    },
+    {
+      "lineNumber": 620,
+      "cells": [
+        "1.16 days",
+        "6",
+        "15 tiered"
+      ],
+      "raw": "1.16 days\t6\t15 tiered"
+    },
+    {
+      "lineNumber": 627,
+      "cells": [
+        "Time Machine",
+        "64x64",
+        "14 trillion",
+        "11",
+        "65 million",
+        "4861",
+        "600.160 trillion"
+      ],
+      "raw": "Time Machine\t64x64\t14 trillion\t11\t65 million\t4861\t600.160 trillion"
+    },
+    {
+      "lineNumber": 633,
+      "cells": [
+        "× (1 + G/1,000)",
+        "yes",
+        "215,385 seconds,"
+      ],
+      "raw": "× (1 + G/1,000)\tyes\t215,385 seconds,"
+    },
+    {
+      "lineNumber": 636,
+      "cells": [
+        "2.49 days",
+        "5",
+        "15 tiered"
+      ],
+      "raw": "2.49 days\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 643,
+      "cells": [
+        "Antimatter Condenser",
+        "64x64",
+        "170 trillion",
+        "12",
+        "430 million",
+        "4844",
+        "2.345 quadrillion"
+      ],
+      "raw": "Antimatter Condenser\t64x64\t170 trillion\t12\t430 million\t4844\t2.345 quadrillion"
+    },
+    {
+      "lineNumber": 649,
+      "cells": [
+        "× (1 + G/1,100)",
+        "yes",
+        "395,348 seconds,"
+      ],
+      "raw": "× (1 + G/1,100)\tyes\t395,348 seconds,"
+    },
+    {
+      "lineNumber": 652,
+      "cells": [
+        "4.58 days",
+        "5",
+        "15 tiered"
+      ],
+      "raw": "4.58 days\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 659,
+      "cells": [
+        "Prism",
+        "64x64",
+        "2.1 quadrillion",
+        "13",
+        "2.9 billion",
+        "4826",
+        "9.167 quadrillion"
+      ],
+      "raw": "Prism\t64x64\t2.1 quadrillion\t13\t2.9 billion\t4826\t9.167 quadrillion"
+    },
+    {
+      "lineNumber": 665,
+      "cells": [
+        "× (1 + G/1,200)",
+        "yes",
+        "724,137 seconds,"
+      ],
+      "raw": "× (1 + G/1,200)\tyes\t724,137 seconds,"
+    },
+    {
+      "lineNumber": 668,
+      "cells": [
+        "8.38 days",
+        "5",
+        "15 tiered"
+      ],
+      "raw": "8.38 days\t5\t15 tiered"
+    },
+    {
+      "lineNumber": 675,
+      "cells": [
+        "Chancemaker",
+        "64x64",
+        "26 quadrillion",
+        "14",
+        "21 billion",
+        "4808",
+        "37.688 quadrillion"
+      ],
+      "raw": "Chancemaker\t64x64\t26 quadrillion\t14\t21 billion\t4808\t37.688 quadrillion"
+    },
+    {
+      "lineNumber": 679,
+      "cells": [
+        "× (1 + G/1,300)",
+        "yes",
+        "1,238,095 seconds,"
+      ],
+      "raw": "× (1 + G/1,300)\tyes\t1,238,095 seconds,"
+    },
+    {
+      "lineNumber": 682,
+      "cells": [
+        "13.33 days",
+        "3",
+        "15 tiered"
+      ],
+      "raw": "13.33 days\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 689,
+      "cells": [
+        "Fractal Engine",
+        "64x64",
+        "310 quadrillion",
+        "15",
+        "150 billion",
+        "4790",
+        "149.477 quadrillion"
+      ],
+      "raw": "Fractal Engine\t64x64\t310 quadrillion\t15\t150 billion\t4790\t149.477 quadrillion"
+    },
+    {
+      "lineNumber": 693,
+      "cells": [
+        "× (1 + G/1,400)",
+        "yes",
+        "2,066,666 seconds,"
+      ],
+      "raw": "× (1 + G/1,400)\tyes\t2,066,666 seconds,"
+    },
+    {
+      "lineNumber": 696,
+      "cells": [
+        "23.92 days",
+        "3",
+        "15 tiered"
+      ],
+      "raw": "23.92 days\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 703,
+      "cells": [
+        "Javascript Console",
+        "64x64",
+        "71 quintillion",
+        "16",
+        "1.1 trillion",
+        "4751",
+        "594.217 quadrillion"
+      ],
+      "raw": "Javascript Console\t64x64\t71 quintillion\t16\t1.1 trillion\t4751\t594.217 quadrillion"
+    },
+    {
+      "lineNumber": 707,
+      "cells": [
+        "× (1 + G/1,500)",
+        "yes",
+        "64,545,454 seconds,"
+      ],
+      "raw": "× (1 + G/1,500)\tyes\t64,545,454 seconds,"
+    },
+    {
+      "lineNumber": 711,
+      "cells": [
+        "2.05 years",
+        "3",
+        "15 tiered"
+      ],
+      "raw": "2.05 years\t3\t15 tiered"
+    },
+    {
+      "lineNumber": 718,
+      "cells": [
+        "Idleverse",
+        "64x64",
+        "12 sextillion",
+        "17",
+        "8.3 trillion",
+        "4714",
+        "2.368 quintillion"
+      ],
+      "raw": "Idleverse\t64x64\t12 sextillion\t17\t8.3 trillion\t4714\t2.368 quintillion"
+    },
+    {
+      "lineNumber": 721,
+      "cells": [
+        "× (1 + G/1,600)",
+        "yes",
+        "1,445,783,133 seconds,"
+      ],
+      "raw": "× (1 + G/1,600)\tyes\t1,445,783,133 seconds,"
+    },
+    {
+      "lineNumber": 725,
+      "cells": [
+        "45.8 years",
+        "2",
+        "15 tiered"
+      ],
+      "raw": "45.8 years\t2\t15 tiered"
+    },
+    {
+      "lineNumber": 732,
+      "cells": [
+        "Cortex Baker",
+        "64x64",
+        "1.9 septillion",
+        "18",
+        "64 trillion",
+        "4678",
+        "9.374 quintillion"
+      ],
+      "raw": "Cortex Baker\t64x64\t1.9 septillion\t18\t64 trillion\t4678\t9.374 quintillion"
+    },
+    {
+      "lineNumber": 735,
+      "cells": [
+        "× (1 + G/1,700)",
+        "yes",
+        "29,687,500,000 seconds,"
+      ],
+      "raw": "× (1 + G/1,700)\tyes\t29,687,500,000 seconds,"
+    },
+    {
+      "lineNumber": 739,
+      "cells": [
+        "941.4 years",
+        "2",
+        "15 tiered"
+      ],
+      "raw": "941.4 years\t2\t15 tiered"
+    },
+    {
+      "lineNumber": 746,
+      "cells": [
+        "You",
+        "64x64",
+        "540 septillion",
+        "19",
+        "510 trillion",
+        "4638",
+        "37.349 quintillion"
+      ],
+      "raw": "You\t64x64\t540 septillion\t19\t510 trillion\t4638\t37.349 quintillion"
+    },
+    {
+      "lineNumber": 749,
+      "cells": [
+        "× (1 + G/1,800)",
+        "yes",
+        "1,058,823,529,412 seconds,"
+      ],
+      "raw": "× (1 + G/1,800)\tyes\t1,058,823,529,412 seconds,"
+    },
+    {
+      "lineNumber": 753,
+      "cells": [
+        "33,575.1 years",
+        "2",
+        "15 tiered"
+      ],
+      "raw": "33,575.1 years\t2\t15 tiered"
+    },
+    {
+      "lineNumber": 764,
+      "cells": [
+        "Cursor",
+        "Grandmas"
+      ],
+      "raw": "Cursor\tGrandmas"
+    },
+    {
+      "lineNumber": 765,
+      "cells": [
+        "Grandma",
+        "Farm"
+      ],
+      "raw": "Grandma\tFarm"
+    },
+    {
+      "lineNumber": 766,
+      "cells": [
+        "Farm",
+        "Mine new"
+      ],
+      "raw": "Farm\tMine new"
+    },
+    {
+      "lineNumber": 767,
+      "cells": [
+        "Mine",
+        "Factory new"
+      ],
+      "raw": "Mine\tFactory new"
+    },
+    {
+      "lineNumber": 770,
+      "cells": [
+        "Bank",
+        "Temple"
+      ],
+      "raw": "Bank\tTemple"
+    },
+    {
+      "lineNumber": 771,
+      "cells": [
+        "Temple",
+        "Wizardtower"
+      ],
+      "raw": "Temple\tWizardtower"
+    },
+    {
+      "lineNumber": 772,
+      "cells": [
+        "Wizard Tower",
+        "Shipment new"
+      ],
+      "raw": "Wizard Tower\tShipment new"
+    },
+    {
+      "lineNumber": 773,
+      "cells": [
+        "Shipment",
+        "Alchemylab"
+      ],
+      "raw": "Shipment\tAlchemylab"
+    },
+    {
+      "lineNumber": 776,
+      "cells": [
+        "Portal",
+        "Timemachine new"
+      ],
+      "raw": "Portal\tTimemachine new"
+    },
+    {
+      "lineNumber": 777,
+      "cells": [
+        "Time Machine",
+        "Antim"
+      ],
+      "raw": "Time Machine\tAntim"
+    },
+    {
+      "lineNumber": 778,
+      "cells": [
+        "Antimatter Condenser",
+        "Prism"
+      ],
+      "raw": "Antimatter Condenser\tPrism"
+    },
+    {
+      "lineNumber": 779,
+      "cells": [
+        "Prism",
+        "Chancemaker"
+      ],
+      "raw": "Prism\tChancemaker"
+    },
+    {
+      "lineNumber": 782,
+      "cells": [
+        "Fractal Engine",
+        "Javascript console"
+      ],
+      "raw": "Fractal Engine\tJavascript console"
+    },
+    {
+      "lineNumber": 783,
+      "cells": [
+        "Javascript Console",
+        "Idleverse"
+      ],
+      "raw": "Javascript Console\tIdleverse"
+    },
+    {
+      "lineNumber": 784,
+      "cells": [
+        "Idleverse",
+        "Cortex Baker"
+      ],
+      "raw": "Idleverse\tCortex Baker"
+    },
+    {
+      "lineNumber": 785,
+      "cells": [
+        "Cortex Baker",
+        "You"
+      ],
+      "raw": "Cortex Baker\tYou"
+    },
+    {
+      "lineNumber": 791,
+      "cells": [
+        "Cookies",
+        "Cookie Clicker • Clicking • Buildings"
+      ],
+      "raw": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 792,
+      "cells": [
+        "General",
+        "Achievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+      ],
+      "raw": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 793,
+      "cells": [
+        "Upgrades",
+        "Overview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+      ],
+      "raw": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 794,
+      "cells": [
+        "Ascension",
+        "Ascension • Heavenly Chips • Challenge Mode • Krumblor"
+      ],
+      "raw": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 795,
+      "cells": [
+        "Seasons",
+        "Overview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+      ],
+      "raw": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 796,
+      "cells": [
+        "Minigames",
+        "Overview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+      ],
+      "raw": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 797,
+      "cells": [
+        "Further reading",
+        "Gameplay"
+      ],
+      "raw": "Further reading\tGameplay"
+    }
+  ]
+}

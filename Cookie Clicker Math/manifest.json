@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Cookie Math Commander",
+  "version": "0.1.0",
+  "description": "Deterministic Cookie Clicker advisor and commander using live math-based strategy scoring.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://orteil.dashnet.org/cookieclicker/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

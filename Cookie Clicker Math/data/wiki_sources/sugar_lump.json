@@ -1,0 +1,2200 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "Cookie Clicker Wiki scraped page text supplied by user",
+  "generatedDate": "2026-06-01",
+  "slug": "sugar_lump",
+  "title": "Sugar Lump",
+  "sourceFile": "web_page_text (5).txt",
+  "categories": [
+    "Gameplay"
+  ],
+  "articleStartLine": 122,
+  "articleEndLine": 355,
+  "contents": [
+    "Lump Types",
+    "Type Selection",
+    "Growth Stages",
+    "Growth and Maturation Times",
+    "Strategy",
+    "Spending guide",
+    "Building Level",
+    "Achievements",
+    "Sugar Lump Upgrades",
+    "Trivia",
+    "References"
+  ],
+  "articleLines": [
+    {
+      "lineNumber": 123,
+      "text": "The message that appears upon unlocking sugar lumps."
+    },
+    {
+      "lineNumber": 125,
+      "text": "Note: Sugar Lumps don't spawn on mobile version."
+    },
+    {
+      "lineNumber": 127,
+      "text": "Sugar Lumps are a secondary in-game currency (along with Cookies, Heavenly Chips and Dollars) and are unlocked once the player bakes at least one billion cookies. Once unlocked, the player gets a message telling them about sugar lumps, and the first sugar lump starts to grow (located just below the Stats button). Sugar lumps (and the building levels purchased with them) are permanent, and will carry over across ascensions."
+    },
+    {
+      "lineNumber": 129,
+      "text": "The player can harvest a Sugar Lump by clicking on it when it is mature or ripe. If the player forgets to harvest one by hand, ripe lumps fall and automatically harvest four hours after reaching maturity, even when the game is closed or in sleep mode. When starting an ascension in Challenge Mode, Sugar Lumps and their bonuses are inactive, but lumps still increment by one every day behind the scenes."
+    },
+    {
+      "lineNumber": 131,
+      "text": "Harvesting a Sugar Lump when it is mature but not ripe will result in a 50% chance to not get anything. Reloading the game without saving can give the player another attempt at harvesting a lump after a botched harvest. Once a Sugar Lump is harvested, another one begins growing immediately in its place."
+    },
+    {
+      "lineNumber": 133,
+      "text": "To upgrade buildings with Sugar Lump, players must click on the nearest button with the text \"LVL 0\" on it next to the mute button on a building section. Once the player obtains one Sugar Lump, they can spend that one lump to upgrade to level 1, 2 sugar lumps to upgrade to level 2, and so on. When the player upgrades a building, it increases the current CpS of the building by +1% Building CPS. Level 1 = +1% building CPS, Level 2 = +2% building CPS, and so on."
+    },
+    {
+      "lineNumber": 135,
+      "text": "Other than harvesting lumps, players can also obtain a single Sugar Lump from clicking a Golden Cookie with the Sweet effect, an outcome that has a 1 in 5000 chance of occurring, or by harvesting a Juicy Queenbeet, a Garden plant that requires a series of mutations to obtain. Sacrificing a full seed log in the Garden yields 10 Sugar Lumps at the cost of all unlocked garden plants except for Baker's Wheat."
+    },
+    {
+      "lineNumber": 137,
+      "text": "Contents"
+    },
+    {
+      "lineNumber": 138,
+      "text": "1\tLump Types"
+    },
+    {
+      "lineNumber": 139,
+      "text": "1.1\tType Selection"
+    },
+    {
+      "lineNumber": 140,
+      "text": "2\tGrowth Stages"
+    },
+    {
+      "lineNumber": 141,
+      "text": "2.1\tGrowth and Maturation Times"
+    },
+    {
+      "lineNumber": 142,
+      "text": "3\tStrategy"
+    },
+    {
+      "lineNumber": 143,
+      "text": "4\tSpending guide"
+    },
+    {
+      "lineNumber": 144,
+      "text": "5\tBuilding Level"
+    },
+    {
+      "lineNumber": 145,
+      "text": "6\tAchievements"
+    },
+    {
+      "lineNumber": 146,
+      "text": "7\tSugar Lump Upgrades"
+    },
+    {
+      "lineNumber": 147,
+      "text": "8\tTrivia"
+    },
+    {
+      "lineNumber": 148,
+      "text": "8.1\tReferences"
+    },
+    {
+      "lineNumber": 149,
+      "text": "Lump Types"
+    },
+    {
+      "lineNumber": 151,
+      "text": "There are five different types of Sugar Lumps, each with varying effects. The most common Sugar Lump is a normal Sugar Lump, which has no special effects. Other types include:"
+    },
+    {
+      "lineNumber": 153,
+      "text": "Bifurcated Sugar Lumps: there is a 50% chance this type yields 2 sugar lumps instead of one."
+    },
+    {
+      "lineNumber": 154,
+      "text": "Meaty Sugar Lumps: these may grow during Grandmapocalypse, granting 0 to 2 Sugar Lumps."
+    },
+    {
+      "lineNumber": 155,
+      "text": "Caramelized Sugar Lumps: they are somewhat rare, drop between 1 and 3 Sugar Lumps, and have the additional benefit of refilling Sugar Lump cooldowns. If used correctly, this is the most efficient sugar lump type in the game as players can use them to cast more spells from the Grimoire."
+    },
+    {
+      "lineNumber": 156,
+      "text": "Golden Sugar Lumps: when harvested, a golden sugar lump causes the player to gain anywhere between two and seven Sugar Lumps, double their cookie amount (though capped at 24 hours of CPS), and cause Golden Cookies to appear 10% more often for the following 24 hours."
+    },
+    {
+      "lineNumber": 158,
+      "text": "The type of sugar lump that grows is determined when the Sugar Lump is generated right after harvesting the previous Sugar Lump. When the game is closed, all auto-harvesting Sugar Lumps after the first one will be normal, hence they yield 1 Sugar Lump each."
+    },
+    {
+      "lineNumber": 160,
+      "text": "Icon\tName\tLumps Harvested\tSecondary effects\tID"
+    },
+    {
+      "lineNumber": 161,
+      "text": "Normal sugar lump\t1\tNone\t0"
+    },
+    {
+      "lineNumber": 162,
+      "text": "Bifurcated sugar lump\t50/50 chance of 1-2"
+    },
+    {
+      "lineNumber": 163,
+      "text": "With Sucralosia Inutilis:"
+    },
+    {
+      "lineNumber": 164,
+      "text": "47.5% chance of 1"
+    },
+    {
+      "lineNumber": 165,
+      "text": "52.5% chance of 2\tNone\t1"
+    },
+    {
+      "lineNumber": 166,
+      "text": "Golden sugar lump\tEqual chance of 2-7"
+    },
+    {
+      "lineNumber": 167,
+      "text": "Cookies banked doubled (capped at 24 hours of CpS)"
+    },
+    {
+      "lineNumber": 168,
+      "text": "Golden Cookies appear 10% more often for the next 24 hours"
+    },
+    {
+      "lineNumber": 169,
+      "text": "2"
+    },
+    {
+      "lineNumber": 170,
+      "text": "Meaty sugar lump\t40% chance of 0"
+    },
+    {
+      "lineNumber": 171,
+      "text": "20% chance of 1"
+    },
+    {
+      "lineNumber": 172,
+      "text": "40% chance of 2\tNone\t3"
+    },
+    {
+      "lineNumber": 173,
+      "text": "Caramelized sugar lump\tEqual chance of 1-3\tRefills sugar lump cooldowns\t4"
+    },
+    {
+      "lineNumber": 175,
+      "text": "The ID column in the above table is used in the back end of the game. When using console, writing Game.lumpCurrentType will return the type of currently growing Sugar Lump."
+    },
+    {
+      "lineNumber": 177,
+      "text": "Type Selection"
+    },
+    {
+      "lineNumber": 178,
+      "text": "Main article: Random list mechanism#Sugar Lump"
+    },
+    {
+      "lineNumber": 180,
+      "text": "The type selection of sugar lump follows random list mechanism. See the main article for the full selection process and detailed tables with all factors included."
+    },
+    {
+      "lineNumber": 182,
+      "text": "When the game is closed, the current sugar lump is already determined, and as such, will grow to be the predetermined type. When the game is reopened and enough time has passed to make more sugar lumps grow, only the most recent one will be subject to type selection. Any auto-harvested sugar lumps grown between the last and current sugar lumps will not be subject to type selection and thus default to normal sugar lumps."
+    },
+    {
+      "lineNumber": 184,
+      "text": "The following table shows sugar lump type chances assuming Sucralosia Inutilis isn't purchased, and neither Reality Bending nor Dragon's Curve auras are active."
+    },
+    {
+      "lineNumber": 186,
+      "text": "Phase of"
+    },
+    {
+      "lineNumber": 187,
+      "text": "Grandmapocalypse\tNormal\tBifurcated\tGolden\tMeaty\tCaramelized"
+    },
+    {
+      "lineNumber": 188,
+      "text": "Appeased\t93.9285%\t4.9617%\t0.1441%\t0%\t0.9657%"
+    },
+    {
+      "lineNumber": 189,
+      "text": "Awoken\t89.3327%\t4.7970%\t0.1393%\t4.7970%\t0.9341%"
+    },
+    {
+      "lineNumber": 190,
+      "text": "Displeased\t84.7368%\t4.6322%\t0.1346%\t9.5939%\t0.9025%"
+    },
+    {
+      "lineNumber": 191,
+      "text": "Angered\t80.1410%\t4.4674%\t0.1299%\t14.3909%\t0.8708%"
+    },
+    {
+      "lineNumber": 192,
+      "text": "Growth Stages"
+    },
+    {
+      "lineNumber": 194,
+      "text": "Prior to stage 5, all sugar lump types look identical. Past stage 5, meaty, caramelized, and golden types will appear different. Bifurcated lumps will appear different at stage 7."
+    },
+    {
+      "lineNumber": 196,
+      "text": "When hovering over a stage 4-7 Sugar Lump, the tooltip will still inform the player which lump type the lump grew to be even if it does not appear to be different."
+    },
+    {
+      "lineNumber": 198,
+      "text": "Normal Growth Stages"
+    },
+    {
+      "lineNumber": 199,
+      "text": "1\t2\t3\t4\t5\t6\t7"
+    },
+    {
+      "lineNumber": 201,
+      "text": "Variant Lump Types"
+    },
+    {
+      "lineNumber": 202,
+      "text": "Type\tStage 5\tStage 6\tStage 7"
+    },
+    {
+      "lineNumber": 203,
+      "text": "Bifurcated"
+    },
+    {
+      "lineNumber": 204,
+      "text": "Golden"
+    },
+    {
+      "lineNumber": 205,
+      "text": "Meaty"
+    },
+    {
+      "lineNumber": 206,
+      "text": "Caramelized"
+    },
+    {
+      "lineNumber": 207,
+      "text": "Growth and Maturation Times"
+    },
+    {
+      "lineNumber": 209,
+      "text": "At base values, sugar lumps take a total of 24 hours to fall, or 23 if harvested sucessfully while ripe."
+    },
+    {
+      "lineNumber": 211,
+      "text": "The fastest sugar lumps take 19 hours, 57 minutes and 26 seconds to fall, or 1 hour sooner if harvested."
+    },
+    {
+      "lineNumber": 213,
+      "text": "Growth is based on system clock. Turning it ahead speeds up lump growth, while turning it back regresses it."
+    },
+    {
+      "lineNumber": 215,
+      "text": "Modifier\tResulting Effect"
+    },
+    {
+      "lineNumber": 216,
+      "text": "Stevia Caelestis\tRipening time is 1 hour faster"
+    },
+    {
+      "lineNumber": 217,
+      "text": "Diabetica Daemonicus\tMaturing time is 1 hour faster"
+    },
+    {
+      "lineNumber": 218,
+      "text": "Sugar Aging Process\tRipening time is 6 seconds faster"
+    },
+    {
+      "lineNumber": 219,
+      "text": "per grandma (up to 600)."
+    },
+    {
+      "lineNumber": 220,
+      "text": "Auras: Reality Bending"
+    },
+    {
+      "lineNumber": 221,
+      "text": "/ Dragon's Curve / Both\tMaturing time is 0.5% / 5% / 5.5% faster"
+    },
+    {
+      "lineNumber": 222,
+      "text": "Ripening time is 0.5% / 5% / 5.5% faster"
+    },
+    {
+      "lineNumber": 223,
+      "text": "Rigidel: Diamond / Ruby / Jade\tRipening time is 60 / 40 / 20 minutes faster"
+    },
+    {
+      "lineNumber": 224,
+      "text": "Ichor syrup garden upgrade\tMaturing time is 7 minutes faster"
+    },
+    {
+      "lineNumber": 225,
+      "text": "Strategy"
+    },
+    {
+      "lineNumber": 227,
+      "text": "To get level 10 achievements, one needs 55 Sugar Lumps, so 55 * 20 = 1,100 for all of them. The player additionally need 12 levels instead of 10 for cursors in order to upgrade the Stock Market headquarters to their maximum, and 20 levels to receive the max effect from aura gloves and luminous gloves, requiring 155 additional lumps (1,100 + 155 = 1,255). The player can harvest ~1.09 mature Sugar Lumps every 17 hours 54 minutes with all relevant upgrades, and appeased grandmas. This requires active harvesting mature lumps, and save scumming botched harvests. Under these conditions, the player can get 55 Sugar Lumps in about 37.6 days. If the player leaves the game closed it will take about 45.7 days. This leaves 37.6 * 20 = 752 days active, or 915 days passive for all level 10 achievements, which amounts to just under three years. Keep in mind that the player can also scum for special Sugar Lumps, meaning that this can be reduced to around 100 days even without any sweet golden cookies or garden sacrifices."
+    },
+    {
+      "lineNumber": 229,
+      "text": "Sacrificing Garden may reduce the time by 50% or more, which depends on how active the player plays. Harvesting Juicy Queenbeets also helps. Harvesting Juicy Queenbeets requires save scumming to be more efficient than noscum sacrificing garden, and if savescumming, sacrificing garden is still faster. If the player wishes to harvest a Golden Sugar Lump and get the All-natural cane sugar shadow achievement, the player needs to pop 690 Sugar Lumps on average. The \"Sweet\" Golden Cookies, sacrificing garden and harvesting Juicy Queenbeets will not help since these methods only produce normal Sugar Lumps. That means it takes the player around a year and a half on average."
+    },
+    {
+      "lineNumber": 231,
+      "text": "\"Sweet\" Golden Cookies can be gained quite easily due to the Force the Hand of Fate spell in the Grimoire. When a player ascends, the seed changes, which affects the Force the Hand of Fate outcomes. Because of this, a player can use the spell, click the golden cookie spawned from it, see if it is a \"Sweet\" or not, ascend, and then repeat. The Fortune Cookie add-on shows the player the outcome from the spell, therefore showing if a \"Sweet\" Golden Cookie will appear soon, therefore making the player not rely on the first outcome of the spell, and instead look at the list of results instead of blindly hoping for a \"Sweet\" on the first spell."
+    },
+    {
+      "lineNumber": 233,
+      "text": "Spending guide"
+    },
+    {
+      "lineNumber": 235,
+      "text": "What to do with sugar lumps:"
+    },
+    {
+      "lineNumber": 237,
+      "text": "Spend 1 lump on wizard towers to unlock the grimoire."
+    },
+    {
+      "lineNumber": 238,
+      "text": "Spend 1 lump on temples to unlock the pantheon."
+    },
+    {
+      "lineNumber": 239,
+      "text": "Spend 1 lump on farms to unlock the garden."
+    },
+    {
+      "lineNumber": 240,
+      "text": "Spend 1 lump on banks to unlock the stock market."
+    },
+    {
+      "lineNumber": 241,
+      "text": "Spend the next 44 lumps to get farms to level 9, unlocking the maximum size of the garden."
+    },
+    {
+      "lineNumber": 242,
+      "text": "Spend a total of 78 lumps to level cursors up to level 12, which will allow the player to get the maximum office level for the achievement and also get bonuses from aura gloves and luminous gloves."
+    },
+    {
+      "lineNumber": 243,
+      "text": "Note: Save up the lumps needed to get the next loan before using lumps, loans unlock at cursor levels 4, 10 and 12 requiring 10, 45 and 23 lumps from the last one respectively."
+    },
+    {
+      "lineNumber": 244,
+      "text": "Stockpile 100 lumps to get the maximum bonus of Sugar Baking."
+    },
+    {
+      "lineNumber": 245,
+      "text": "Do 8.1 or 8.2 based on the player's preference."
+    },
+    {
+      "lineNumber": 246,
+      "text": "Level farms up to 10 for the sugar crystal cookies boost and the achievement (the player can drop to 94). Then level up cursors to 20 for the remaining luminous gloves boost (the player can drop to 94 lumps when going to level 13, then to 95 on the rest)."
+    },
+    {
+      "lineNumber": 247,
+      "text": "This is more efficient for pure cookie count (assuming the player is doing click combos) but is slower in getting all the achievements than option 2."
+    },
+    {
+      "lineNumber": 248,
+      "text": "Spend any lumps above 100 to level buildings up to level 10 and no more (Can drop to 94 on the final level)."
+    },
+    {
+      "lineNumber": 249,
+      "text": "Picking this first will get all the achievements faster and suit playing the game idly more than option 1."
+    },
+    {
+      "lineNumber": 250,
+      "text": "A suggested order would be banks (if you are playing the stock market), Chancemakers (if you have the Casino add-on installed), farms, and then continue with the building with the highest percentage of CpS to be optimal."
+    },
+    {
+      "lineNumber": 251,
+      "text": "Building Level"
+    },
+    {
+      "lineNumber": 253,
+      "text": "Sugar lumps can be spent to level up buildings. Each level boosts the corresponding building's CpS by 1%."
+    },
+    {
+      "lineNumber": 255,
+      "text": "Certain buildings unlock minigames at building level 1, with some minigames having effects for higher levels."
+    },
+    {
+      "lineNumber": 257,
+      "text": "Building\tFlavor Text (ends with \"granting +X% [Building] CpS.\")"
+    },
+    {
+      "lineNumber": 258,
+      "text": "Cursor\tX extra finger(s)"
+    },
+    {
+      "lineNumber": 259,
+      "text": "Grandma\tGrandmas are X year(s) older"
+    },
+    {
+      "lineNumber": 260,
+      "text": "Farm\tX more acre(s)"
+    },
+    {
+      "lineNumber": 261,
+      "text": "Mine\tX mile(s) deeper"
+    },
+    {
+      "lineNumber": 262,
+      "text": "Factory\tX additional patent(s)"
+    },
+    {
+      "lineNumber": 263,
+      "text": "Bank\tInterest rates X% better"
+    },
+    {
+      "lineNumber": 264,
+      "text": "Temple\tX sacred artifact(s) retrieved"
+    },
+    {
+      "lineNumber": 265,
+      "text": "Wizard Tower\tIncantations have X more syllable(s)"
+    },
+    {
+      "lineNumber": 266,
+      "text": "Shipment\tX galaxy(galaxies) fully explored"
+    },
+    {
+      "lineNumber": 267,
+      "text": "Alchemy Lab\tX primordial element(s) mastered"
+    },
+    {
+      "lineNumber": 268,
+      "text": "Portal\tX dimension(s) enslaved"
+    },
+    {
+      "lineNumber": 269,
+      "text": "Time Machine\tX century(centuries) secured"
+    },
+    {
+      "lineNumber": 270,
+      "text": "Antimatter Condenser\tX extra quark flavor(s)"
+    },
+    {
+      "lineNumber": 271,
+      "text": "Prism\tX new color(s) discovered"
+    },
+    {
+      "lineNumber": 272,
+      "text": "Chancemaker\tChancemakers are powered by X-leaf clovers"
+    },
+    {
+      "lineNumber": 273,
+      "text": "Fractal Engine\tX iteration(s) deep"
+    },
+    {
+      "lineNumber": 274,
+      "text": "Javascript Console\tEquipped with X external library(libraries)"
+    },
+    {
+      "lineNumber": 275,
+      "text": "Idleverse\tX manifold(s)"
+    },
+    {
+      "lineNumber": 276,
+      "text": "Cortex Baker\tX extra IQ point(s)"
+    },
+    {
+      "lineNumber": 277,
+      "text": "You\tX optimized gene(s)"
+    },
+    {
+      "lineNumber": 278,
+      "text": "Achievements"
+    },
+    {
+      "lineNumber": 279,
+      "text": "Icon\tName\tDescription\tID"
+    },
+    {
+      "lineNumber": 280,
+      "text": "Dude, sweet\tHarvest 7 coalescing sugar lumps.\t266"
+    },
+    {
+      "lineNumber": 281,
+      "text": "Sugar rush\tHarvest 30 coalescing sugar lumps.\t267"
+    },
+    {
+      "lineNumber": 282,
+      "text": "Year's worth of cavities\tHarvest 365 coalescing sugar lumps."
+    },
+    {
+      "lineNumber": 283,
+      "text": "\"My lumps my lumps my lumps.\"\t268"
+    },
+    {
+      "lineNumber": 284,
+      "text": "Hand-picked\tSuccessfully harvest a coalescing sugar lump before it's ripe.\t269"
+    },
+    {
+      "lineNumber": 285,
+      "text": "Sugar sugar\tHarvest a bifurcated sugar lump.\t270"
+    },
+    {
+      "lineNumber": 286,
+      "text": "Sweetmeats\tHarvest a meaty sugar lump.\t272"
+    },
+    {
+      "lineNumber": 287,
+      "text": "Maillard reaction\tHarvest a caramelized sugar lump.\t396"
+    },
+    {
+      "lineNumber": 288,
+      "text": "All-natural cane sugar"
+    },
+    {
+      "lineNumber": 289,
+      "text": "(shadow achievement)\tHarvest a Golden Sugar Lump.\t271"
+    },
+    {
+      "lineNumber": 290,
+      "text": "Sugar Lump Upgrades"
+    },
+    {
+      "lineNumber": 292,
+      "text": "Icon\tName\tUnlock condition\tBase price\tDescription\tID"
+    },
+    {
+      "lineNumber": 295,
+      "text": "Ichor syrup\t0.5% chance of dropping after harvesting a mature ichorpuff [note 1]\t 7,200 x CpS\tYou gain another +7% of your regular CpS while the game is closed."
+    },
+    {
+      "lineNumber": 296,
+      "text": "(Must own the Twin Gates of Transcendence upgrade.)."
+    },
+    {
+      "lineNumber": 297,
+      "text": "Sugar lumps mature 7 minutes sooner."
+    },
+    {
+      "lineNumber": 298,
+      "text": "Dropped by ichorpuff plants."
+    },
+    {
+      "lineNumber": 299,
+      "text": "Cost scales with CpS."
+    },
+    {
+      "lineNumber": 300,
+      "text": "\"Tastes like candy. The smell is another story.\"\t475"
+    },
+    {
+      "lineNumber": 303,
+      "text": "Stevia Caelestis"
+    },
+    {
+      "lineNumber": 304,
+      "text": "(heavenly upgrade)\t\"Wrinkly Cookies\" purchased\t 100 million\tSugar lumps ripen an hour sooner."
+    },
+    {
+      "lineNumber": 305,
+      "text": "\"A plant of supernatural sweetness grown by angels in heavenly gardens.\"\t408"
+    },
+    {
+      "lineNumber": 308,
+      "text": "Sugar baking"
+    },
+    {
+      "lineNumber": 309,
+      "text": "(heavenly upgrade)\t\"Stevia Caelestis\" purchased\t 200 million\tEach unspent sugar lump (up to 100) gives +1% CpS."
+    },
+    {
+      "lineNumber": 310,
+      "text": "Note : this means that spending sugar lumps will decrease your CpS until they grow back."
+    },
+    {
+      "lineNumber": 311,
+      "text": "\"To bake with the sugary essence of eons themselves, you must first learn to take your sweet time\"\t449"
+    },
+    {
+      "lineNumber": 314,
+      "text": "Diabetica Daemonicus"
+    },
+    {
+      "lineNumber": 315,
+      "text": "(heavenly upgrade)\t\"Stevia Caelestis\" and \"Lucifer\" purchased\t 300 million\tSugar lumps mature an hour sooner."
+    },
+    {
+      "lineNumber": 316,
+      "text": "\"A malevolent, if delicious herb that is said to grow on the cliffs of the darkest abyss of the underworld.\"\t409"
+    },
+    {
+      "lineNumber": 319,
+      "text": "Sugar craving"
+    },
+    {
+      "lineNumber": 320,
+      "text": "(heavenly upgrade)\t\"Sugar baking\" purchased\t 400 million\tOnce an ascension, you may use the \"Sugar frenzy\" switch to triple your CpS for 1 hour, at the cost of 1 sugar lump."
+    },
+    {
+      "lineNumber": 321,
+      "text": "\"Just a little kick to sweeten the deal.\"\t450"
+    },
+    {
+      "lineNumber": 324,
+      "text": "Sugar aging process"
+    },
+    {
+      "lineNumber": 325,
+      "text": "(heavenly upgrade)\t\"Sugar craving\" and \"Diabetica Daemonicus\" purchased\t 600 million\tEach grandma (up to 600) makes sugar lumps ripen 6 seconds sooner."
+    },
+    {
+      "lineNumber": 326,
+      "text": "\"Aren't they just the sweetest?\"\t451"
+    },
+    {
+      "lineNumber": 329,
+      "text": "Sucralosia Inutilis"
+    },
+    {
+      "lineNumber": 330,
+      "text": "(heavenly upgrade)\t\"Diabetica Daemonicus\" purchased\t 1 billion\tBifurcated sugar lumps appear 5% more often and are 5% more likely to drop 2 lumps."
+    },
+    {
+      "lineNumber": 331,
+      "text": "\"A rare berry of uninteresting flavor that is as elusive as its uses are limited; only sought-after by the most avid collectors with too much wealth on their hands.\"\t410"
+    },
+    {
+      "lineNumber": 332,
+      "text": "↑ Once this upgrade is unlocked, all future ascensions will have it immediately available for purchase from the store."
+    },
+    {
+      "lineNumber": 333,
+      "text": "Trivia"
+    },
+    {
+      "lineNumber": 335,
+      "text": "The lump's changed appearance."
+    },
+    {
+      "lineNumber": 337,
+      "text": "By changing the time on one's computer forward, the player can harvest all the sugar lumps in those time differences. However, setting it back to the normal time or backwards will make the next sugar lump to grow extremely slowly as the time to mature and ripen does not change. When this happens, the game will say that the sugar lump has been exposed to time travel shenanigans and will take as long as how far back the player has set in time plus the remaining time to for the current one to mature or ripen. This also changes the sugar lump's appearance to an icon of Orteil's head (also used in the God Complex shadow achievement), indicating the player has messed with the system clock. This may be fixed on the web version of Cookie Clicker by inputting Game.lumpt=Date.now() into the browser's debug console (changing the date back and reloading the game also works)."
+    },
+    {
+      "lineNumber": 338,
+      "text": "The Grandmas' ages increase by 1 year per level they are upgraded."
+    },
+    {
+      "lineNumber": 339,
+      "text": "References"
+    },
+    {
+      "lineNumber": 340,
+      "text": "The achievement \"Maillard reaction\" is named after the chemical reaction that causes sugar to caramelize."
+    },
+    {
+      "lineNumber": 341,
+      "text": "The achievement \"Sugar sugar\" may be a reference to the song \"Sugar, Sugar\"."
+    },
+    {
+      "lineNumber": 342,
+      "text": "It may also may also be a reference to the browser game \"Sugar, Sugar\"."
+    },
+    {
+      "lineNumber": 343,
+      "text": "The heavenly upgrade \"Stevia Caelestis\" is a reference to stevia, a sugar substitute roughly 30 times as sweet as sugar."
+    },
+    {
+      "lineNumber": 344,
+      "text": "The heavenly upgrade \"Diabetica Daemonicus\" is a reference to diabetes, a medical condition characterized by abnormally high blood sugar levels."
+    },
+    {
+      "lineNumber": 345,
+      "text": "The heavenly upgrade \"Sucralosia Inutilis\" is a reference to sucralose, a sugar substitute roughly 600 times as sweet as sugar."
+    },
+    {
+      "lineNumber": 346,
+      "text": "This box: view • talk • edit"
+    },
+    {
+      "lineNumber": 347,
+      "text": "Cookie Clicker game mechanics"
+    },
+    {
+      "lineNumber": 348,
+      "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 349,
+      "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 350,
+      "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 351,
+      "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 352,
+      "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 353,
+      "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 354,
+      "text": "Further reading\tGameplay"
+    },
+    {
+      "lineNumber": 355,
+      "text": "Categories"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Lump Types",
+      "lineNumber": 149,
+      "lines": [
+        {
+          "lineNumber": 151,
+          "text": "There are five different types of Sugar Lumps, each with varying effects. The most common Sugar Lump is a normal Sugar Lump, which has no special effects. Other types include:"
+        },
+        {
+          "lineNumber": 153,
+          "text": "Bifurcated Sugar Lumps: there is a 50% chance this type yields 2 sugar lumps instead of one."
+        },
+        {
+          "lineNumber": 154,
+          "text": "Meaty Sugar Lumps: these may grow during Grandmapocalypse, granting 0 to 2 Sugar Lumps."
+        },
+        {
+          "lineNumber": 155,
+          "text": "Caramelized Sugar Lumps: they are somewhat rare, drop between 1 and 3 Sugar Lumps, and have the additional benefit of refilling Sugar Lump cooldowns. If used correctly, this is the most efficient sugar lump type in the game as players can use them to cast more spells from the Grimoire."
+        },
+        {
+          "lineNumber": 156,
+          "text": "Golden Sugar Lumps: when harvested, a golden sugar lump causes the player to gain anywhere between two and seven Sugar Lumps, double their cookie amount (though capped at 24 hours of CPS), and cause Golden Cookies to appear 10% more often for the following 24 hours."
+        },
+        {
+          "lineNumber": 158,
+          "text": "The type of sugar lump that grows is determined when the Sugar Lump is generated right after harvesting the previous Sugar Lump. When the game is closed, all auto-harvesting Sugar Lumps after the first one will be normal, hence they yield 1 Sugar Lump each."
+        },
+        {
+          "lineNumber": 160,
+          "text": "Icon\tName\tLumps Harvested\tSecondary effects\tID"
+        },
+        {
+          "lineNumber": 161,
+          "text": "Normal sugar lump\t1\tNone\t0"
+        },
+        {
+          "lineNumber": 162,
+          "text": "Bifurcated sugar lump\t50/50 chance of 1-2"
+        },
+        {
+          "lineNumber": 163,
+          "text": "With Sucralosia Inutilis:"
+        },
+        {
+          "lineNumber": 164,
+          "text": "47.5% chance of 1"
+        },
+        {
+          "lineNumber": 165,
+          "text": "52.5% chance of 2\tNone\t1"
+        },
+        {
+          "lineNumber": 166,
+          "text": "Golden sugar lump\tEqual chance of 2-7"
+        },
+        {
+          "lineNumber": 167,
+          "text": "Cookies banked doubled (capped at 24 hours of CpS)"
+        },
+        {
+          "lineNumber": 168,
+          "text": "Golden Cookies appear 10% more often for the next 24 hours"
+        },
+        {
+          "lineNumber": 169,
+          "text": "2"
+        },
+        {
+          "lineNumber": 170,
+          "text": "Meaty sugar lump\t40% chance of 0"
+        },
+        {
+          "lineNumber": 171,
+          "text": "20% chance of 1"
+        },
+        {
+          "lineNumber": 172,
+          "text": "40% chance of 2\tNone\t3"
+        },
+        {
+          "lineNumber": 173,
+          "text": "Caramelized sugar lump\tEqual chance of 1-3\tRefills sugar lump cooldowns\t4"
+        },
+        {
+          "lineNumber": 175,
+          "text": "The ID column in the above table is used in the back end of the game. When using console, writing Game.lumpCurrentType will return the type of currently growing Sugar Lump."
+        }
+      ]
+    },
+    {
+      "heading": "Type Selection",
+      "lineNumber": 177,
+      "lines": [
+        {
+          "lineNumber": 178,
+          "text": "Main article: Random list mechanism#Sugar Lump"
+        },
+        {
+          "lineNumber": 180,
+          "text": "The type selection of sugar lump follows random list mechanism. See the main article for the full selection process and detailed tables with all factors included."
+        },
+        {
+          "lineNumber": 182,
+          "text": "When the game is closed, the current sugar lump is already determined, and as such, will grow to be the predetermined type. When the game is reopened and enough time has passed to make more sugar lumps grow, only the most recent one will be subject to type selection. Any auto-harvested sugar lumps grown between the last and current sugar lumps will not be subject to type selection and thus default to normal sugar lumps."
+        },
+        {
+          "lineNumber": 184,
+          "text": "The following table shows sugar lump type chances assuming Sucralosia Inutilis isn't purchased, and neither Reality Bending nor Dragon's Curve auras are active."
+        },
+        {
+          "lineNumber": 186,
+          "text": "Phase of"
+        },
+        {
+          "lineNumber": 187,
+          "text": "Grandmapocalypse\tNormal\tBifurcated\tGolden\tMeaty\tCaramelized"
+        },
+        {
+          "lineNumber": 188,
+          "text": "Appeased\t93.9285%\t4.9617%\t0.1441%\t0%\t0.9657%"
+        },
+        {
+          "lineNumber": 189,
+          "text": "Awoken\t89.3327%\t4.7970%\t0.1393%\t4.7970%\t0.9341%"
+        },
+        {
+          "lineNumber": 190,
+          "text": "Displeased\t84.7368%\t4.6322%\t0.1346%\t9.5939%\t0.9025%"
+        },
+        {
+          "lineNumber": 191,
+          "text": "Angered\t80.1410%\t4.4674%\t0.1299%\t14.3909%\t0.8708%"
+        }
+      ]
+    },
+    {
+      "heading": "Growth Stages",
+      "lineNumber": 192,
+      "lines": [
+        {
+          "lineNumber": 194,
+          "text": "Prior to stage 5, all sugar lump types look identical. Past stage 5, meaty, caramelized, and golden types will appear different. Bifurcated lumps will appear different at stage 7."
+        },
+        {
+          "lineNumber": 196,
+          "text": "When hovering over a stage 4-7 Sugar Lump, the tooltip will still inform the player which lump type the lump grew to be even if it does not appear to be different."
+        },
+        {
+          "lineNumber": 198,
+          "text": "Normal Growth Stages"
+        },
+        {
+          "lineNumber": 199,
+          "text": "1\t2\t3\t4\t5\t6\t7"
+        },
+        {
+          "lineNumber": 201,
+          "text": "Variant Lump Types"
+        },
+        {
+          "lineNumber": 202,
+          "text": "Type\tStage 5\tStage 6\tStage 7"
+        },
+        {
+          "lineNumber": 203,
+          "text": "Bifurcated"
+        },
+        {
+          "lineNumber": 204,
+          "text": "Golden"
+        },
+        {
+          "lineNumber": 205,
+          "text": "Meaty"
+        },
+        {
+          "lineNumber": 206,
+          "text": "Caramelized"
+        }
+      ]
+    },
+    {
+      "heading": "Growth and Maturation Times",
+      "lineNumber": 207,
+      "lines": [
+        {
+          "lineNumber": 209,
+          "text": "At base values, sugar lumps take a total of 24 hours to fall, or 23 if harvested sucessfully while ripe."
+        },
+        {
+          "lineNumber": 211,
+          "text": "The fastest sugar lumps take 19 hours, 57 minutes and 26 seconds to fall, or 1 hour sooner if harvested."
+        },
+        {
+          "lineNumber": 213,
+          "text": "Growth is based on system clock. Turning it ahead speeds up lump growth, while turning it back regresses it."
+        },
+        {
+          "lineNumber": 215,
+          "text": "Modifier\tResulting Effect"
+        },
+        {
+          "lineNumber": 216,
+          "text": "Stevia Caelestis\tRipening time is 1 hour faster"
+        },
+        {
+          "lineNumber": 217,
+          "text": "Diabetica Daemonicus\tMaturing time is 1 hour faster"
+        },
+        {
+          "lineNumber": 218,
+          "text": "Sugar Aging Process\tRipening time is 6 seconds faster"
+        },
+        {
+          "lineNumber": 219,
+          "text": "per grandma (up to 600)."
+        },
+        {
+          "lineNumber": 220,
+          "text": "Auras: Reality Bending"
+        },
+        {
+          "lineNumber": 221,
+          "text": "/ Dragon's Curve / Both\tMaturing time is 0.5% / 5% / 5.5% faster"
+        },
+        {
+          "lineNumber": 222,
+          "text": "Ripening time is 0.5% / 5% / 5.5% faster"
+        },
+        {
+          "lineNumber": 223,
+          "text": "Rigidel: Diamond / Ruby / Jade\tRipening time is 60 / 40 / 20 minutes faster"
+        },
+        {
+          "lineNumber": 224,
+          "text": "Ichor syrup garden upgrade\tMaturing time is 7 minutes faster"
+        }
+      ]
+    },
+    {
+      "heading": "Strategy",
+      "lineNumber": 225,
+      "lines": [
+        {
+          "lineNumber": 227,
+          "text": "To get level 10 achievements, one needs 55 Sugar Lumps, so 55 * 20 = 1,100 for all of them. The player additionally need 12 levels instead of 10 for cursors in order to upgrade the Stock Market headquarters to their maximum, and 20 levels to receive the max effect from aura gloves and luminous gloves, requiring 155 additional lumps (1,100 + 155 = 1,255). The player can harvest ~1.09 mature Sugar Lumps every 17 hours 54 minutes with all relevant upgrades, and appeased grandmas. This requires active harvesting mature lumps, and save scumming botched harvests. Under these conditions, the player can get 55 Sugar Lumps in about 37.6 days. If the player leaves the game closed it will take about 45.7 days. This leaves 37.6 * 20 = 752 days active, or 915 days passive for all level 10 achievements, which amounts to just under three years. Keep in mind that the player can also scum for special Sugar Lumps, meaning that this can be reduced to around 100 days even without any sweet golden cookies or garden sacrifices."
+        },
+        {
+          "lineNumber": 229,
+          "text": "Sacrificing Garden may reduce the time by 50% or more, which depends on how active the player plays. Harvesting Juicy Queenbeets also helps. Harvesting Juicy Queenbeets requires save scumming to be more efficient than noscum sacrificing garden, and if savescumming, sacrificing garden is still faster. If the player wishes to harvest a Golden Sugar Lump and get the All-natural cane sugar shadow achievement, the player needs to pop 690 Sugar Lumps on average. The \"Sweet\" Golden Cookies, sacrificing garden and harvesting Juicy Queenbeets will not help since these methods only produce normal Sugar Lumps. That means it takes the player around a year and a half on average."
+        },
+        {
+          "lineNumber": 231,
+          "text": "\"Sweet\" Golden Cookies can be gained quite easily due to the Force the Hand of Fate spell in the Grimoire. When a player ascends, the seed changes, which affects the Force the Hand of Fate outcomes. Because of this, a player can use the spell, click the golden cookie spawned from it, see if it is a \"Sweet\" or not, ascend, and then repeat. The Fortune Cookie add-on shows the player the outcome from the spell, therefore showing if a \"Sweet\" Golden Cookie will appear soon, therefore making the player not rely on the first outcome of the spell, and instead look at the list of results instead of blindly hoping for a \"Sweet\" on the first spell."
+        }
+      ]
+    },
+    {
+      "heading": "Spending guide",
+      "lineNumber": 233,
+      "lines": [
+        {
+          "lineNumber": 235,
+          "text": "What to do with sugar lumps:"
+        },
+        {
+          "lineNumber": 237,
+          "text": "Spend 1 lump on wizard towers to unlock the grimoire."
+        },
+        {
+          "lineNumber": 238,
+          "text": "Spend 1 lump on temples to unlock the pantheon."
+        },
+        {
+          "lineNumber": 239,
+          "text": "Spend 1 lump on farms to unlock the garden."
+        },
+        {
+          "lineNumber": 240,
+          "text": "Spend 1 lump on banks to unlock the stock market."
+        },
+        {
+          "lineNumber": 241,
+          "text": "Spend the next 44 lumps to get farms to level 9, unlocking the maximum size of the garden."
+        },
+        {
+          "lineNumber": 242,
+          "text": "Spend a total of 78 lumps to level cursors up to level 12, which will allow the player to get the maximum office level for the achievement and also get bonuses from aura gloves and luminous gloves."
+        },
+        {
+          "lineNumber": 243,
+          "text": "Note: Save up the lumps needed to get the next loan before using lumps, loans unlock at cursor levels 4, 10 and 12 requiring 10, 45 and 23 lumps from the last one respectively."
+        },
+        {
+          "lineNumber": 244,
+          "text": "Stockpile 100 lumps to get the maximum bonus of Sugar Baking."
+        },
+        {
+          "lineNumber": 245,
+          "text": "Do 8.1 or 8.2 based on the player's preference."
+        },
+        {
+          "lineNumber": 246,
+          "text": "Level farms up to 10 for the sugar crystal cookies boost and the achievement (the player can drop to 94). Then level up cursors to 20 for the remaining luminous gloves boost (the player can drop to 94 lumps when going to level 13, then to 95 on the rest)."
+        },
+        {
+          "lineNumber": 247,
+          "text": "This is more efficient for pure cookie count (assuming the player is doing click combos) but is slower in getting all the achievements than option 2."
+        },
+        {
+          "lineNumber": 248,
+          "text": "Spend any lumps above 100 to level buildings up to level 10 and no more (Can drop to 94 on the final level)."
+        },
+        {
+          "lineNumber": 249,
+          "text": "Picking this first will get all the achievements faster and suit playing the game idly more than option 1."
+        },
+        {
+          "lineNumber": 250,
+          "text": "A suggested order would be banks (if you are playing the stock market), Chancemakers (if you have the Casino add-on installed), farms, and then continue with the building with the highest percentage of CpS to be optimal."
+        }
+      ]
+    },
+    {
+      "heading": "Building Level",
+      "lineNumber": 251,
+      "lines": [
+        {
+          "lineNumber": 253,
+          "text": "Sugar lumps can be spent to level up buildings. Each level boosts the corresponding building's CpS by 1%."
+        },
+        {
+          "lineNumber": 255,
+          "text": "Certain buildings unlock minigames at building level 1, with some minigames having effects for higher levels."
+        },
+        {
+          "lineNumber": 257,
+          "text": "Building\tFlavor Text (ends with \"granting +X% [Building] CpS.\")"
+        },
+        {
+          "lineNumber": 258,
+          "text": "Cursor\tX extra finger(s)"
+        },
+        {
+          "lineNumber": 259,
+          "text": "Grandma\tGrandmas are X year(s) older"
+        },
+        {
+          "lineNumber": 260,
+          "text": "Farm\tX more acre(s)"
+        },
+        {
+          "lineNumber": 261,
+          "text": "Mine\tX mile(s) deeper"
+        },
+        {
+          "lineNumber": 262,
+          "text": "Factory\tX additional patent(s)"
+        },
+        {
+          "lineNumber": 263,
+          "text": "Bank\tInterest rates X% better"
+        },
+        {
+          "lineNumber": 264,
+          "text": "Temple\tX sacred artifact(s) retrieved"
+        },
+        {
+          "lineNumber": 265,
+          "text": "Wizard Tower\tIncantations have X more syllable(s)"
+        },
+        {
+          "lineNumber": 266,
+          "text": "Shipment\tX galaxy(galaxies) fully explored"
+        },
+        {
+          "lineNumber": 267,
+          "text": "Alchemy Lab\tX primordial element(s) mastered"
+        },
+        {
+          "lineNumber": 268,
+          "text": "Portal\tX dimension(s) enslaved"
+        },
+        {
+          "lineNumber": 269,
+          "text": "Time Machine\tX century(centuries) secured"
+        },
+        {
+          "lineNumber": 270,
+          "text": "Antimatter Condenser\tX extra quark flavor(s)"
+        },
+        {
+          "lineNumber": 271,
+          "text": "Prism\tX new color(s) discovered"
+        },
+        {
+          "lineNumber": 272,
+          "text": "Chancemaker\tChancemakers are powered by X-leaf clovers"
+        },
+        {
+          "lineNumber": 273,
+          "text": "Fractal Engine\tX iteration(s) deep"
+        },
+        {
+          "lineNumber": 274,
+          "text": "Javascript Console\tEquipped with X external library(libraries)"
+        },
+        {
+          "lineNumber": 275,
+          "text": "Idleverse\tX manifold(s)"
+        },
+        {
+          "lineNumber": 276,
+          "text": "Cortex Baker\tX extra IQ point(s)"
+        },
+        {
+          "lineNumber": 277,
+          "text": "You\tX optimized gene(s)"
+        }
+      ]
+    },
+    {
+      "heading": "Achievements",
+      "lineNumber": 278,
+      "lines": [
+        {
+          "lineNumber": 279,
+          "text": "Icon\tName\tDescription\tID"
+        },
+        {
+          "lineNumber": 280,
+          "text": "Dude, sweet\tHarvest 7 coalescing sugar lumps.\t266"
+        },
+        {
+          "lineNumber": 281,
+          "text": "Sugar rush\tHarvest 30 coalescing sugar lumps.\t267"
+        },
+        {
+          "lineNumber": 282,
+          "text": "Year's worth of cavities\tHarvest 365 coalescing sugar lumps."
+        },
+        {
+          "lineNumber": 283,
+          "text": "\"My lumps my lumps my lumps.\"\t268"
+        },
+        {
+          "lineNumber": 284,
+          "text": "Hand-picked\tSuccessfully harvest a coalescing sugar lump before it's ripe.\t269"
+        },
+        {
+          "lineNumber": 285,
+          "text": "Sugar sugar\tHarvest a bifurcated sugar lump.\t270"
+        },
+        {
+          "lineNumber": 286,
+          "text": "Sweetmeats\tHarvest a meaty sugar lump.\t272"
+        },
+        {
+          "lineNumber": 287,
+          "text": "Maillard reaction\tHarvest a caramelized sugar lump.\t396"
+        },
+        {
+          "lineNumber": 288,
+          "text": "All-natural cane sugar"
+        },
+        {
+          "lineNumber": 289,
+          "text": "(shadow achievement)\tHarvest a Golden Sugar Lump.\t271"
+        }
+      ]
+    },
+    {
+      "heading": "Sugar Lump Upgrades",
+      "lineNumber": 290,
+      "lines": [
+        {
+          "lineNumber": 292,
+          "text": "Icon\tName\tUnlock condition\tBase price\tDescription\tID"
+        },
+        {
+          "lineNumber": 295,
+          "text": "Ichor syrup\t0.5% chance of dropping after harvesting a mature ichorpuff [note 1]\t 7,200 x CpS\tYou gain another +7% of your regular CpS while the game is closed."
+        },
+        {
+          "lineNumber": 296,
+          "text": "(Must own the Twin Gates of Transcendence upgrade.)."
+        },
+        {
+          "lineNumber": 297,
+          "text": "Sugar lumps mature 7 minutes sooner."
+        },
+        {
+          "lineNumber": 298,
+          "text": "Dropped by ichorpuff plants."
+        },
+        {
+          "lineNumber": 299,
+          "text": "Cost scales with CpS."
+        },
+        {
+          "lineNumber": 300,
+          "text": "\"Tastes like candy. The smell is another story.\"\t475"
+        },
+        {
+          "lineNumber": 303,
+          "text": "Stevia Caelestis"
+        },
+        {
+          "lineNumber": 304,
+          "text": "(heavenly upgrade)\t\"Wrinkly Cookies\" purchased\t 100 million\tSugar lumps ripen an hour sooner."
+        },
+        {
+          "lineNumber": 305,
+          "text": "\"A plant of supernatural sweetness grown by angels in heavenly gardens.\"\t408"
+        },
+        {
+          "lineNumber": 308,
+          "text": "Sugar baking"
+        },
+        {
+          "lineNumber": 309,
+          "text": "(heavenly upgrade)\t\"Stevia Caelestis\" purchased\t 200 million\tEach unspent sugar lump (up to 100) gives +1% CpS."
+        },
+        {
+          "lineNumber": 310,
+          "text": "Note : this means that spending sugar lumps will decrease your CpS until they grow back."
+        },
+        {
+          "lineNumber": 311,
+          "text": "\"To bake with the sugary essence of eons themselves, you must first learn to take your sweet time\"\t449"
+        },
+        {
+          "lineNumber": 314,
+          "text": "Diabetica Daemonicus"
+        },
+        {
+          "lineNumber": 315,
+          "text": "(heavenly upgrade)\t\"Stevia Caelestis\" and \"Lucifer\" purchased\t 300 million\tSugar lumps mature an hour sooner."
+        },
+        {
+          "lineNumber": 316,
+          "text": "\"A malevolent, if delicious herb that is said to grow on the cliffs of the darkest abyss of the underworld.\"\t409"
+        },
+        {
+          "lineNumber": 319,
+          "text": "Sugar craving"
+        },
+        {
+          "lineNumber": 320,
+          "text": "(heavenly upgrade)\t\"Sugar baking\" purchased\t 400 million\tOnce an ascension, you may use the \"Sugar frenzy\" switch to triple your CpS for 1 hour, at the cost of 1 sugar lump."
+        },
+        {
+          "lineNumber": 321,
+          "text": "\"Just a little kick to sweeten the deal.\"\t450"
+        },
+        {
+          "lineNumber": 324,
+          "text": "Sugar aging process"
+        },
+        {
+          "lineNumber": 325,
+          "text": "(heavenly upgrade)\t\"Sugar craving\" and \"Diabetica Daemonicus\" purchased\t 600 million\tEach grandma (up to 600) makes sugar lumps ripen 6 seconds sooner."
+        },
+        {
+          "lineNumber": 326,
+          "text": "\"Aren't they just the sweetest?\"\t451"
+        },
+        {
+          "lineNumber": 329,
+          "text": "Sucralosia Inutilis"
+        },
+        {
+          "lineNumber": 330,
+          "text": "(heavenly upgrade)\t\"Diabetica Daemonicus\" purchased\t 1 billion\tBifurcated sugar lumps appear 5% more often and are 5% more likely to drop 2 lumps."
+        },
+        {
+          "lineNumber": 331,
+          "text": "\"A rare berry of uninteresting flavor that is as elusive as its uses are limited; only sought-after by the most avid collectors with too much wealth on their hands.\"\t410"
+        },
+        {
+          "lineNumber": 332,
+          "text": "↑ Once this upgrade is unlocked, all future ascensions will have it immediately available for purchase from the store."
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "lineNumber": 333,
+      "lines": [
+        {
+          "lineNumber": 335,
+          "text": "The lump's changed appearance."
+        },
+        {
+          "lineNumber": 337,
+          "text": "By changing the time on one's computer forward, the player can harvest all the sugar lumps in those time differences. However, setting it back to the normal time or backwards will make the next sugar lump to grow extremely slowly as the time to mature and ripen does not change. When this happens, the game will say that the sugar lump has been exposed to time travel shenanigans and will take as long as how far back the player has set in time plus the remaining time to for the current one to mature or ripen. This also changes the sugar lump's appearance to an icon of Orteil's head (also used in the God Complex shadow achievement), indicating the player has messed with the system clock. This may be fixed on the web version of Cookie Clicker by inputting Game.lumpt=Date.now() into the browser's debug console (changing the date back and reloading the game also works)."
+        },
+        {
+          "lineNumber": 338,
+          "text": "The Grandmas' ages increase by 1 year per level they are upgraded."
+        }
+      ]
+    },
+    {
+      "heading": "References",
+      "lineNumber": 339,
+      "lines": [
+        {
+          "lineNumber": 340,
+          "text": "The achievement \"Maillard reaction\" is named after the chemical reaction that causes sugar to caramelize."
+        },
+        {
+          "lineNumber": 341,
+          "text": "The achievement \"Sugar sugar\" may be a reference to the song \"Sugar, Sugar\"."
+        },
+        {
+          "lineNumber": 342,
+          "text": "It may also may also be a reference to the browser game \"Sugar, Sugar\"."
+        },
+        {
+          "lineNumber": 343,
+          "text": "The heavenly upgrade \"Stevia Caelestis\" is a reference to stevia, a sugar substitute roughly 30 times as sweet as sugar."
+        },
+        {
+          "lineNumber": 344,
+          "text": "The heavenly upgrade \"Diabetica Daemonicus\" is a reference to diabetes, a medical condition characterized by abnormally high blood sugar levels."
+        },
+        {
+          "lineNumber": 345,
+          "text": "The heavenly upgrade \"Sucralosia Inutilis\" is a reference to sucralose, a sugar substitute roughly 600 times as sweet as sugar."
+        },
+        {
+          "lineNumber": 346,
+          "text": "This box: view • talk • edit"
+        },
+        {
+          "lineNumber": 347,
+          "text": "Cookie Clicker game mechanics"
+        },
+        {
+          "lineNumber": 348,
+          "text": "Cookies\tCookie Clicker • Clicking • Buildings"
+        },
+        {
+          "lineNumber": 349,
+          "text": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+        },
+        {
+          "lineNumber": 350,
+          "text": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+        },
+        {
+          "lineNumber": 351,
+          "text": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+        },
+        {
+          "lineNumber": 352,
+          "text": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+        },
+        {
+          "lineNumber": 353,
+          "text": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+        },
+        {
+          "lineNumber": 354,
+          "text": "Further reading\tGameplay"
+        },
+        {
+          "lineNumber": 355,
+          "text": "Categories"
+        }
+      ]
+    }
+  ],
+  "tabularRows": [
+    {
+      "lineNumber": 138,
+      "cells": [
+        "1",
+        "Lump Types"
+      ],
+      "raw": "1\tLump Types"
+    },
+    {
+      "lineNumber": 139,
+      "cells": [
+        "1.1",
+        "Type Selection"
+      ],
+      "raw": "1.1\tType Selection"
+    },
+    {
+      "lineNumber": 140,
+      "cells": [
+        "2",
+        "Growth Stages"
+      ],
+      "raw": "2\tGrowth Stages"
+    },
+    {
+      "lineNumber": 141,
+      "cells": [
+        "2.1",
+        "Growth and Maturation Times"
+      ],
+      "raw": "2.1\tGrowth and Maturation Times"
+    },
+    {
+      "lineNumber": 142,
+      "cells": [
+        "3",
+        "Strategy"
+      ],
+      "raw": "3\tStrategy"
+    },
+    {
+      "lineNumber": 143,
+      "cells": [
+        "4",
+        "Spending guide"
+      ],
+      "raw": "4\tSpending guide"
+    },
+    {
+      "lineNumber": 144,
+      "cells": [
+        "5",
+        "Building Level"
+      ],
+      "raw": "5\tBuilding Level"
+    },
+    {
+      "lineNumber": 145,
+      "cells": [
+        "6",
+        "Achievements"
+      ],
+      "raw": "6\tAchievements"
+    },
+    {
+      "lineNumber": 146,
+      "cells": [
+        "7",
+        "Sugar Lump Upgrades"
+      ],
+      "raw": "7\tSugar Lump Upgrades"
+    },
+    {
+      "lineNumber": 147,
+      "cells": [
+        "8",
+        "Trivia"
+      ],
+      "raw": "8\tTrivia"
+    },
+    {
+      "lineNumber": 148,
+      "cells": [
+        "8.1",
+        "References"
+      ],
+      "raw": "8.1\tReferences"
+    },
+    {
+      "lineNumber": 160,
+      "cells": [
+        "Icon",
+        "Name",
+        "Lumps Harvested",
+        "Secondary effects",
+        "ID"
+      ],
+      "raw": "Icon\tName\tLumps Harvested\tSecondary effects\tID"
+    },
+    {
+      "lineNumber": 161,
+      "cells": [
+        "",
+        "Normal sugar lump",
+        "1",
+        "None",
+        "0"
+      ],
+      "raw": "Normal sugar lump\t1\tNone\t0"
+    },
+    {
+      "lineNumber": 162,
+      "cells": [
+        "",
+        "Bifurcated sugar lump",
+        "50/50 chance of 1-2"
+      ],
+      "raw": "Bifurcated sugar lump\t50/50 chance of 1-2"
+    },
+    {
+      "lineNumber": 165,
+      "cells": [
+        "52.5% chance of 2",
+        "None",
+        "1"
+      ],
+      "raw": "52.5% chance of 2\tNone\t1"
+    },
+    {
+      "lineNumber": 166,
+      "cells": [
+        "",
+        "Golden sugar lump",
+        "Equal chance of 2-7"
+      ],
+      "raw": "Golden sugar lump\tEqual chance of 2-7"
+    },
+    {
+      "lineNumber": 170,
+      "cells": [
+        "",
+        "Meaty sugar lump",
+        "40% chance of 0"
+      ],
+      "raw": "Meaty sugar lump\t40% chance of 0"
+    },
+    {
+      "lineNumber": 172,
+      "cells": [
+        "40% chance of 2",
+        "None",
+        "3"
+      ],
+      "raw": "40% chance of 2\tNone\t3"
+    },
+    {
+      "lineNumber": 173,
+      "cells": [
+        "",
+        "Caramelized sugar lump",
+        "Equal chance of 1-3",
+        "Refills sugar lump cooldowns",
+        "4"
+      ],
+      "raw": "Caramelized sugar lump\tEqual chance of 1-3\tRefills sugar lump cooldowns\t4"
+    },
+    {
+      "lineNumber": 187,
+      "cells": [
+        "Grandmapocalypse",
+        "Normal",
+        "Bifurcated",
+        "Golden",
+        "Meaty",
+        "Caramelized"
+      ],
+      "raw": "Grandmapocalypse\tNormal\tBifurcated\tGolden\tMeaty\tCaramelized"
+    },
+    {
+      "lineNumber": 188,
+      "cells": [
+        "Appeased",
+        "93.9285%",
+        "4.9617%",
+        "0.1441%",
+        "0%",
+        "0.9657%"
+      ],
+      "raw": "Appeased\t93.9285%\t4.9617%\t0.1441%\t0%\t0.9657%"
+    },
+    {
+      "lineNumber": 189,
+      "cells": [
+        "Awoken",
+        "89.3327%",
+        "4.7970%",
+        "0.1393%",
+        "4.7970%",
+        "0.9341%"
+      ],
+      "raw": "Awoken\t89.3327%\t4.7970%\t0.1393%\t4.7970%\t0.9341%"
+    },
+    {
+      "lineNumber": 190,
+      "cells": [
+        "Displeased",
+        "84.7368%",
+        "4.6322%",
+        "0.1346%",
+        "9.5939%",
+        "0.9025%"
+      ],
+      "raw": "Displeased\t84.7368%\t4.6322%\t0.1346%\t9.5939%\t0.9025%"
+    },
+    {
+      "lineNumber": 191,
+      "cells": [
+        "Angered",
+        "80.1410%",
+        "4.4674%",
+        "0.1299%",
+        "14.3909%",
+        "0.8708%"
+      ],
+      "raw": "Angered\t80.1410%\t4.4674%\t0.1299%\t14.3909%\t0.8708%"
+    },
+    {
+      "lineNumber": 199,
+      "cells": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "raw": "1\t2\t3\t4\t5\t6\t7"
+    },
+    {
+      "lineNumber": 202,
+      "cells": [
+        "Type",
+        "Stage 5",
+        "Stage 6",
+        "Stage 7"
+      ],
+      "raw": "Type\tStage 5\tStage 6\tStage 7"
+    },
+    {
+      "lineNumber": 215,
+      "cells": [
+        "Modifier",
+        "Resulting Effect"
+      ],
+      "raw": "Modifier\tResulting Effect"
+    },
+    {
+      "lineNumber": 216,
+      "cells": [
+        "Stevia Caelestis",
+        "Ripening time is 1 hour faster"
+      ],
+      "raw": "Stevia Caelestis\tRipening time is 1 hour faster"
+    },
+    {
+      "lineNumber": 217,
+      "cells": [
+        "Diabetica Daemonicus",
+        "Maturing time is 1 hour faster"
+      ],
+      "raw": "Diabetica Daemonicus\tMaturing time is 1 hour faster"
+    },
+    {
+      "lineNumber": 218,
+      "cells": [
+        "Sugar Aging Process",
+        "Ripening time is 6 seconds faster"
+      ],
+      "raw": "Sugar Aging Process\tRipening time is 6 seconds faster"
+    },
+    {
+      "lineNumber": 221,
+      "cells": [
+        "/ Dragon's Curve / Both",
+        "Maturing time is 0.5% / 5% / 5.5% faster"
+      ],
+      "raw": "/ Dragon's Curve / Both\tMaturing time is 0.5% / 5% / 5.5% faster"
+    },
+    {
+      "lineNumber": 223,
+      "cells": [
+        "Rigidel: Diamond / Ruby / Jade",
+        "Ripening time is 60 / 40 / 20 minutes faster"
+      ],
+      "raw": "Rigidel: Diamond / Ruby / Jade\tRipening time is 60 / 40 / 20 minutes faster"
+    },
+    {
+      "lineNumber": 224,
+      "cells": [
+        "Ichor syrup garden upgrade",
+        "Maturing time is 7 minutes faster"
+      ],
+      "raw": "Ichor syrup garden upgrade\tMaturing time is 7 minutes faster"
+    },
+    {
+      "lineNumber": 257,
+      "cells": [
+        "Building",
+        "Flavor Text (ends with \"granting +X% [Building] CpS.\")"
+      ],
+      "raw": "Building\tFlavor Text (ends with \"granting +X% [Building] CpS.\")"
+    },
+    {
+      "lineNumber": 258,
+      "cells": [
+        "Cursor",
+        "X extra finger(s)"
+      ],
+      "raw": "Cursor\tX extra finger(s)"
+    },
+    {
+      "lineNumber": 259,
+      "cells": [
+        "Grandma",
+        "Grandmas are X year(s) older"
+      ],
+      "raw": "Grandma\tGrandmas are X year(s) older"
+    },
+    {
+      "lineNumber": 260,
+      "cells": [
+        "Farm",
+        "X more acre(s)"
+      ],
+      "raw": "Farm\tX more acre(s)"
+    },
+    {
+      "lineNumber": 261,
+      "cells": [
+        "Mine",
+        "X mile(s) deeper"
+      ],
+      "raw": "Mine\tX mile(s) deeper"
+    },
+    {
+      "lineNumber": 262,
+      "cells": [
+        "Factory",
+        "X additional patent(s)"
+      ],
+      "raw": "Factory\tX additional patent(s)"
+    },
+    {
+      "lineNumber": 263,
+      "cells": [
+        "Bank",
+        "Interest rates X% better"
+      ],
+      "raw": "Bank\tInterest rates X% better"
+    },
+    {
+      "lineNumber": 264,
+      "cells": [
+        "Temple",
+        "X sacred artifact(s) retrieved"
+      ],
+      "raw": "Temple\tX sacred artifact(s) retrieved"
+    },
+    {
+      "lineNumber": 265,
+      "cells": [
+        "Wizard Tower",
+        "Incantations have X more syllable(s)"
+      ],
+      "raw": "Wizard Tower\tIncantations have X more syllable(s)"
+    },
+    {
+      "lineNumber": 266,
+      "cells": [
+        "Shipment",
+        "X galaxy(galaxies) fully explored"
+      ],
+      "raw": "Shipment\tX galaxy(galaxies) fully explored"
+    },
+    {
+      "lineNumber": 267,
+      "cells": [
+        "Alchemy Lab",
+        "X primordial element(s) mastered"
+      ],
+      "raw": "Alchemy Lab\tX primordial element(s) mastered"
+    },
+    {
+      "lineNumber": 268,
+      "cells": [
+        "Portal",
+        "X dimension(s) enslaved"
+      ],
+      "raw": "Portal\tX dimension(s) enslaved"
+    },
+    {
+      "lineNumber": 269,
+      "cells": [
+        "Time Machine",
+        "X century(centuries) secured"
+      ],
+      "raw": "Time Machine\tX century(centuries) secured"
+    },
+    {
+      "lineNumber": 270,
+      "cells": [
+        "Antimatter Condenser",
+        "X extra quark flavor(s)"
+      ],
+      "raw": "Antimatter Condenser\tX extra quark flavor(s)"
+    },
+    {
+      "lineNumber": 271,
+      "cells": [
+        "Prism",
+        "X new color(s) discovered"
+      ],
+      "raw": "Prism\tX new color(s) discovered"
+    },
+    {
+      "lineNumber": 272,
+      "cells": [
+        "Chancemaker",
+        "Chancemakers are powered by X-leaf clovers"
+      ],
+      "raw": "Chancemaker\tChancemakers are powered by X-leaf clovers"
+    },
+    {
+      "lineNumber": 273,
+      "cells": [
+        "Fractal Engine",
+        "X iteration(s) deep"
+      ],
+      "raw": "Fractal Engine\tX iteration(s) deep"
+    },
+    {
+      "lineNumber": 274,
+      "cells": [
+        "Javascript Console",
+        "Equipped with X external library(libraries)"
+      ],
+      "raw": "Javascript Console\tEquipped with X external library(libraries)"
+    },
+    {
+      "lineNumber": 275,
+      "cells": [
+        "Idleverse",
+        "X manifold(s)"
+      ],
+      "raw": "Idleverse\tX manifold(s)"
+    },
+    {
+      "lineNumber": 276,
+      "cells": [
+        "Cortex Baker",
+        "X extra IQ point(s)"
+      ],
+      "raw": "Cortex Baker\tX extra IQ point(s)"
+    },
+    {
+      "lineNumber": 277,
+      "cells": [
+        "You",
+        "X optimized gene(s)"
+      ],
+      "raw": "You\tX optimized gene(s)"
+    },
+    {
+      "lineNumber": 279,
+      "cells": [
+        "Icon",
+        "Name",
+        "Description",
+        "ID"
+      ],
+      "raw": "Icon\tName\tDescription\tID"
+    },
+    {
+      "lineNumber": 280,
+      "cells": [
+        "",
+        "Dude, sweet",
+        "Harvest 7 coalescing sugar lumps.",
+        "266"
+      ],
+      "raw": "Dude, sweet\tHarvest 7 coalescing sugar lumps.\t266"
+    },
+    {
+      "lineNumber": 281,
+      "cells": [
+        "",
+        "Sugar rush",
+        "Harvest 30 coalescing sugar lumps.",
+        "267"
+      ],
+      "raw": "Sugar rush\tHarvest 30 coalescing sugar lumps.\t267"
+    },
+    {
+      "lineNumber": 282,
+      "cells": [
+        "",
+        "Year's worth of cavities",
+        "Harvest 365 coalescing sugar lumps."
+      ],
+      "raw": "Year's worth of cavities\tHarvest 365 coalescing sugar lumps."
+    },
+    {
+      "lineNumber": 283,
+      "cells": [
+        "\"My lumps my lumps my lumps.\"",
+        "268"
+      ],
+      "raw": "\"My lumps my lumps my lumps.\"\t268"
+    },
+    {
+      "lineNumber": 284,
+      "cells": [
+        "",
+        "Hand-picked",
+        "Successfully harvest a coalescing sugar lump before it's ripe.",
+        "269"
+      ],
+      "raw": "Hand-picked\tSuccessfully harvest a coalescing sugar lump before it's ripe.\t269"
+    },
+    {
+      "lineNumber": 285,
+      "cells": [
+        "",
+        "Sugar sugar",
+        "Harvest a bifurcated sugar lump.",
+        "270"
+      ],
+      "raw": "Sugar sugar\tHarvest a bifurcated sugar lump.\t270"
+    },
+    {
+      "lineNumber": 286,
+      "cells": [
+        "",
+        "Sweetmeats",
+        "Harvest a meaty sugar lump.",
+        "272"
+      ],
+      "raw": "Sweetmeats\tHarvest a meaty sugar lump.\t272"
+    },
+    {
+      "lineNumber": 287,
+      "cells": [
+        "",
+        "Maillard reaction",
+        "Harvest a caramelized sugar lump.",
+        "396"
+      ],
+      "raw": "Maillard reaction\tHarvest a caramelized sugar lump.\t396"
+    },
+    {
+      "lineNumber": 289,
+      "cells": [
+        "(shadow achievement)",
+        "Harvest a Golden Sugar Lump.",
+        "271"
+      ],
+      "raw": "(shadow achievement)\tHarvest a Golden Sugar Lump.\t271"
+    },
+    {
+      "lineNumber": 292,
+      "cells": [
+        "",
+        "Icon",
+        "Name",
+        "Unlock condition",
+        "Base price",
+        "Description",
+        "ID"
+      ],
+      "raw": "Icon\tName\tUnlock condition\tBase price\tDescription\tID"
+    },
+    {
+      "lineNumber": 295,
+      "cells": [
+        "",
+        "",
+        "Ichor syrup",
+        "0.5% chance of dropping after harvesting a mature ichorpuff [note 1]",
+        "7,200 x CpS",
+        "You gain another +7% of your regular CpS while the game is closed."
+      ],
+      "raw": "Ichor syrup\t0.5% chance of dropping after harvesting a mature ichorpuff [note 1]\t 7,200 x CpS\tYou gain another +7% of your regular CpS while the game is closed."
+    },
+    {
+      "lineNumber": 300,
+      "cells": [
+        "\"Tastes like candy. The smell is another story.\"",
+        "475"
+      ],
+      "raw": "\"Tastes like candy. The smell is another story.\"\t475"
+    },
+    {
+      "lineNumber": 304,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Wrinkly Cookies\" purchased",
+        "100 million",
+        "Sugar lumps ripen an hour sooner."
+      ],
+      "raw": "(heavenly upgrade)\t\"Wrinkly Cookies\" purchased\t 100 million\tSugar lumps ripen an hour sooner."
+    },
+    {
+      "lineNumber": 305,
+      "cells": [
+        "\"A plant of supernatural sweetness grown by angels in heavenly gardens.\"",
+        "408"
+      ],
+      "raw": "\"A plant of supernatural sweetness grown by angels in heavenly gardens.\"\t408"
+    },
+    {
+      "lineNumber": 309,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Stevia Caelestis\" purchased",
+        "200 million",
+        "Each unspent sugar lump (up to 100) gives +1% CpS."
+      ],
+      "raw": "(heavenly upgrade)\t\"Stevia Caelestis\" purchased\t 200 million\tEach unspent sugar lump (up to 100) gives +1% CpS."
+    },
+    {
+      "lineNumber": 311,
+      "cells": [
+        "\"To bake with the sugary essence of eons themselves, you must first learn to take your sweet time\"",
+        "449"
+      ],
+      "raw": "\"To bake with the sugary essence of eons themselves, you must first learn to take your sweet time\"\t449"
+    },
+    {
+      "lineNumber": 315,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Stevia Caelestis\" and \"Lucifer\" purchased",
+        "300 million",
+        "Sugar lumps mature an hour sooner."
+      ],
+      "raw": "(heavenly upgrade)\t\"Stevia Caelestis\" and \"Lucifer\" purchased\t 300 million\tSugar lumps mature an hour sooner."
+    },
+    {
+      "lineNumber": 316,
+      "cells": [
+        "\"A malevolent, if delicious herb that is said to grow on the cliffs of the darkest abyss of the underworld.\"",
+        "409"
+      ],
+      "raw": "\"A malevolent, if delicious herb that is said to grow on the cliffs of the darkest abyss of the underworld.\"\t409"
+    },
+    {
+      "lineNumber": 320,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Sugar baking\" purchased",
+        "400 million",
+        "Once an ascension, you may use the \"Sugar frenzy\" switch to triple your CpS for 1 hour, at the cost of 1 sugar lump."
+      ],
+      "raw": "(heavenly upgrade)\t\"Sugar baking\" purchased\t 400 million\tOnce an ascension, you may use the \"Sugar frenzy\" switch to triple your CpS for 1 hour, at the cost of 1 sugar lump."
+    },
+    {
+      "lineNumber": 321,
+      "cells": [
+        "\"Just a little kick to sweeten the deal.\"",
+        "450"
+      ],
+      "raw": "\"Just a little kick to sweeten the deal.\"\t450"
+    },
+    {
+      "lineNumber": 325,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Sugar craving\" and \"Diabetica Daemonicus\" purchased",
+        "600 million",
+        "Each grandma (up to 600) makes sugar lumps ripen 6 seconds sooner."
+      ],
+      "raw": "(heavenly upgrade)\t\"Sugar craving\" and \"Diabetica Daemonicus\" purchased\t 600 million\tEach grandma (up to 600) makes sugar lumps ripen 6 seconds sooner."
+    },
+    {
+      "lineNumber": 326,
+      "cells": [
+        "\"Aren't they just the sweetest?\"",
+        "451"
+      ],
+      "raw": "\"Aren't they just the sweetest?\"\t451"
+    },
+    {
+      "lineNumber": 330,
+      "cells": [
+        "(heavenly upgrade)",
+        "\"Diabetica Daemonicus\" purchased",
+        "1 billion",
+        "Bifurcated sugar lumps appear 5% more often and are 5% more likely to drop 2 lumps."
+      ],
+      "raw": "(heavenly upgrade)\t\"Diabetica Daemonicus\" purchased\t 1 billion\tBifurcated sugar lumps appear 5% more often and are 5% more likely to drop 2 lumps."
+    },
+    {
+      "lineNumber": 331,
+      "cells": [
+        "\"A rare berry of uninteresting flavor that is as elusive as its uses are limited; only sought-after by the most avid collectors with too much wealth on their hands.\"",
+        "410"
+      ],
+      "raw": "\"A rare berry of uninteresting flavor that is as elusive as its uses are limited; only sought-after by the most avid collectors with too much wealth on their hands.\"\t410"
+    },
+    {
+      "lineNumber": 348,
+      "cells": [
+        "Cookies",
+        "Cookie Clicker • Clicking • Buildings"
+      ],
+      "raw": "Cookies\tCookie Clicker • Clicking • Buildings"
+    },
+    {
+      "lineNumber": 349,
+      "cells": [
+        "General",
+        "Achievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+      ],
+      "raw": "General\tAchievements • Golden Cookies • Milk • Sugar Lumps • News Ticker • Options • Cheating • Cookies per Second (CpS) • Cookies per Click (CpC)"
+    },
+    {
+      "lineNumber": 350,
+      "cells": [
+        "Upgrades",
+        "Overview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+      ],
+      "raw": "Upgrades\tOverview • Multipliers (Flavored Cookies • Kittens) • Research: (Grandmapocalypse • Wrath Cookies • Wrinklers • Shiny wrinklers)"
+    },
+    {
+      "lineNumber": 351,
+      "cells": [
+        "Ascension",
+        "Ascension • Heavenly Chips • Challenge Mode • Krumblor"
+      ],
+      "raw": "Ascension\tAscension • Heavenly Chips • Challenge Mode • Krumblor"
+    },
+    {
+      "lineNumber": 352,
+      "cells": [
+        "Seasons",
+        "Overview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+      ],
+      "raw": "Seasons\tOverview • Valentine's Day • Business Day • Easter • Halloween • Christmas"
+    },
+    {
+      "lineNumber": 353,
+      "cells": [
+        "Minigames",
+        "Overview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+      ],
+      "raw": "Minigames\tOverview • Garden • Stock Market • Pantheon • Grimoire • Dungeons (Beta)"
+    },
+    {
+      "lineNumber": 354,
+      "cells": [
+        "Further reading",
+        "Gameplay"
+      ],
+      "raw": "Further reading\tGameplay"
+    }
+  ]
+}
