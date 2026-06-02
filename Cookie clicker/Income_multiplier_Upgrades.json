@@ -1,0 +1,548 @@
+{
+  "Farmer grandmas": {
+    "Name": "Farmer grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 55000,
+    "description": "Grandmas are twice as efficient. Farms gain +1% CpS per 1 grandma.A nice farmer to grow more cookies."
+  },
+  "Miner grandmas": {
+    "Name": "Miner grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 600000,
+    "description": "Grandmas are twice as efficient. Mines gain +1% CpS per 2 grandmas.A nice miner to dig more cookies."
+  },
+  "Worker grandmas": {
+    "Name": "Worker grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 6500000,
+    "description": "Grandmas are twice as efficient. Factories gain +1% CpS per 3 grandmas.A nice worker to manufacture more cookies."
+  },
+  "Cosmic grandmas": {
+    "Name": "Cosmic grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 255000000000,
+    "description": "Grandmas are twice as efficient. Shipments gain +1% CpS per 7 grandmas.A nice thing to... uh... cookies."
+  },
+  "Transmuted grandmas": {
+    "Name": "Transmuted grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 3750000000000,
+    "description": "Grandmas are twice as efficient. Alchemy labs gain +1% CpS per 8 grandmas.A nice golden grandma to convert into more cookies."
+  },
+  "Altered grandmas": {
+    "Name": "Altered grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 50000000000000,
+    "description": "Grandmas are twice as efficient. Portals gain +1% CpS per 9 grandmas.a NiCe GrAnDmA tO bA##########"
+  },
+  "Grandmas' grandmas": {
+    "Name": "Grandmas' grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 700000000000000,
+    "description": "Grandmas are twice as efficient. Time machines gain +1% CpS per 10 grandmas.A nice grandma's nice grandma to bake double the cookies."
+  },
+  "Plastic mouse": {
+    "Name": "Plastic mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 50000,
+    "description": "Clicking gains +1% of your CpS.Slightly squeaky."
+  },
+  "Iron mouse": {
+    "Name": "Iron mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5000000,
+    "description": "Clicking gains +1% of your CpS.Click like it's 1349!"
+  },
+  "Titanium mouse": {
+    "Name": "Titanium mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 500000000,
+    "description": "Clicking gains +1% of your CpS.Heavy, but powerful."
+  },
+  "Adamantium mouse": {
+    "Name": "Adamantium mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 50000000000,
+    "description": "Clicking gains +1% of your CpS.You could cut diamond with these."
+  },
+  "Elder Covenant": {
+    "Name": "Elder Covenant",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 66666666666666,
+    "description": "Puts a permanent end to the elders' wrath, at the cost of 5% of your CpS.This is a complicated ritual involving silly, inconsequential trivialities such as cursed laxatives, century-old cacao, and an infant.Don't question it."
+  },
+  "Revoke Elder Covenant": {
+    "Name": "Revoke Elder Covenant",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 6666666666,
+    "description": "You will get 5% of your CpS back, but the grandmatriarchs will return.weriseagain"
+  },
+  "Antigrandmas": {
+    "Name": "Antigrandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 8500000000000000,
+    "description": "Grandmas are twice as efficient. Antimatter condensers gain +1% CpS per 11 grandmas.A mean antigrandma to vomit more cookies."
+  },
+  "Unobtainium mouse": {
+    "Name": "Unobtainium mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5000000000000,
+    "description": "Clicking gains +1% of your CpS.These nice mice should suffice."
+  },
+  "Rainbow grandmas": {
+    "Name": "Rainbow grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 105000000000000000,
+    "description": "Grandmas are twice as efficient. Prisms gain +1% CpS per 12 grandmas.A luminous grandma to sparkle into cookies."
+  },
+  "Festive biscuit": {
+    "Name": "Festive biscuit",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000000,
+    "description": "Triggers Christmas season for the next 24 hours.Triggering another season will cancel this one.Cost scales with unbuffed CpS and increases with every season switch.'Twas the night before Christmas- or was it?"
+  },
+  "Ghostly biscuit": {
+    "Name": "Ghostly biscuit",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000000,
+    "description": "Triggers Halloween season for the next 24 hours.Triggering another season will cancel this one.Cost scales with unbuffed CpS and increases with every season switch.spooky scary skeletonswill wake you with a boo"
+  },
+  "Lovesick biscuit": {
+    "Name": "Lovesick biscuit",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000000,
+    "description": "Triggers Valentine's day season for the next 24 hours.Triggering another season will cancel this one.Cost scales with unbuffed CpS and increases with every season switch.Romance never goes out of fashion."
+  },
+  "Fool's biscuit": {
+    "Name": "Fool's biscuit",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000000,
+    "description": "Triggers Business day season for the next 24 hours.Triggering another season will cancel this one.Cost scales with unbuffed CpS and increases with every season switch.Business. Serious business. This is absolutely all of your business."
+  },
+  "Eludium mouse": {
+    "Name": "Eludium mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 500000000000000,
+    "description": "Clicking gains +1% of your CpS.I rodent do that if I were you."
+  },
+  "Wishalloy mouse": {
+    "Name": "Wishalloy mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 50000000000000000,
+    "description": "Clicking gains +1% of your CpS.Clicking is fine and dandy, but don't smash your mouse over it. Get your game on. Go play."
+  },
+  "Bunny biscuit": {
+    "Name": "Bunny biscuit",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000000,
+    "description": "Triggers Easter season for the next 24 hours.Triggering another season will cancel this one.Cost scales with unbuffed CpS and increases with every season switch.All the world will be your enemyand when they catch you,they will kill you...but first they must catch you."
+  },
+  "Century egg": {
+    "Name": "Century egg",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 99999999999999,
+    "description": "You continually gain more CpS the longer you've played in the current ascension.Cost scales with how many eggs you own.Actually not centuries-old. This one isn't a day over 86!"
+  },
+  "\"egg\"": {
+    "Name": "\"egg\"",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 99999999999999,
+    "description": "+9 CpShey it's \"egg\""
+  },
+  "Banker grandmas": {
+    "Name": "Banker grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 70000000,
+    "description": "Grandmas are twice as efficient. Banks gain +1% CpS per 4 grandmas.A nice banker to cash in more cookies."
+  },
+  "Priestess grandmas": {
+    "Name": "Priestess grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000000,
+    "description": "Grandmas are twice as efficient. Temples gain +1% CpS per 5 grandmas.A nice priestess to praise the one true Baker in the sky."
+  },
+  "Witch grandmas": {
+    "Name": "Witch grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 16500000000,
+    "description": "Grandmas are twice as efficient. Wizard towers gain +1% CpS per 6 grandmas.A nice witch to cast a zip, and a zoop, and poof! Cookies."
+  },
+  "Golden switch [off]": {
+    "Name": "Golden switch [off]",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000,
+    "description": "Turning this on will give you a passive +50% CpS, but prevents golden cookies from spawning.Cost is equal to 1 hour of production."
+  },
+  "Golden switch [on]": {
+    "Name": "Golden switch [on]",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1000000,
+    "description": "The switch is currently giving you a passive +50% CpS; it also prevents golden cookies from spawning.Turning it off will revert those effects.Cost is equal to 1 hour of production."
+  },
+  "Fantasteel mouse": {
+    "Name": "Fantasteel mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5000000000000000000,
+    "description": "Clicking gains +1% of your CpS.You could be clicking using your touchpad and we'd be none the wiser."
+  },
+  "Nevercrack mouse": {
+    "Name": "Nevercrack mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 500000000000000000000,
+    "description": "Clicking gains +1% of your CpS.How much beefier can you make a mouse until it's considered a rat?"
+  },
+  "Future almanacs": {
+    "Name": "Future almanacs",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 2800000002200000000,
+    "description": "Farms gain +5% CpS per time machine.Time machines gain +0.1% CpS per farm.Lets you predict optimal planting times. It's crazy what time travel can do!"
+  },
+  "Rain prayer": {
+    "Name": "Rain prayer",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 4002200000000000000,
+    "description": "Farms gain +5% CpS per temple.Temples gain +0.1% CpS per farm.A deeply spiritual ceremonial involving complicated dance moves and high-tech cloud-busting lasers."
+  },
+  "Seismic magic": {
+    "Name": "Seismic magic",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 66024000000000,
+    "description": "Mines gain +5% CpS per wizard tower.Wizard towers gain +0.1% CpS per mine.Surprise earthquakes are an old favorite of wizardly frat houses."
+  },
+  "Asteroid mining": {
+    "Name": "Asteroid mining",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1.020024e+21,
+    "description": "Mines gain +5% CpS per shipment.Shipments gain +0.1% CpS per mine.As per the 1974 United Cosmic Convention, comets, moons, and inhabited planetoids are no longer legally excavatable.But hey, a space bribe goes a long way."
+  },
+  "Quantum electronics": {
+    "Name": "Quantum electronics",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 34000000260000000000,
+    "description": "Factories gain +5% CpS per antimatter condenser.Antimatter condensers gain +0.1% CpS per factory.Your machines won't even be sure if they're on or off!"
+  },
+  "Temporal overclocking": {
+    "Name": "Temporal overclocking",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 2.80000026e+24,
+    "description": "Factories gain +5% CpS per time machine.Time machines gain +0.1% CpS per factory.Introduce more quickitude in your system for increased speedation of fastness."
+  },
+  "Contracts from beyond": {
+    "Name": "Contracts from beyond",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 200002800000000000,
+    "description": "Banks gain +5% CpS per portal.Portals gain +0.1% CpS per bank.Make sure to read the fine print!"
+  },
+  "Printing presses": {
+    "Name": "Printing presses",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 540000000000000000,
+    "description": "Factories gain +5% CpS per bank.Banks gain +0.1% CpS per factory.Fake bills so real, they're almost worth the ink they're printed with."
+  },
+  "Paganism": {
+    "Name": "Paganism",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 200040000000000000,
+    "description": "Temples gain +5% CpS per portal.Portals gain +0.1% CpS per temple.Some deities are better left unworshipped."
+  },
+  "God particle": {
+    "Name": "God particle",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 3.400004e+25,
+    "description": "Temples gain +5% CpS per antimatter condenser.Antimatter condensers gain +0.1% CpS per temple.Turns out God is much tinier than we thought, I guess."
+  },
+  "Arcane knowledge": {
+    "Name": "Arcane knowledge",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 15660000000000000,
+    "description": "Wizard towers gain +5% CpS per alchemy lab.Alchemy labs gain +0.1% CpS per wizard tower.Some things were never meant to be known - only mildly speculated."
+  },
+  "Magical botany": {
+    "Name": "Magical botany",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 66002200000000000000,
+    "description": "Farms gain +5% CpS per wizard tower.Wizard towers gain +0.1% CpS per farm.Already known in some reactionary newspapers as \"the wizard's GMOs\"."
+  },
+  "Fossil fuels": {
+    "Name": "Fossil fuels",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1020024000000000,
+    "description": "Mines gain +5% CpS per shipment.Shipments gain +0.1% CpS per mine.Somehow better than plutonium for powering rockets.Extracted from the fuels of ancient, fossilized civilizations."
+  },
+  "Shipyards": {
+    "Name": "Shipyards",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1.02026e+21,
+    "description": "Factories gain +5% CpS per shipment.Shipments gain +0.1% CpS per factory.Where carpentry, blind luck, and asbestos insulation unite to produce the most dazzling spaceships on the planet."
+  },
+  "Primordial ores": {
+    "Name": "Primordial ores",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 15000024000000000,
+    "description": "Mines gain +5% CpS per alchemy lab.Alchemy labs gain +0.1% CpS per mine.Only when refining the purest metals will you extract the sweetest sap of the earth."
+  },
+  "Gold fund": {
+    "Name": "Gold fund",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1.50028e+22,
+    "description": "Banks gain +5% CpS per alchemy lab.Alchemy labs gain +0.1% CpS per bank.If gold is the backbone of the economy, cookies, surely, are its hip joints."
+  },
+  "Infernal crops": {
+    "Name": "Infernal crops",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 200000002200000000,
+    "description": "Farms gain +5% CpS per portal.Portals gain +0.1% CpS per farm.Sprinkle regularly with FIRE."
+  },
+  "Abysmal glimmer": {
+    "Name": "Abysmal glimmer",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 4.22e+26,
+    "description": "Portals gain +5% CpS per prism.Prisms gain +0.1% CpS per portal.Someone, or something, is staring back at you.Perhaps at all of us."
+  },
+  "Relativistic parsec-skipping": {
+    "Name": "Relativistic parsec-skipping",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 2810200000000000000,
+    "description": "Shipments gain +5% CpS per time machine.Time machines gain +0.1% CpS per shipment.People will tell you this isn't physically possible.These are people you don't want on your ship."
+  },
+  "Primeval glow": {
+    "Name": "Primeval glow",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 4.48e+26,
+    "description": "Time machines gain +5% CpS per prism.Prisms gain +0.1% CpS per time machine.From unending times, an ancient light still shines, impossibly pure and fragile in its old age."
+  },
+  "Extra physics funding": {
+    "Name": "Extra physics funding",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 34000002800000000000,
+    "description": "Banks gain +5% CpS per antimatter condenser.Antimatter condensers gain +0.1% CpS per bank.Time to put your money where your particle colliders are."
+  },
+  "Chemical proficiency": {
+    "Name": "Chemical proficiency",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 3.415e+25,
+    "description": "Alchemy labs gain +5% CpS per antimatter condenser.Antimatter condensers gain +0.1% CpS per alchemy lab.Discover exciting new elements, such as Fleshmeltium, Inert Shampoo Byproduct #17 and Carbon++!"
+  },
+  "Light magic": {
+    "Name": "Light magic",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 420000660000000000000,
+    "description": "Wizard towers gain +5% CpS per prism.Prisms gain +0.1% CpS per wizard tower.Actually not to be taken lightly! No, I'm serious. 178 people died last year. You don't mess around with magic."
+  },
+  "Mystical energies": {
+    "Name": "Mystical energies",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 4.2000004e+26,
+    "description": "Temples gain +5% CpS per prism.Prisms gain +0.1% CpS per temple.Something beckons from within the light. It is warm, comforting, and apparently the cause for several kinds of exotic skin cancers."
+  },
+  "Lucky grandmas": {
+    "Name": "Lucky grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1300000000000000000,
+    "description": "Grandmas are twice as efficient. Chancemakers gain +1% CpS per 13 grandmas.A fortunate grandma that always seems to find more cookies."
+  },
+  "Gemmed talismans": {
+    "Name": "Gemmed talismans",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5.200000000024e+21,
+    "description": "Mines gain +5% CpS per chancemaker.Chancemakers gain +0.1% CpS per mine.Good-luck charms covered in ancient and excruciatingly rare crystals. A must have for job interviews!"
+  },
+  "Armythril mouse": {
+    "Name": "Armythril mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5e+22,
+    "description": "Clicking gains +1% of your CpS.This one takes about 53 people to push it around and another 48 to jump down on the button and trigger a click. You could say it's got some heft to it."
+  },
+  "Charm quarks": {
+    "Name": "Charm quarks",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5.54e+27,
+    "description": "Antimatter condensers gain +5% CpS per chancemaker.Chancemakers gain +0.1% CpS per antimatter condenser.They're after your lucky quarks!"
+  },
+  "Sugar frenzy": {
+    "Name": "Sugar frenzy",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 0,
+    "description": "Activating this will triple your CpS for 1 hour, at the cost of 1 sugar lump.May only be used once per ascension."
+  },
+  "Technobsidian mouse": {
+    "Name": "Technobsidian mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5e+24,
+    "description": "Clicking gains +1% of your CpS.A highly advanced mouse of a sophisticated design. Only one thing on its mind : to click."
+  },
+  "Plasmarble mouse": {
+    "Name": "Plasmarble mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5e+26,
+    "description": "Clicking gains +1% of your CpS.A shifting blur in the corner of your eye, this mouse can trigger a flurry of clicks when grazed by even the slightest breeze."
+  },
+  "Fern tea": {
+    "Name": "Fern tea",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 60,
+    "description": "You gain another +3% of your regular CpS while the game is closed. (Must own the Twin Gates of Transcendence upgrade.)Dropped by drowsyfern plants.Cost scales with CpS.A chemically complex natural beverage, this soothing concoction has been used by mathematicians to solve equations in their sleep."
+  },
+  "Ichor syrup": {
+    "Name": "Ichor syrup",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 120,
+    "description": "You gain another +7% of your regular CpS while the game is closed. (Must own the Twin Gates of Transcendence upgrade.)Sugar lumps mature 7 minutes sooner.Dropped by ichorpuff plants.Cost scales with CpS.Tastes like candy. The smell is another story."
+  },
+  "Metagrandmas": {
+    "Name": "Metagrandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 15500000000000000000,
+    "description": "Grandmas are twice as efficient. Fractal engines gain +1% CpS per 14 grandmas.A fractal grandma to make more grandmas to make more cookies."
+  },
+  "Recursive mirrors": {
+    "Name": "Recursive mirrors",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 6.62e+22,
+    "description": "Prisms gain +5% CpS per fractal engine.Fractal engines gain +0.1% CpS per prism.Do you have any idea what happens when you point two of these at each other? Apparently, the universe doesn't either."
+  },
+  "Mice clicking mice": {
+    "Name": "Mice clicking mice",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 6.200000000000003e+28,
+    "description": "Cursors gain +5% CpS per fractal engine.Fractal engines gain +0.1% CpS per cursor."
+  },
+  "Binary grandmas": {
+    "Name": "Binary grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 3.55e+21,
+    "description": "Grandmas are twice as efficient. Javascript consoles gain +1% CpS per 15 grandmas.A digital grandma to transfer more cookies.(See also : boolean grandmas, string grandmas, and not-a-number grandmas, also known as \"NaNs\".)"
+  },
+  "Script grannies": {
+    "Name": "Script grannies",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1.42e+25,
+    "description": "Grandmas gain +5% CpS per javascript console.Javascript consoles gain +0.1% CpS per grandma.Armies of energy drink-fueled grandmas ready to hack into the cyberspace for renegade e-cookies."
+  },
+  "Tombola computing": {
+    "Name": "Tombola computing",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1.4252e+31,
+    "description": "Chancemakers gain +5% CpS per javascript console.Javascript consoles gain +0.1% CpS per chancemaker."
+  },
+  "Fortune #102": {
+    "Name": "Fortune #102",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 7.777777777777778e+39,
+    "description": "You gain another +1% of your regular CpS while the game is closed. (Must own the Twin Gates of Transcendence upgrade.)Help, I'm trapped in a browser game!"
+  },
+  "Fortune #103": {
+    "Name": "Fortune #103",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 7.777777777777778e+42,
+    "description": "You gain more CpS the more milk you have.Don't believe the superstitions; all cats are good luck."
+  },
+  "Fortune #104": {
+    "Name": "Fortune #104",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 7.777777777777778e+39,
+    "description": "Clicking gains +1% of your CpS.Remember to stay in touch."
+  },
+  "Dragon scale": {
+    "Name": "Dragon scale",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 999,
+    "description": "Cookie production multiplier +3%.Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.Your dragon sheds these regularly, so this one probably won't be missed.Note: icon not to scale."
+  },
+  "Dragon claw": {
+    "Name": "Dragon claw",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 999,
+    "description": "Clicking is 3% more powerful.Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.Will grow back in a few days' time.A six-inch retractable claw, like a razor, from the middle toe. So you know, try to show a little respect."
+  },
+  "Dragon fang": {
+    "Name": "Dragon fang",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 999,
+    "description": "Golden cookies give 3% more cookies.Dragon harvest and Dragonflight are 10% stronger.Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.Just a fallen baby tooth your dragon wanted you to have, as a gift.It might be smaller than an adult tooth, but it's still frighteningly sharp - and displays some awe-inspiring cavities, which you might expect from a creature made out of sweets."
+  },
+  "Dragon teddy bear": {
+    "Name": "Dragon teddy bear",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 999,
+    "description": "Random drops are 3% more common.Cost scales with CpS, but 10 times cheaper with a fully-trained dragon.Your dragon used to sleep with this, but it's yours now.Crafted in the likeness of a fearsome beast. Stuffed with magical herbs picked long ago by a wandering wizard. Woven from elven yarn and a polyester blend."
+  },
+  "Miraculite mouse": {
+    "Name": "Miraculite mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5e+28,
+    "description": "Clicking gains +1% of your CpS.Composed of a material that neither science nor philosophy are equipped to conceptualize. And boy, does it ever click."
+  },
+  "Alternate grandmas": {
+    "Name": "Alternate grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 6e+23,
+    "description": "Grandmas are twice as efficient. Idleverses gain +1% CpS per 16 grandmas.A different grandma to bake something else."
+  },
+  "Perforated mille-feuille cosmos": {
+    "Name": "Perforated mille-feuille cosmos",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 2.400000002e+27,
+    "description": "Portals gain +5% CpS per idleverse.Idleverses gain +0.1% CpS per portal.Imagine, if you will, layers upon layers upon layers. Now picture billions of worms chewing their way through it all. This roughly, but not quite, approximates the geometry of the most basal stratum of our natural world."
+  },
+  "Infraverses and superverses": {
+    "Name": "Infraverses and superverses",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 2.4006200000000002e+33,
+    "description": "Fractal engines gain +5% CpS per idleverse.Idleverses gain +0.1% CpS per fractal engine.Universes within universes? How subversive!"
+  },
+  "Brainy grandmas": {
+    "Name": "Brainy grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 9.500000000000002e+25,
+    "description": "Grandmas are twice as efficient. Cortex bakers gain +1% CpS per 17 grandmas.A clever grandma to think up some cookies."
+  },
+  "Thoughts & prayers": {
+    "Name": "Thoughts & prayers",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 3.800000000000001e+29,
+    "description": "Temples gain +5% CpS per cortex baker.Cortex bakers gain +0.1% CpS per temple.The notion of sacredness arises in most sentient evolved brains and may benefit the development of cognition via abstract thought. This mechanism, however, is absent in designed minds such as your cortex bakers; this process attempts to add it back. Just make sure to keep them in check - you really don't want these things to develop organized religion."
+  },
+  "Fertile minds": {
+    "Name": "Fertile minds",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 3.800000000000001e+35,
+    "description": "Farms gain +5% CpS per cortex baker.Cortex bakers gain +0.1% CpS per farm.An acute intellect, artificial or not, requires plenty of vitamins. You fortuitously happen to be in charge of vast farming operations, only a few trillion acres of which need be requisitioned to grow the quantities of broccoli and kale to keep your planet-sized brains in tip-top shape. Open wide, here comes the airplane!"
+  },
+  "Aetherice mouse": {
+    "Name": "Aetherice mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5e+30,
+    "description": "Clicking gains +1% of your CpS.Made from a substance impossible to manufacture, only obtained through natural happenstance; its properties bewilder even the most precise measuring instruments."
+  },
+  "Clone grandmas": {
+    "Name": "Clone grandmas",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 2.7e+28,
+    "description": "Grandmas are twice as efficient. You gain +1% CpS per 18 grandmas.Yet another grandma to replicate even more cookies."
+  },
+  "Accelerated development": {
+    "Name": "Accelerated development",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1.0800000000002799e+32,
+    "description": "Time machines gain +5% CpS per You.You gain +0.1% CpS per time machine.Your clones may grow a little faster than your vanilla human being, but it's still a little silly having to wait so many years for them to reach a usable age. A quick trip in your time machines takes care of that; it doesn't technically age them faster, they're just sent to another point in time for a while where they live out a formative youth."
+  },
+  "Peer review": {
+    "Name": "Peer review",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 1.08000142e+38,
+    "description": "Javascript consoles gain +5% CpS per You.You gain +0.1% CpS per javascript console.Code is only as good as the number of eyes on it, so imagine how flawlessly your systems could operate if you had endless copies of yourself triple-checking everything! Just make sure to teach them proper indenting etiquette."
+  },
+  "Omniplast mouse": {
+    "Name": "Omniplast mouse",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 5e+32,
+    "description": "Clicking gains +1% of your CpS.This mouse is, by virtue of the strange elements that make it up, present in every position in space simultaneously, in a manner; this alleviates its owner from the need to move it around, redirecting all such kinetic power to the intensity of its clicks."
+  },
+  "Wrinkler ambergris": {
+    "Name": "Wrinkler ambergris",
+    "unlock condition": "Standard Unlock Conditions",
+    "base price": 60,
+    "description": "Cookie production multiplier +6%.All upgrades are 1% cheaper.Cost scales with CpS.Occasionally regurgitated by wrinklers.The byproduct of some obscure metabolic process or other, it is as rare and precious as it is pungent.Makes for a great toast spread."
+  }
+}
