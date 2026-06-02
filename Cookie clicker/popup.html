@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      width: 340px;
+      padding: 15px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #1a1a1a;
+      color: #f5f5f5;
+      margin: 0;
+    }
+    h3 {
+      margin-top: 0;
+      color: #dfb24c;
+      text-align: center;
+      border-bottom: 1px solid #333;
+      padding-bottom: 8px;
+    }
+    .form-group {
+      margin-bottom: 12px;
+    }
+    /* --- NEW STYLES FOR THE MODES --- */
+    .mode-selector {
+      display: flex;
+      justify-content: space-around;
+      margin-bottom: 15px;
+      background: #2a2a2a;
+      padding: 10px;
+      border-radius: 4px;
+      border: 1px solid #444;
+    }
+    .mode-option {
+      font-size: 0.85em;
+      cursor: pointer;
+      color: #bbb;
+    }
+    .mode-option input {
+      margin-right: 5px;
+    }
+    /* --- END NEW STYLES --- */
+    label {
+      display: block;
+      font-size: 0.85em;
+      margin-bottom: 4px;
+      color: #bbb;
+    }
+    input, select {
+      width: 100%;
+      padding: 8px;
+      background-color: #2a2a2a;
+      border: 1px solid #444;
+      color: #fff;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    button {
+      width: 100%;
+      background-color: #dfb24c;
+      color: #1a1a1a;
+      border: none;
+      padding: 10px;
+      font-weight: bold;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 1em;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background-color: #ffcc53;
+    }
+    #advice-container {
+      margin-top: 15px;
+      background-color: #111;
+      border: 1px solid #333;
+      border-radius: 4px;
+      padding: 10px;
+      max-height: 250px;
+      overflow-y: auto;
+    }
+    #advice {
+      font-size: 0.9em;
+      line-height: 1.4;
+      white-space: pre-wrap;
+      color: #ddd;
+    }
+    .status {
+      color: #888;
+      font-style: italic;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h3>🍪 AI Master Advisor</h3>
+  
+  <!-- NEW: Mode selection toggle -->
+  <div class="mode-selector">
+    <label class="mode-option">
+      <input type="radio" name="mode" value="suggest" checked> Advice Mode
+    </label>
+    <label class="mode-option">
+      <input type="radio" name="mode" value="auto"> Commander Mode
+    </label>
+  </div>
+
+  <div class="form-group">
+    <label for="goal">Your Focus / Target Goal:</label>
+    <input type="text" id="goal" placeholder="e.g., Rush 1 Quadrillion, Speedrun Ascension, Max CPS">
+  </div>
+
+  <div class="form-group">
+    <label for="strategy">Strategy Profile:</label>
+    <select id="strategy">
+      <option value="aggressive">Aggressive Efficiency (Highest ROI/Math)</option>
+      <option value="passive">Passive / Idle Play (Prioritize offline/long-term upgrades)</option>
+      <option value="ascension">Prestige Prep (Optimize for next legacy run)</option>
+    </select>
+  </div>
+
+  <!-- Re-labeled button to work for both modes -->
+  <button id="analyze">Execute AI Strategy</button>
+
+  <div id="advice-container">
+    <div id="advice" class="status">Click above to analyze your game state...</div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

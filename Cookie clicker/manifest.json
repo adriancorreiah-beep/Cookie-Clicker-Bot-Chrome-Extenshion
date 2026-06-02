@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Cookie AI Master Advisor",
+  "version": "1.0",
+  "description": "AI-powered strategy advisor for Cookie Clicker using local LLMs.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://orteil.dashnet.org/cookieclicker/*",
+    "http://127.0.0.1:1234/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

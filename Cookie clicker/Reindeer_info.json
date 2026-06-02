@@ -1,0 +1,191 @@
+{
+  "__summary": {
+    "topic": "Reindeer",
+    "category": "Reference Summary",
+    "keyFacts": [
+      "Reindeer appear during Christmas season and give cookies when clicked.",
+      "Base reward is one minute of production or 25 cookies, whichever is higher.",
+      "Ho ho ho-flavored frosting doubles reindeer rewards; reindeer rewards are not capped by cookies in bank."
+    ],
+    "reward": "You will get a minute worth of cookie production initially or 25 cookies, whichever is highest (if you have Wrinklers the unwithered production rate will be used for calculation). With the \"Ho ho ho-flavored frosting\" upgrade, you will receive twice as many cookies (two minutes worth of production). The amount dropped is furthermore affected by Golden Cookie effects like Frenzy, Clot, Dragon Harvest, Elder Frenzy, or Cursed Finger. Note that Deer rewards are, in contrast to Golden Cookie rewards, not limited by your current cookies in the bank. Frenzies will multiply the gain by 0.75 and Elder Frenzies by 0.5. Popping a Reindeer during Frenzy + Elder Frenzy yields massive amount of cookies. Popping a Reindeer during Frenzy + Elder Frenzy yields massive amount of cookies. A deer during a Frenzy giving cookies equal to 10 minutes and 30 seconds of regular production (two minutes * (7 * 0.75)) A deer during an Elder Frenzy, also known as Eldeer (itself an Achievement), is one of the highest rewarding effect combos in the game, giving cookies equal to 12 hours and 6 minutes of regular production (two minutes * (666*0.5)). Therefore, it's often advised to \"synchronize\" Golden Cookies and Reindeer during Christmas season, meaning to not click the gc (or wc) until a Reindeer appears or might appear before a potential Elder Frenzy would end. Since the 2.002 update, it is now possible for Elder Frenzies to overlap with Frenzies or Dragon Harvests (or even Building Specials, if the DEoRL heavenly upgrade lets a Golden/Wrath Cookie with each spawn at once), making it possible to ge...",
+    "spawn": "The Reindeer follows Spawning mechanism, and can be approximated by following functions: p ( t ) = { 0 T min > t p ( t - T min ) T max > t T min 0 t T max {\\displaystyle {\\bar {p}}(t)={\\begin{cases}0&T_{\\text{min}}>t\\\\p(t-T_{\\text{min}})&T_{\\text{max}}>t\\geq T_{\\text{min}}\\\\0&t\\geq T_{\\text{max}}\\\\\\end{cases}}} P ( t ) = { 0 T min > t P ( t - T min ) T max > t T min 1 t T max {\\displaystyle {\\bar {P}}(t)={\\begin{cases}0&T_{\\text{min}}>t\\\\P(t-T_{\\text{min}})&T_{\\text{max}}>t\\geq T_{\\text{min}}\\\\1&t\\geq T_{\\text{max}}\\\\\\end{cases}}} P - 1 ( c ) = { ( - T 5 5 ln ( 1 - c ) ) 1 6 + T min 1 - exp ( - 5 T ) c > 0 T max c > 1 - exp ( - 5 T ) {\\displaystyle {\\bar {P}}^{-1}(c)={\\begin{cases}\\left({\\frac {-T^{5}}{5}}\\ln(1-c)\\right)^{\\frac {1}{6}}+T_{\\text{min}}&1-\\exp(-5T)\\geq c>0\\\\T_{\\text{max}}&c>1-\\exp(-5T)\\\\\\end{cases}}} Where p, P and P-1 are probability density function, cumulative density function and inverse cumulative density function respectively. All time units are in seconds. For Reindeer, Tmin=180 seconds and Tmax=360 seconds initially. But there are many factors can alternate Tmin and Tmax. The time can be halved with the \"Reindeer baking grounds\" upgrade. The heavenly upgrade \"Starsnow\" also reduces the time by 5%. See the table below for some common probabilities, assuming 30 FPS: Time between Reindeer Spawns Chance Without upgrade With Starsnow With Reindeer baking grounds With both 0% 180 seconds 171 seconds 90 seconds 85.5 seconds 0.1% 198.3 seconds 188.5 seconds 100.3 seconds 95.3 seconds 1% 206.9 seconds 196.8 seconds 105.1 seconds 100.0 seconds 10% 219.8 secon...",
+    "relatedUpgradeNames": [
+      "Christmas tree biscuits",
+      "Snowflake biscuits",
+      "Snowman biscuits",
+      "Holly biscuits",
+      "Candy cane biscuits",
+      "Bell biscuits",
+      "Present biscuits"
+    ],
+    "relatedAchievementNames": [
+      "Let it snow",
+      "Oh deer",
+      "Sleigh of hand",
+      "Reindeer sleigher",
+      "Eldeer"
+    ],
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "__meta": {
+    "generatedFrom": "C:/Users/Adrian/.codex/attachments/036bcbc7-1d73-4fa9-9cba-508cfe5ec595/pasted-text.txt",
+    "generatedAt": "2026-06-01T00:36:20.298Z",
+    "schema": "Reindeer mechanics plus related upgrades/achievements keyed by name. Metadata keys begin with __."
+  },
+  "Reindeer reward": {
+    "Name": "Reindeer reward",
+    "category": "Reindeer Mechanic",
+    "description": "You will get a minute worth of cookie production initially or 25 cookies, whichever is highest (if you have Wrinklers the unwithered production rate will be used for calculation). With the \"Ho ho ho-flavored frosting\" upgrade, you will receive twice as many cookies (two minutes worth of production). The amount dropped is furthermore affected by Golden Cookie effects like Frenzy, Clot, Dragon Harvest, Elder Frenzy, or Cursed Finger. Note that Deer rewards are, in contrast to Golden Cookie rewards, not limited by your current cookies in the bank. Frenzies will multiply the gain by 0.75 and Elder Frenzies by 0.5. Popping a Reindeer during Frenzy + Elder Frenzy yields massive amount of cookies. Popping a Reindeer during Frenzy + Elder Frenzy yields massive amount of cookies. A deer during a Frenzy giving cookies equal to 10 minutes and 30 seconds of regular production (two minutes * (7 * 0.75)) A deer during an Elder Frenzy, also known as Eldeer (itself an Achievement), is one of the highest rewarding effect combos in the game, giving cookies equal to 12 hours and 6 minutes of regular production (two minutes * (666*0.5)). Therefore, it's often advised to \"synchronize\" Golden Cookies and Reindeer during Christmas season, meaning to not click the gc (or wc) until a Reindeer appears or might appear before a potential Elder Frenzy would end. Since the 2.002 update, it is now possible for Elder Frenzies to overlap with Frenzies or Dragon Harvests (or even Building Specials, if the DEoRL heavenly upgrade lets a Golden/Wrath Cookie with each spawn at once), making it possible to ge...",
+    "source": "Cookie Clicker Wiki Reindeer pasted text",
+    "cleanName": "Reindeer reward"
+  },
+  "Reindeer spawn rates": {
+    "Name": "Reindeer spawn rates",
+    "category": "Reindeer Mechanic",
+    "description": "The Reindeer follows Spawning mechanism, and can be approximated by following functions: p ( t ) = { 0 T min > t p ( t - T min ) T max > t T min 0 t T max {\\displaystyle {\\bar {p}}(t)={\\begin{cases}0&T_{\\text{min}}>t\\\\p(t-T_{\\text{min}})&T_{\\text{max}}>t\\geq T_{\\text{min}}\\\\0&t\\geq T_{\\text{max}}\\\\\\end{cases}}} P ( t ) = { 0 T min > t P ( t - T min ) T max > t T min 1 t T max {\\displaystyle {\\bar {P}}(t)={\\begin{cases}0&T_{\\text{min}}>t\\\\P(t-T_{\\text{min}})&T_{\\text{max}}>t\\geq T_{\\text{min}}\\\\1&t\\geq T_{\\text{max}}\\\\\\end{cases}}} P - 1 ( c ) = { ( - T 5 5 ln ( 1 - c ) ) 1 6 + T min 1 - exp ( - 5 T ) c > 0 T max c > 1 - exp ( - 5 T ) {\\displaystyle {\\bar {P}}^{-1}(c)={\\begin{cases}\\left({\\frac {-T^{5}}{5}}\\ln(1-c)\\right)^{\\frac {1}{6}}+T_{\\text{min}}&1-\\exp(-5T)\\geq c>0\\\\T_{\\text{max}}&c>1-\\exp(-5T)\\\\\\end{cases}}} Where p, P and P-1 are probability density function, cumulative density function and inverse cumulative density function respectively. All time units are in seconds. For Reindeer, Tmin=180 seconds and Tmax=360 seconds initially. But there are many factors can alternate Tmin and Tmax. The time can be halved with the \"Reindeer baking grounds\" upgrade. The heavenly upgrade \"Starsnow\" also reduces the time by 5%. See the table below for some common probabilities, assuming 30 FPS: Time between Reindeer Spawns Chance Without upgrade With Starsnow With Reindeer baking grounds With both 0% 180 seconds 171 seconds 90 seconds 85.5 seconds 0.1% 198.3 seconds 188.5 seconds 100.3 seconds 95.3 seconds 1% 206.9 seconds 196.8 seconds 105.1 seconds 100.0 seconds 10% 219.8 secon...",
+    "source": "Cookie Clicker Wiki Reindeer pasted text",
+    "cleanName": "Reindeer spawn rates"
+  },
+  "Christmas tree biscuits": {
+    "Name": "Christmas tree biscuits",
+    "cleanName": "Christmas tree biscuits",
+    "category": "Upgrade",
+    "subtype": "Reindeer/Christmas",
+    "icon": "Christmas tree biscuits",
+    "unlock condition": "Minimum 20% drop chance from finding a reindeer during Christmas season",
+    "base price": "Money 252.525 billion",
+    "description": "Cookie production multiplier +2%. \"Whose pine is it anyway?\"",
+    "id": 143,
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "Snowflake biscuits": {
+    "Name": "Snowflake biscuits",
+    "cleanName": "Snowflake biscuits",
+    "category": "Upgrade",
+    "subtype": "Reindeer/Christmas",
+    "icon": "Snowflake biscuits",
+    "unlock condition": "Minimum 20% drop chance from finding a reindeer during Christmas season",
+    "base price": "Money 252.525 billion",
+    "description": "Cookie production multiplier +2%. \"Mass-produced to be unique in every way.\"",
+    "id": 144,
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "Snowman biscuits": {
+    "Name": "Snowman biscuits",
+    "cleanName": "Snowman biscuits",
+    "category": "Upgrade",
+    "subtype": "Reindeer/Christmas",
+    "icon": "Snowman biscuits",
+    "unlock condition": "Minimum 20% drop chance from finding a reindeer during Christmas season",
+    "base price": "Money 252.525 billion",
+    "description": "Cookie production multiplier +2%. \"It's frosted. Doubly so.\"",
+    "id": 145,
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "Holly biscuits": {
+    "Name": "Holly biscuits",
+    "cleanName": "Holly biscuits",
+    "category": "Upgrade",
+    "subtype": "Reindeer/Christmas",
+    "icon": "Holly biscuits",
+    "unlock condition": "Minimum 20% drop chance from finding a reindeer during Christmas season",
+    "base price": "Money 252.525 billion",
+    "description": "Cookie production multiplier +2%. \"You don't smooch under these ones. That would be the mistletoe (which, botanically, is a smellier variant of the mistlefinger).\"",
+    "id": 146,
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "Candy cane biscuits": {
+    "Name": "Candy cane biscuits",
+    "cleanName": "Candy cane biscuits",
+    "category": "Upgrade",
+    "subtype": "Reindeer/Christmas",
+    "icon": "Candy cane biscuits",
+    "unlock condition": "Minimum 20% drop chance from finding a reindeer during Christmas season",
+    "base price": "Money 252.525 billion",
+    "description": "Cookie production multiplier +2%. \"It's two treats in one! (Further inspection reveals the frosting does not actually taste like peppermint, but like mundane sugary frosting.)\"",
+    "id": 147,
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "Bell biscuits": {
+    "Name": "Bell biscuits",
+    "cleanName": "Bell biscuits",
+    "category": "Upgrade",
+    "subtype": "Reindeer/Christmas",
+    "icon": "Bell biscuits",
+    "unlock condition": "Minimum 20% drop chance from finding a reindeer during Christmas season",
+    "base price": "Money 252.525 billion",
+    "description": "Cookie production multiplier +2%. \"What do these even have to do with christmas? Who cares, ring them in!\"",
+    "id": 148,
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "Present biscuits": {
+    "Name": "Present biscuits",
+    "cleanName": "Present biscuits",
+    "category": "Upgrade",
+    "subtype": "Reindeer/Christmas",
+    "icon": "Present biscuits",
+    "unlock condition": "Minimum 20% drop chance from finding a reindeer during Christmas season",
+    "base price": "Money 252.525 billion",
+    "description": "Cookie production multiplier +2%. \"The prequel to future biscuits. Watch out!\"",
+    "id": 149,
+    "source": "Cookie Clicker Wiki Reindeer pasted text"
+  },
+  "Let it snow": {
+    "Name": "Let it snow",
+    "cleanName": "Let it snow",
+    "category": "Achievement",
+    "icon": "A festive hat",
+    "description": "Unlock every Christmas-themed cookie. Owning this achievement makes Christmas-themed cookies drop more frequently in future playthroughs.",
+    "id": 111,
+    "source": "Cookie Clicker Wiki Reindeer pasted text",
+    "subtype": "Reindeer/Christmas",
+    "shadow": false,
+    "wikiName": "Let it snow [note 1]"
+  },
+  "Oh deer": {
+    "Name": "Oh deer",
+    "cleanName": "Oh deer",
+    "category": "Achievement",
+    "icon": "Reindeer icon",
+    "description": "Pop 1 reindeer.",
+    "id": 112,
+    "source": "Cookie Clicker Wiki Reindeer pasted text",
+    "subtype": "Reindeer/Christmas",
+    "shadow": false
+  },
+  "Sleigh of hand": {
+    "Name": "Sleigh of hand",
+    "cleanName": "Sleigh of hand",
+    "category": "Achievement",
+    "icon": "Reindeer icon",
+    "description": "Pop 50 reindeer.",
+    "id": 113,
+    "source": "Cookie Clicker Wiki Reindeer pasted text",
+    "subtype": "Reindeer/Christmas",
+    "shadow": false,
+    "wikiName": "Sleigh of hand [note 2]"
+  },
+  "Reindeer sleigher": {
+    "Name": "Reindeer sleigher",
+    "cleanName": "Reindeer sleigher",
+    "category": "Achievement",
+    "icon": "Reindeer icon",
+    "description": "Pop 200 reindeer.",
+    "id": 114,
+    "source": "Cookie Clicker Wiki Reindeer pasted text",
+    "subtype": "Reindeer/Christmas",
+    "shadow": false,
+    "wikiName": "Reindeer sleigher [note 2]"
+  },
+  "Eldeer": {
+    "Name": "Eldeer",
+    "cleanName": "Eldeer",
+    "category": "Achievement",
+    "icon": "Reindeer icon",
+    "description": "Pop a reindeer during an elder frenzy.",
+    "id": 265,
+    "source": "Cookie Clicker Wiki Reindeer pasted text",
+    "subtype": "Reindeer/Christmas",
+    "shadow": false
+  }
+}

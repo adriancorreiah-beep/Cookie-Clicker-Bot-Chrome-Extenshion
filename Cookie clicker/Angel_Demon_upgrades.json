@@ -1,0 +1,12 @@
+{
+  "Angels": {
+    "Name": "Angels",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 7
+  },
+  "Archangels": {
+    "Name": "Archangels",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 49
+  }
+}

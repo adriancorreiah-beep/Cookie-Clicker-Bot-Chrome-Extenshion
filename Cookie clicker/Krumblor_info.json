@@ -1,0 +1,722 @@
+{
+  "__summary": {
+    "topic": "Krumblor",
+    "category": "Reference Summary",
+    "keyFacts": [
+      "Krumblor unlocks after How to bake your dragon and A crumbly egg.",
+      "Sacrificing cookies and buildings trains Krumblor and unlocks selectable dragon auras.",
+      "Switching auras costs one of the highest-tier buildings owned.",
+      "Common high-value aura goals include Radiant Appetite for production, Dragonflight/Dragon Harvest for combos, Dragon's Curve for sugar lumps, and Dragon Guts for wrinklers."
+    ],
+    "intro": "Krumblor the cookie dragon is a widget that was added in v1.9 of the game. By sacrificing cookies and buildings to Krumblor, the player will unlock selectable auras which provide various benefits in the game. An aura can be selected by clicking on the dragon. Switching auras costs one of the highest tier building(s) owned by the player. To unlock Krumblor, the player must purchase the Heavenly Upgrade 'How to bake your dragon', which in turn unlocks the upgrade 'A crumbly egg' in all subsequent playthroughs.",
+    "petting": "After the player purchases the Pet the dragon heavenly upgrade, it is possible to pet Krumblor (by clicking on the Krumblor's icon); this will trigger heart particles. If Krumblor has been leveled up beyond level 8 (after sacrificing 100 farms), every time it is pet there is a 5% chance to drop an upgrade. The choice of dropped upgrade goes as follows: first, the game shuffles the list of available drops (Dragon scale, Dragon claw, Dragon fang, Dragon teddy bear) based on the game seed. Then, if the minute of the current time is between 0 and 14, the first upgrade of the shuffle is available for dropping (so if the 5% test passes, it is that upgrade that is dropped). If the minute is between 15 and 29, the second upgrade may be dropped, and so on. Since the shuffle is based only on the game seed, to get all four drops, it is necessary to pet the dragon every quarter of an hour. Note that the 5% is not affected by upgrades and effects that change random drop rates (like Cosmic Beginn...",
+    "strategy": "MilkBreath-1 If a player is going for the overall highest CPS boosts with auras, a combination of Breath of Milk and Radiant Appetite will produce the largest CPS increase (Note: At a point of around ~12,000 buildings and Grandmatriarchs at max stage, Elder Battalion and Radiant Appetite becomes superior to combination listed above). If a player is going for harvesting as many sugar lumps as possible, they should use a combination of Dragon's Curve and Reality Bending, as it reduces the maturation time and increases unusual lump rate the most. This image shows the multiplier for the Breath of Milk dragon aura, based on the milk percentage and which kitten upgrades are active. The bottom line is the base multiplier, the next lines are the multiplier with Mokalsium, Mother Spirit at 5% or 10%. The lines for each kitten upgrade assume that all previous kitten upgrades are active as well. The base line assumes Santa's milk and cookies has been bought, but the 1.05 milk multiplier of Santa's milk would equal Mokalsium, Mother Spirit at 5%. The overall effect of Dragon Cursor depends on how much the player clicks the Big Cookie, but as a rough estimate, with all upgrades, they will make approximately 1% more cookies at 2 clicks per second, 2% at 4 clicks per second, 3% at 10 clicks per second, 4% at 25 clicks per second, 4.5% at 55 clicks per second, and 4.9% at 300 clicks per second. With optimal building distribution, Elder Battalion will give an overall very early game production increase of about 1%. It can increase total production in the early game by a 5 fold after the...",
+    "upgradeNames": [
+      "How to bake your dragon",
+      "Pet the dragon",
+      "A crumbly egg",
+      "Dragon scale",
+      "Dragon claw",
+      "Dragon fang",
+      "Dragon teddy bear",
+      "Dragon cookie"
+    ],
+    "auraNames": [
+      "Breath of Milk",
+      "Dragon Cursor",
+      "Elder Battalion",
+      "Reaper of Fields",
+      "Earth Shatterer",
+      "Master of the Armory",
+      "Fierce Hoarder",
+      "Dragon God",
+      "Arcane Aura",
+      "Dragonflight",
+      "Ancestral Metamorphosis",
+      "Unholy Dominion",
+      "Epoch Manipulator",
+      "Mind Over Matter",
+      "Radiant Appetite",
+      "Dragon's Fortune",
+      "Dragon's Curve",
+      "Reality Bending",
+      "Dragon Orbs",
+      "Supreme Intellect",
+      "Dragon Guts"
+    ],
+    "trainingSteps": [
+      {
+        "name": "Dragon training - Breath of Milk",
+        "sacrifice": "16 million cookies",
+        "description": "Aura: kittens are 5% more effective"
+      },
+      {
+        "name": "Dragon training - Dragon Cursor",
+        "sacrifice": "100 Cursors",
+        "description": "Aura: clicking is 5% more effective"
+      },
+      {
+        "name": "Dragon training - Elder Battalion",
+        "sacrifice": "100 Grandmas[note 1]",
+        "description": "Aura: grandmas gain +1% CpS for every non-grandma building"
+      },
+      {
+        "name": "Dragon training - Reaper of Fields",
+        "sacrifice": "100 Farms",
+        "description": "Aura: golden cookies may trigger a Dragon Harvest"
+      },
+      {
+        "name": "Dragon training - Earth Shatterer",
+        "sacrifice": "100 Mines",
+        "description": "Aura: buildings sell back for 50% instead of 25%"
+      },
+      {
+        "name": "Dragon training - Master of the Armory",
+        "sacrifice": "100 Factories",
+        "description": "Aura: all upgrades are 2% cheaper"
+      },
+      {
+        "name": "Dragon training - Fierce Hoarder",
+        "sacrifice": "100 Banks",
+        "description": "Aura: all buildings are 2% cheaper"
+      },
+      {
+        "name": "Dragon training - Dragon God",
+        "sacrifice": "100 Temples",
+        "description": "Aura: prestige CpS bonus +5%"
+      },
+      {
+        "name": "Dragon training - Arcane Aura",
+        "sacrifice": "100 Wizard towers",
+        "description": "Aura: golden cookies appear 5% more often"
+      },
+      {
+        "name": "Dragon training - Dragonflight",
+        "sacrifice": "100 Shipments",
+        "description": "Aura: golden cookies may trigger a Dragonflight"
+      },
+      {
+        "name": "Dragon training - Ancestral Metamorphosis",
+        "sacrifice": "100 Alchemy labs",
+        "description": "Aura: golden cookies give 10% more cookies"
+      },
+      {
+        "name": "Dragon training - Unholy Dominion",
+        "sacrifice": "100 Portals",
+        "description": "Aura: wrath cookies give 10% more cookies"
+      },
+      {
+        "name": "Dragon training - Epoch Manipulator",
+        "sacrifice": "100 Time machines",
+        "description": "Aura: golden cookie effects last 5% longer"
+      },
+      {
+        "name": "Dragon training - Mind Over Matter",
+        "sacrifice": "100 Antimatter condensers",
+        "description": "Aura: +25% random drops"
+      },
+      {
+        "name": "Dragon training - Radiant Appetite",
+        "sacrifice": "100 Prisms",
+        "description": "Aura: all cookie production multiplied by 2"
+      },
+      {
+        "name": "Dragon training - Dragon's Fortune",
+        "sacrifice": "100 Chancemakers",
+        "description": "Aura: +123% CpS per golden cookie on-screen"
+      },
+      {
+        "name": "Dragon training - Dragon's Curve",
+        "sacrifice": "100 Fractal engines",
+        "description": "Aura: sugar lumps grow 5% faster, 50% weirder"
+      },
+      {
+        "name": "Dragon training - Reality Bending",
+        "sacrifice": "100 Javascript consoles",
+        "description": "Aura: 10% of every other aura, combined"
+      },
+      {
+        "name": "Dragon training - Dragon Orbs",
+        "sacrifice": "100 Idleverses",
+        "description": "Aura: selling your best building may grant a wish"
+      },
+      {
+        "name": "Dragon training - Supreme Intellect",
+        "sacrifice": "100 Cortex bakers",
+        "description": "Aura: confers various powers to your minigames"
+      },
+      {
+        "name": "Dragon training - Dragon Guts",
+        "sacrifice": "100 You",
+        "description": "Aura: Enhanced wrinklers"
+      },
+      {
+        "name": "Dragon training - Bake dragon cookie",
+        "sacrifice": "50 of every building",
+        "description": "Delicious!"
+      },
+      {
+        "name": "Dragon training - secondary aura",
+        "sacrifice": "200 of every building",
+        "description": "Lets you have two dragon auras simultaneously"
+      }
+    ],
+    "relatedAchievementNames": [
+      "Here be dragon"
+    ],
+    "source": "Cookie Clicker Wiki Krumblor pasted text"
+  },
+  "__meta": {
+    "generatedFrom": "C:/Users/Adrian/.codex/attachments/77960464-4058-4605-8314-8211da6c771c/pasted-text.txt",
+    "generatedAt": "2026-06-01T01:54:57.356Z",
+    "schema": "Krumblor upgrades, dragon auras, training steps, and mechanics keyed by name. Metadata keys begin with __."
+  },
+  "Krumblor overview": {
+    "Name": "Krumblor overview",
+    "category": "Krumblor Mechanic",
+    "description": "Krumblor the cookie dragon is a widget that was added in v1.9 of the game. By sacrificing cookies and buildings to Krumblor, the player will unlock selectable auras which provide various benefits in the game. An aura can be selected by clicking on the dragon. Switching auras costs one of the highest tier building(s) owned by the player. To unlock Krumblor, the player must purchase the Heavenly Upgrade 'How to bake your dragon', which in turn unlocks the upgrade 'A crumbly egg' in all subsequent playthroughs.",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Krumblor overview"
+  },
+  "Petting the dragon": {
+    "Name": "Petting the dragon",
+    "category": "Krumblor Mechanic",
+    "description": "After the player purchases the Pet the dragon heavenly upgrade, it is possible to pet Krumblor (by clicking on the Krumblor's icon); this will trigger heart particles. If Krumblor has been leveled up beyond level 8 (after sacrificing 100 farms), every time it is pet there is a 5% chance to drop an upgrade. The choice of dropped upgrade goes as follows: first, the game shuffles the list of available drops (Dragon scale, Dragon claw, Dragon fang, Dragon teddy bear) based on the game seed. Then, if the minute of the current time is between 0 and 14, the first upgrade of the shuffle is available for dropping (so if the 5% test passes, it is that upgrade that is dropped). If the minute is between 15 and 29, the second upgrade may be dropped, and so on. Since the shuffle is based only on the game seed, to get all four drops, it is necessary to pet the dragon every quarter of an hour. Note that the 5% is not affected by upgrades and effects that change random drop rates (like Cosmic Beginn...",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Petting the dragon"
+  },
+  "Krumblor aura strategy": {
+    "Name": "Krumblor aura strategy",
+    "category": "Krumblor Strategy",
+    "description": "MilkBreath-1 If a player is going for the overall highest CPS boosts with auras, a combination of Breath of Milk and Radiant Appetite will produce the largest CPS increase (Note: At a point of around ~12,000 buildings and Grandmatriarchs at max stage, Elder Battalion and Radiant Appetite becomes superior to combination listed above). If a player is going for harvesting as many sugar lumps as possible, they should use a combination of Dragon's Curve and Reality Bending, as it reduces the maturation time and increases unusual lump rate the most. This image shows the multiplier for the Breath of Milk dragon aura, based on the milk percentage and which kitten upgrades are active. The bottom line is the base multiplier, the next lines are the multiplier with Mokalsium, Mother Spirit at 5% or 10%. The lines for each kitten upgrade assume that all previous kitten upgrades are active as well. The base line assumes Santa's milk and cookies has been bought, but the 1.05 milk multiplier of Santa's milk would equal Mokalsium, Mother Spirit at 5%. The overall effect of Dragon Cursor depends on how much the player clicks the Big Cookie, but as a rough estimate, with all upgrades, they will make approximately 1% more cookies at 2 clicks per second, 2% at 4 clicks per second, 3% at 10 clicks per second, 4% at 25 clicks per second, 4.5% at 55 clicks per second, and 4.9% at 300 clicks per second. With optimal building distribution, Elder Battalion will give an overall very early game production increase of about 1%. It can increase total production in the early game by a 5 fold after the...",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Krumblor aura strategy"
+  },
+  "How to bake your dragon": {
+    "Name": "How to bake your dragon",
+    "cleanName": "How to bake your dragon",
+    "category": "Heavenly Upgrade",
+    "subtype": "Krumblor",
+    "icon": "How to bake your dragon",
+    "unlock condition": "\"Legacy\" purchased",
+    "base price": "MoneyHC 9",
+    "description": "Allows you to purchase a crumbly egg once you have earned 1 million cookies. \"A tome full of helpful tips such as 'oh god, stay away from it', 'why did we buy this thing, it's not even house-broken' and 'groom twice a week in the direction of the scales'.\"",
+    "id": 323,
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "wikiName": "How to bake your dragon (heavenly upgrade)"
+  },
+  "Pet the dragon": {
+    "Name": "Pet the dragon",
+    "cleanName": "Pet the dragon",
+    "category": "Heavenly Upgrade",
+    "subtype": "Krumblor",
+    "icon": "Pet the dragon",
+    "unlock condition": "\"How to bake your dragon\" and \"Residual luck\" purchased",
+    "base price": "MoneyHC 100 billion",
+    "description": "Unlocks the ability to pet your dragon by clicking on it once hatched. \"Dragons do not purr. If your dragon starts purring, vacate the area immediately.\"",
+    "id": 647,
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "wikiName": "Pet the dragon (heavenly upgrade)"
+  },
+  "A crumbly egg": {
+    "Name": "A crumbly egg",
+    "cleanName": "A crumbly egg",
+    "category": "Upgrade",
+    "subtype": "Krumblor",
+    "icon": "Dragon egg",
+    "unlock condition": "1 million cookies earned and \"How to bake your dragon\" purchased",
+    "base price": "Money 25",
+    "description": "Unlocks the cookie dragon egg. \"Thank you for adopting this robust, fun-loving cookie dragon! It will bring you years of joy and entertainment. Keep in a dry and cool place, and away from other house pets. Subscription to home insurance is strongly advised.\"",
+    "id": 324,
+    "source": "Cookie Clicker Wiki Krumblor pasted text"
+  },
+  "Dragon scale": {
+    "Name": "Dragon scale",
+    "cleanName": "Dragon scale",
+    "category": "Upgrade",
+    "subtype": "Krumblor",
+    "icon": "Dragon scale",
+    "unlock condition": "Random drop from petting Krumblor",
+    "base price": "Money 1,800 x CpS (x0.1 if max level dragon)",
+    "description": "Cookie production multiplier +3%. Cost scales with CpS, but 10 times cheaper with a fully-trained dragon. \"Your dragon sheds these regularly, so this one probably won't be missed. Note: icon not to scale.\"",
+    "id": 648,
+    "source": "Cookie Clicker Wiki Krumblor pasted text"
+  },
+  "Dragon claw": {
+    "Name": "Dragon claw",
+    "cleanName": "Dragon claw",
+    "category": "Upgrade",
+    "subtype": "Krumblor",
+    "icon": "Dragon claw",
+    "unlock condition": "Random drop from petting Krumblor",
+    "base price": "Money 1,800 x CpS (x0.1 if max level dragon)",
+    "description": "Clicks are +3% more powerful. Cost scales with CpS, but 10 times cheaper with a fully-trained dragon. \"Will grow back in a few days' time. A six-inch retractable claw, like a razor, from the middle toe. So you know, try to show a little respect.\"",
+    "id": 649,
+    "source": "Cookie Clicker Wiki Krumblor pasted text"
+  },
+  "Dragon fang": {
+    "Name": "Dragon fang",
+    "cleanName": "Dragon fang",
+    "category": "Upgrade",
+    "subtype": "Krumblor",
+    "icon": "Dragon fang",
+    "unlock condition": "Random drop from petting Krumblor",
+    "base price": "Money 1,800 x CpS (x0.1 if max level dragon)",
+    "description": "+3% golden cookie gains. Dragon harvest and Dragonflight are 10% stronger. Cost scales with CpS, but 10 times cheaper with a fully-trained dragon. \"Just a fallen baby tooth your dragon wanted you to have, as a gift. It might be smaller than an adult tooth, but it's still frighteningly sharp - and displays some awe-inspiring cavities, which you might expect from a creature made out of sweets.\"",
+    "id": 650,
+    "source": "Cookie Clicker Wiki Krumblor pasted text"
+  },
+  "Dragon teddy bear": {
+    "Name": "Dragon teddy bear",
+    "cleanName": "Dragon teddy bear",
+    "category": "Upgrade",
+    "subtype": "Krumblor",
+    "icon": "Dragon teddy bear",
+    "unlock condition": "Random drop from petting Krumblor",
+    "base price": "Money 1,800 x CpS (x0.1 if max level dragon)",
+    "description": "+3% random drops. Cost scales with CpS, but 10 times cheaper with a fully-trained dragon. \"Your dragon used to sleep with this. Now it's time for you to have it. Crafted in the likelihood of a fearsome beast. Stuffed with magical herbs picked long ago by a wandering wizard. Woven from elven yarn and a polyester blend.\"",
+    "id": 651,
+    "source": "Cookie Clicker Wiki Krumblor pasted text"
+  },
+  "Dragon cookie": {
+    "Name": "Dragon cookie",
+    "cleanName": "Dragon cookie",
+    "category": "Upgrade",
+    "subtype": "Krumblor",
+    "icon": "Dragon cookie",
+    "unlock condition": "\"Bake dragon cookie\" dragon training completed",
+    "base price": "Money 70 quadrillion",
+    "description": "Cookie production multiplier +5%. \"Imbued with the vigor and vitality of a full-grown cookie dragon, this mystical cookie will embolden your empire for the generations to come.\"",
+    "id": 330,
+    "source": "Cookie Clicker Wiki Krumblor pasted text"
+  },
+  "Breath of Milk": {
+    "Name": "Breath of Milk",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Kittens are 5% more effective.",
+    "auraEffect": "Milk Effect: 1.05x With Reality Bending: 1.055x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Breath of Milk"
+  },
+  "Dragon Cursor": {
+    "Name": "Dragon Cursor",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Clicking is 5% more effective.",
+    "auraEffect": "Clicking Effect: 1.05x With Reality Bending: 1.055x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon Cursor"
+  },
+  "Elder Battalion": {
+    "Name": "Elder Battalion",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Grandmas gain +1% CpS for every non-grandma building.",
+    "auraEffect": "Grandma Multiplier: 1 + ( 0.01 x ( N - G ) ) {\\displaystyle 1+(0.01\\times (N-G))} With Reality Bending: 1 + ( 0.011 x ( N - G ) ) {\\displaystyle 1+(0.011\\times (N-G))}",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Elder Battalion"
+  },
+  "Reaper of Fields": {
+    "Name": "Reaper of Fields",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Golden cookies may trigger a Dragon Harvest.",
+    "auraEffect": "Golden Cookie Effect Pool: 19.25% chance of pooling (5% if grandmapocalypse) With Reality Bending: 19.25% (5% if grandmapocalypse) [note 2]",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Reaper of Fields"
+  },
+  "Earth Shatterer": {
+    "Name": "Earth Shatterer",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Buildings sell back for 50% instead of 25%.",
+    "auraEffect": "Sellback Rate: 50% With Reality Bending: 52.5%",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Earth Shatterer"
+  },
+  "Master of the Armory": {
+    "Name": "Master of the Armory",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "All upgrades are 2% cheaper.",
+    "auraEffect": "Upgrade Discount: 0.98x With Reality Bending: 0.978x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Master of the Armory"
+  },
+  "Fierce Hoarder": {
+    "Name": "Fierce Hoarder",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "All buildings are 2% cheaper.",
+    "auraEffect": "Building Discount: 0.98x With Reality Bending: 0.978x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Fierce Hoarder"
+  },
+  "Dragon God": {
+    "Name": "Dragon God",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Prestige CpS bonus +5%.",
+    "auraEffect": "Prestige Bonus: 1.05x With Reality Bending: 1.055x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon God"
+  },
+  "Arcane Aura": {
+    "Name": "Arcane Aura",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Golden cookies appear +5% more often.",
+    "auraEffect": "Golden Spawn: 1.05x With Reality Bending: 1.055x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Arcane Aura"
+  },
+  "Dragonflight": {
+    "Name": "Dragonflight",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Golden cookies may trigger a Dragonflight.",
+    "auraEffect": "Golden Cookie Effect Pool: 19.25% chance of pooling (5% if grandmapocalypse) With Reality Bending: 19.25% (5% if grandmapocalypse) [note 2]",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragonflight"
+  },
+  "Ancestral Metamorphosis": {
+    "Name": "Ancestral Metamorphosis",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Golden cookies give 10% more cookies.",
+    "auraEffect": "Golden Gain: 1.1x With Reality Bending: 1.11x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Ancestral Metamorphosis"
+  },
+  "Unholy Dominion": {
+    "Name": "Unholy Dominion",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Wrath cookies give 10% more cookies.",
+    "auraEffect": "Wrath Gain: 1.1x With Reality Bending: 1.11x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Unholy Dominion"
+  },
+  "Epoch Manipulator": {
+    "Name": "Epoch Manipulator",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Golden cookies last 5% longer.[note 3]",
+    "auraEffect": "Golden Time: 1.05x With Reality Bending: 1.055x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Epoch Manipulator"
+  },
+  "Mind Over Matter": {
+    "Name": "Mind Over Matter",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Random drops are 25% more common.[note 4]",
+    "auraEffect": "Random Drops: 1.25x With Reality Bending: 1.275x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Mind Over Matter"
+  },
+  "Radiant Appetite": {
+    "Name": "Radiant Appetite",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "All cookie production multiplied by 2.",
+    "auraEffect": "Cookie Production: 2x With Reality Bending: 2.1x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Radiant Appetite"
+  },
+  "Dragon's Fortune": {
+    "Name": "Dragon's Fortune",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "+123% CpS per golden cookie on-screen, multiplicative.[note 5]",
+    "auraEffect": "Golden CpS Bonus: 2.23x With Reality Bending: 2.353x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon's Fortune"
+  },
+  "Dragon's Curve": {
+    "Name": "Dragon's Curve",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "+5% sugar lump growth and sugar lumps are twice as likely to be unusual.",
+    "auraEffect": "Sugar Lump Effects: Aging Multiplier: 1.05x With Reality Bending: 1.055x Type Selection: 1 reroll With Reality Bending: 1 reroll, 10% chance of 2nd reroll",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon's Curve"
+  },
+  "Reality Bending": {
+    "Name": "Reality Bending",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "One tenth of every other dragon aura, combined.",
+    "auraEffect": "Base effects. See other auras for combined effects when equipped alongside Reality Bending. Milk Effect: 1.005x Clicking Effect: 1.005x Grandma Multiplier: 1 + ( 0.001 x ( N - G ) ) {\\displaystyle 1+(0.001x(N-G))} Dragon Harvest pooling: 1.925% (or 0.5%) chance Sellback Rate: 27.5% Upgrade Discount: 0.998x Building Discount: 0.998x Prestige Bonus: 1.005x Golden Spawn: 1.005x Dragonflight pooling: 1.925% (or 0.5%) chance Golden Gain: 1.01x Wrath Gain: 1.01x Golden Time: 1.005x Random Drops: 1.025x Cookie Production: 1.1x Golden CpS Bonus: 1.123x Sugar Lump Effects: 1.005x Aging Multiplier, 10% chance of 1 reroll Wish Chance: 1% Minigame Powers Garden: 0.5% faster. Stock Market: Slightly chaotic. Pantheon: No effect. Grimoire: 1% difference. Wrinkler Effects: 1.02x wrinkler wither rate, 1.02x wrinkler drop rate",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Reality Bending"
+  },
+  "Dragon Orbs": {
+    "Name": "Dragon Orbs",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "With no buffs and no golden cookies on screen, selling your most powerful building has 10% chance to summon one.",
+    "auraEffect": "Wish Chance: 10% With Reality Bending: 11%",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon Orbs"
+  },
+  "Supreme Intellect": {
+    "Name": "Supreme Intellect",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "Confers various powers to your minigames while active.",
+    "auraEffect": "See the bottom of each minigame for more details.[note 6] Garden Garden plants age and mutate 5% faster. With Reality Bending: 5.5% faster. Stock Market The stock market is more chaotic. With Reality Bending: More chaotic. Pantheon The jade slot behaves as a ruby slot and the ruby slot behaves as a diamond slot. With Reality Bending: Base effect. Grimoire Grimoire spells are 10% cheaper but fail 10% more. With Reality Bending: 11% difference.",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Supreme Intellect"
+  },
+  "Dragon Guts": {
+    "Name": "Dragon Guts",
+    "category": "Dragon Aura",
+    "subtype": "Krumblor Aura",
+    "description": "You can attract 2 more wrinklers.",
+    "auraEffect": "Wrinklers digest 20% more cookies. Wrinklers explode into 20% more cookies. Wrinkler Effects: Number of wrinklers: +2 Unaffected by Reality Bending Wrinkler wither rate: 1.2x With Reality Bending: 1.22x Wrinkler drop rate: 1.2x With Reality Bending: 1.22x",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon Guts"
+  },
+  "Dragon training - Breath of Milk": {
+    "Name": "Dragon training - Breath of Milk",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Breath of Milk",
+    "description": "Aura: kittens are 5% more effective",
+    "sacrifice": "16 million cookies",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Breath of Milk"
+  },
+  "Dragon training - Dragon Cursor": {
+    "Name": "Dragon training - Dragon Cursor",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Dragon Cursor",
+    "description": "Aura: clicking is 5% more effective",
+    "sacrifice": "100 Cursors",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Dragon Cursor"
+  },
+  "Dragon training - Elder Battalion": {
+    "Name": "Dragon training - Elder Battalion",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Elder Battalion",
+    "description": "Aura: grandmas gain +1% CpS for every non-grandma building",
+    "sacrifice": "100 Grandmas[note 1]",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Elder Battalion"
+  },
+  "Dragon training - Reaper of Fields": {
+    "Name": "Dragon training - Reaper of Fields",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Reaper of Fields",
+    "description": "Aura: golden cookies may trigger a Dragon Harvest",
+    "sacrifice": "100 Farms",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Reaper of Fields"
+  },
+  "Dragon training - Earth Shatterer": {
+    "Name": "Dragon training - Earth Shatterer",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Earth Shatterer",
+    "description": "Aura: buildings sell back for 50% instead of 25%",
+    "sacrifice": "100 Mines",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Earth Shatterer"
+  },
+  "Dragon training - Master of the Armory": {
+    "Name": "Dragon training - Master of the Armory",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Master of the Armory",
+    "description": "Aura: all upgrades are 2% cheaper",
+    "sacrifice": "100 Factories",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Master of the Armory"
+  },
+  "Dragon training - Fierce Hoarder": {
+    "Name": "Dragon training - Fierce Hoarder",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Fierce Hoarder",
+    "description": "Aura: all buildings are 2% cheaper",
+    "sacrifice": "100 Banks",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Fierce Hoarder"
+  },
+  "Dragon training - Dragon God": {
+    "Name": "Dragon training - Dragon God",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Dragon God",
+    "description": "Aura: prestige CpS bonus +5%",
+    "sacrifice": "100 Temples",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Dragon God"
+  },
+  "Dragon training - Arcane Aura": {
+    "Name": "Dragon training - Arcane Aura",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Arcane Aura",
+    "description": "Aura: golden cookies appear 5% more often",
+    "sacrifice": "100 Wizard towers",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Arcane Aura"
+  },
+  "Dragon training - Dragonflight": {
+    "Name": "Dragon training - Dragonflight",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Dragonflight",
+    "description": "Aura: golden cookies may trigger a Dragonflight",
+    "sacrifice": "100 Shipments",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Dragonflight"
+  },
+  "Dragon training - Ancestral Metamorphosis": {
+    "Name": "Dragon training - Ancestral Metamorphosis",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Ancestral Metamorphosis",
+    "description": "Aura: golden cookies give 10% more cookies",
+    "sacrifice": "100 Alchemy labs",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Ancestral Metamorphosis"
+  },
+  "Dragon training - Unholy Dominion": {
+    "Name": "Dragon training - Unholy Dominion",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Unholy Dominion",
+    "description": "Aura: wrath cookies give 10% more cookies",
+    "sacrifice": "100 Portals",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Unholy Dominion"
+  },
+  "Dragon training - Epoch Manipulator": {
+    "Name": "Dragon training - Epoch Manipulator",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Epoch Manipulator",
+    "description": "Aura: golden cookie effects last 5% longer",
+    "sacrifice": "100 Time machines",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Epoch Manipulator"
+  },
+  "Dragon training - Mind Over Matter": {
+    "Name": "Dragon training - Mind Over Matter",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Mind Over Matter",
+    "description": "Aura: +25% random drops",
+    "sacrifice": "100 Antimatter condensers",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Mind Over Matter"
+  },
+  "Dragon training - Radiant Appetite": {
+    "Name": "Dragon training - Radiant Appetite",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Radiant Appetite",
+    "description": "Aura: all cookie production multiplied by 2",
+    "sacrifice": "100 Prisms",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Radiant Appetite"
+  },
+  "Dragon training - Dragon's Fortune": {
+    "Name": "Dragon training - Dragon's Fortune",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Dragon's Fortune",
+    "description": "Aura: +123% CpS per golden cookie on-screen",
+    "sacrifice": "100 Chancemakers",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Dragon's Fortune"
+  },
+  "Dragon training - Dragon's Curve": {
+    "Name": "Dragon training - Dragon's Curve",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Dragon's Curve",
+    "description": "Aura: sugar lumps grow 5% faster, 50% weirder",
+    "sacrifice": "100 Fractal engines",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Dragon's Curve"
+  },
+  "Dragon training - Reality Bending": {
+    "Name": "Dragon training - Reality Bending",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Reality Bending",
+    "description": "Aura: 10% of every other aura, combined",
+    "sacrifice": "100 Javascript consoles",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Reality Bending"
+  },
+  "Dragon training - Dragon Orbs": {
+    "Name": "Dragon training - Dragon Orbs",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Dragon Orbs",
+    "description": "Aura: selling your best building may grant a wish",
+    "sacrifice": "100 Idleverses",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Dragon Orbs"
+  },
+  "Dragon training - Supreme Intellect": {
+    "Name": "Dragon training - Supreme Intellect",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Supreme Intellect",
+    "description": "Aura: confers various powers to your minigames",
+    "sacrifice": "100 Cortex bakers",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Supreme Intellect"
+  },
+  "Dragon training - Dragon Guts": {
+    "Name": "Dragon training - Dragon Guts",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train Dragon Guts",
+    "description": "Aura: Enhanced wrinklers",
+    "sacrifice": "100 You",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Dragon Guts"
+  },
+  "Dragon training - Bake dragon cookie": {
+    "Name": "Dragon training - Bake dragon cookie",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Bake dragon cookie",
+    "description": "Delicious!",
+    "sacrifice": "50 of every building",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - Bake dragon cookie"
+  },
+  "Dragon training - secondary aura": {
+    "Name": "Dragon training - secondary aura",
+    "category": "Dragon Training Step",
+    "subtype": "Krumblor",
+    "action": "Train secondary aura",
+    "description": "Lets you have two dragon auras simultaneously",
+    "sacrifice": "200 of every building",
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "cleanName": "Dragon training - secondary aura"
+  },
+  "Here be dragon": {
+    "Name": "Here be dragon",
+    "cleanName": "Here be dragon",
+    "category": "Achievement",
+    "icon": "Dragon egg",
+    "description": "Complete your dragon's training.",
+    "id": 222,
+    "source": "Cookie Clicker Wiki Krumblor pasted text",
+    "subtype": "Krumblor"
+  }
+}

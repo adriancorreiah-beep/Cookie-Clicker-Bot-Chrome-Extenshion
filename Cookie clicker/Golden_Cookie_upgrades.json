@@ -1,0 +1,22 @@
+{
+  "Golden cookie alert sound": {
+    "Name": "Golden cookie alert sound",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 999999
+  },
+  "Lucky digit": {
+    "Name": "Lucky digit",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 777
+  },
+  "Lucky number": {
+    "Name": "Lucky number",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 77777
+  },
+  "Lucky payout": {
+    "Name": "Lucky payout",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 77777777
+  }
+}

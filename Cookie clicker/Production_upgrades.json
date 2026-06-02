@@ -1,0 +1,417 @@
+{
+  "Persistent memory": {
+    "Name": "Persistent memory",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 500
+  },
+  "Season switcher": {
+    "Name": "Season switcher",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1111
+  },
+  "Tin of british tea biscuits": {
+    "Name": "Tin of british tea biscuits",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 25
+  },
+  "Box of macarons": {
+    "Name": "Box of macarons",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 25
+  },
+  "Box of brand biscuits": {
+    "Name": "Box of brand biscuits",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 25
+  },
+  "Starspawn": {
+    "Name": "Starspawn",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 111111
+  },
+  "Starsnow": {
+    "Name": "Starsnow",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 111111
+  },
+  "Starterror": {
+    "Name": "Starterror",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 111111
+  },
+  "Starlove": {
+    "Name": "Starlove",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 111111
+  },
+  "Startrade": {
+    "Name": "Startrade",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 111111
+  },
+  "Virtues": {
+    "Name": "Virtues",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 343
+  },
+  "Dominions": {
+    "Name": "Dominions",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 2401
+  },
+  "Cherubim": {
+    "Name": "Cherubim",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 16807
+  },
+  "Seraphim": {
+    "Name": "Seraphim",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 117649
+  },
+  "God": {
+    "Name": "God",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 823543
+  },
+  "Twin Gates of Transcendence": {
+    "Name": "Twin Gates of Transcendence",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1
+  },
+  "Heavenly luck": {
+    "Name": "Heavenly luck",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 77
+  },
+  "Lasting fortune": {
+    "Name": "Lasting fortune",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 777
+  },
+  "Decisive fate": {
+    "Name": "Decisive fate",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 7777
+  },
+  "Divine discount": {
+    "Name": "Divine discount",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 99999
+  },
+  "Divine sales": {
+    "Name": "Divine sales",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 99999
+  },
+  "Divine bakeries": {
+    "Name": "Divine bakeries",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 399999
+  },
+  "Starter kit": {
+    "Name": "Starter kit",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 50
+  },
+  "Starter kitchen": {
+    "Name": "Starter kitchen",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 5000
+  },
+  "Halo gloves": {
+    "Name": "Halo gloves",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 55555
+  },
+  "Kitten angels": {
+    "Name": "Kitten angels",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 9000
+  },
+  "Unholy bait": {
+    "Name": "Unholy bait",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 44444
+  },
+  "Sacrilegious corruption": {
+    "Name": "Sacrilegious corruption",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 444444
+  },
+  "How to bake your dragon": {
+    "Name": "How to bake your dragon",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 9
+  },
+  "Chimera": {
+    "Name": "Chimera",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 40353607
+  },
+  "Tin of butter cookies": {
+    "Name": "Tin of butter cookies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 25
+  },
+  "Golden switch": {
+    "Name": "Golden switch",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 999
+  },
+  "Classic dairy selection": {
+    "Name": "Classic dairy selection",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 9
+  },
+  "Fanciful dairy selection": {
+    "Name": "Fanciful dairy selection",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1000000
+  },
+  "Belphegor": {
+    "Name": "Belphegor",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 7
+  },
+  "Mammon": {
+    "Name": "Mammon",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 49
+  },
+  "Abaddon": {
+    "Name": "Abaddon",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 343
+  },
+  "Satan": {
+    "Name": "Satan",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 2401
+  },
+  "Asmodeus": {
+    "Name": "Asmodeus",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 16807
+  },
+  "Beelzebub": {
+    "Name": "Beelzebub",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 117649
+  },
+  "Lucifer": {
+    "Name": "Lucifer",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 823543
+  },
+  "Basic wallpaper assortment": {
+    "Name": "Basic wallpaper assortment",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 99
+  },
+  "Legacy": {
+    "Name": "Legacy",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1
+  },
+  "Elder spice": {
+    "Name": "Elder spice",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 444444
+  },
+  "Residual luck": {
+    "Name": "Residual luck",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 99999
+  },
+  "Five-finger discount": {
+    "Name": "Five-finger discount",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 555555
+  },
+  "Synergies Vol. I": {
+    "Name": "Synergies Vol. I",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 222222
+  },
+  "Synergies Vol. II": {
+    "Name": "Synergies Vol. II",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 2222222
+  },
+  "Heavenly cookies": {
+    "Name": "Heavenly cookies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 3
+  },
+  "Wrinkly cookies": {
+    "Name": "Wrinkly cookies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 6666666
+  },
+  "Distilled essence of redoubled luck": {
+    "Name": "Distilled essence of redoubled luck",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 7777777
+  },
+  "Stevia Caelestis": {
+    "Name": "Stevia Caelestis",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 100000000
+  },
+  "Diabetica Daemonicus": {
+    "Name": "Diabetica Daemonicus",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 300000000
+  },
+  "Sucralosia Inutilis": {
+    "Name": "Sucralosia Inutilis",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1000000000
+  },
+  "Sugar baking": {
+    "Name": "Sugar baking",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 200000000
+  },
+  "Sugar craving": {
+    "Name": "Sugar craving",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 400000000
+  },
+  "Sugar aging process": {
+    "Name": "Sugar aging process",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 600000000
+  },
+  "Eye of the wrinkler": {
+    "Name": "Eye of the wrinkler",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 99999999
+  },
+  "Inspired checklist": {
+    "Name": "Inspired checklist",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 900000
+  },
+  "Label printer": {
+    "Name": "Label printer",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 5000000
+  },
+  "Heralds": {
+    "Name": "Heralds",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 100
+  },
+  "Keepsakes": {
+    "Name": "Keepsakes",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1111111111
+  },
+  "Sugar crystal cookies": {
+    "Name": "Sugar crystal cookies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1000000000
+  },
+  "Box of maybe cookies": {
+    "Name": "Box of maybe cookies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 333000000000
+  },
+  "Box of not cookies": {
+    "Name": "Box of not cookies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 333000000000
+  },
+  "Box of pastries": {
+    "Name": "Box of pastries",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 333000000000
+  },
+  "Genius accounting": {
+    "Name": "Genius accounting",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 2000000
+  },
+  "Shimmering veil": {
+    "Name": "Shimmering veil",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 999999999
+  },
+  "Cosmic beginner's luck": {
+    "Name": "Cosmic beginner's luck",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 14999999985
+  },
+  "Reinforced membrane": {
+    "Name": "Reinforced membrane",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 14999999985
+  },
+  "Fortune cookies": {
+    "Name": "Fortune cookies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 77777777777
+  },
+  "Kitten wages": {
+    "Name": "Kitten wages",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 9000000000
+  },
+  "Pet the dragon": {
+    "Name": "Pet the dragon",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 99999999999
+  },
+  "Cat ladies": {
+    "Name": "Cat ladies",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 9000000000
+  },
+  "Milkhelp&reg; lactose intolerance relief tablets": {
+    "Name": "Milkhelp&reg; lactose intolerance relief tablets",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 900000000000
+  },
+  "Aura gloves": {
+    "Name": "Aura gloves",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 555555555
+  },
+  "Luminous gloves": {
+    "Name": "Luminous gloves",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 55555555555
+  },
+  "Delicate touch": {
+    "Name": "Delicate touch",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 149999999985
+  },
+  "Steadfast murmur": {
+    "Name": "Steadfast murmur",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 14999999999985
+  },
+  "Glittering edge": {
+    "Name": "Glittering edge",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 1499999999999985
+  },
+  "Distinguished wallpaper assortment": {
+    "Name": "Distinguished wallpaper assortment",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 10000000
+  },
+  "Sound test": {
+    "Name": "Sound test",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 99999999999
+  },
+  "Wrapping paper": {
+    "Name": "Wrapping paper",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 999999
+  }
+}

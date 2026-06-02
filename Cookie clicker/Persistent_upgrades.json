@@ -1,0 +1,27 @@
+{
+  "Permanent upgrade slot I": {
+    "Name": "Permanent upgrade slot I",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 100
+  },
+  "Permanent upgrade slot II": {
+    "Name": "Permanent upgrade slot II",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 20000
+  },
+  "Permanent upgrade slot III": {
+    "Name": "Permanent upgrade slot III",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 3000000
+  },
+  "Permanent upgrade slot IV": {
+    "Name": "Permanent upgrade slot IV",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 400000000
+  },
+  "Permanent upgrade slot V": {
+    "Name": "Permanent upgrade slot V",
+    "Unlock condition": "Standard Unlock Conditions",
+    "Base price": 50000000000
+  }
+}
